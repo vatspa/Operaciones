@@ -1,0 +1,26 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:GEML Groundlayout GND:
+Geo:GEML Groundlayout STANDS:
+Geo:GEML Groundlayout TAXILINES:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:5000
+LEADER:-2
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:301.80000
+TAGFAMILY:SACTA - GND-3
+WINDOWAREA:35.272458:-2.972292:35.285174:-2.941002
+PLUGIN:Ground Radar plugin:AirportElevation:156
+PLUGIN:Ground Radar plugin:AirportRadius:1.2
+PLUGIN:Ground Radar plugin:GroundMode:GEML
+PLUGIN:TopSky plugin:NoDraw:1

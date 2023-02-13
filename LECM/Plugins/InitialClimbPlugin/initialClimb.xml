@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<initialClimb>
+    <apt icao="LEMG">
+		<runway name="13">
+			<sid name="BLN">
+				<alt>090</alt>
+			</sid>
+			<sid name="INKAL">
+				<alt>090</alt>
+			</sid>
+			<sid name="JRZ">
+				<alt>090</alt>
+			</sid>
+			<sid name="NESDA">
+				<alt>090</alt>
+			</sid>
+			<sid name="PEKOP">
+				<alt>090</alt>
+			</sid>
+			<sid name="PEPAS">
+				<alt>090</alt>
+			</sid>
+			<sid name="PIMOS">
+				<alt>090</alt>
+			</sid>
+			<sid name="ROLAS">
+				<alt>090</alt>
+			</sid>
+			<sid name="ROLAS">
+				<alt>090</alt>
+			</sid>
+			<sid name="SVL">
+				<alt>090</alt>
+			</sid>
+			<sid name="ULPEP">
+				<alt>090</alt>
+			</sid>
+			<sid name="VIBAS">
+				<alt>090</alt>
+			</sid>
+		</runway>
+		<runway name="31">
+			<sid name="BLN">
+				<alt>090</alt>
+			</sid>
+			<sid name="INKAL">
+				<alt>090</alt>
+			</sid>
+			<sid name="JRZ">
+				<alt>090</alt>
+			</sid>
+			<sid name="NESDA">
+				<alt>090</alt>
+			</sid>
+			<sid name="PEKOP">
+				<alt>090</alt>
+			</sid>
+			<sid name="PEPAS">
+				<alt>090</alt>
+			</sid>
+			<sid name="PIMOS">
+				<alt>090</alt>
+			</sid>
+			<sid name="ROLAS">
+				<alt>090</alt>
+			</sid>
+			<sid name="ROLAS">
+				<alt>090</alt>
+			</sid>
+			<sid name="SVL">
+				<alt>090</alt>
+			</sid>
+			<sid name="ULPEP">
+				<alt>090</alt>
+			</sid>
+			<sid name="VIBAS">
+				<alt>090</alt>
+			</sid>
+		</runway>
+		<runway name="30">
+			<sid name="BLN">
+				<alt>090</alt>
+			</sid>
+			<sid name="INKAL">
+				<alt>090</alt>
+			</sid>
+			<sid name="JRZ">
+				<alt>090</alt>
+			</sid>
+			<sid name="NESDA">
+				<alt>090</alt>
+			</sid>
+			<sid name="PEKOP">
+				<alt>090</alt>
+			</sid>
+			<sid name="PEPAS">
+				<alt>090</alt>
+			</sid>
+			<sid name="PIMOS">
+				<alt>090</alt>
+			</sid>
+			<sid name="ROLAS">
+				<alt>090</alt>
+			</sid>
+			<sid name="ROLAS">
+				<alt>090</alt>
+			</sid>
+			<sid name="SVL">
+				<alt>090</alt>
+			</sid>
+			<sid name="ULPEP">
+				<alt>090</alt>
+			</sid>
+			<sid name="VIBAS">
+				<alt>090</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="LEMD">
+		<runway name="14R">
+			<sid name="BARDI">
+				<alt>130</alt>
+			</sid>
+			<sid name="CCS">
+				<alt>130</alt>
+			</sid>
+			<sid name="NANDO">
+				<alt>130</alt>
+			</sid>
+			<sid name="PINAR">
+				<alt>130</alt>
+			</sid>
+			<sid name="RBO">
+				<alt>130</alt>
+			</sid>
+			<sid name="SIE">
+				<alt>130</alt>
+			</sid>
+			<sid name="VTB">
+				<alt>130</alt>
+			</sid>
+			<sid name="ZMR">
+				<alt>130</alt>
+			</sid>
+		</runway>
+		<runway name="14L">
+			<sid name="BARDI">
+				<alt>130</alt>
+			</sid>
+			<sid name="CCS">
+				<alt>130</alt>
+			</sid>
+			<sid name="NANDO">
+				<alt>130</alt>
+			</sid>
+			<sid name="PINAR">
+				<alt>130</alt>
+			</sid>
+			<sid name="RBO">
+				<alt>130</alt>
+			</sid>
+			<sid name="SIE">
+				<alt>130</alt>
+			</sid>
+			<sid name="VTB">
+				<alt>130</alt>
+			</sid>
+			<sid name="ZMR">
+				<alt>130</alt>
+			</sid>
+		</runway>
+		<runway name="36R">
+			<sid name="BARDI">
+				<alt>130</alt>
+			</sid>
+			<sid name="CCS">
+				<alt>130</alt>
+			</sid>
+			<sid name="NANDO">
+				<alt>130</alt>
+			</sid>
+			<sid name="PINAR">
+				<alt>130</alt>
+			</sid>
+			<sid name="RBO">
+				<alt>130</alt>
+			</sid>
+			<sid name="SIE">
+				<alt>130</alt>
+			</sid>
+			<sid name="VTB">
+				<alt>130</alt>
+			</sid>
+			<sid name="ZMR">
+				<alt>130</alt>
+			</sid>
+		</runway>
+		<runway name="36L">
+			<sid name="BARDI">
+				<alt>130</alt>
+			</sid>
+			<sid name="CCS">
+				<alt>130</alt>
+			</sid>
+			<sid name="NANDO">
+				<alt>130</alt>
+			</sid>
+			<sid name="PINAR">
+				<alt>130</alt>
+			</sid>
+			<sid name="RBO">
+				<alt>130</alt>
+			</sid>
+			<sid name="SIE">
+				<alt>130</alt>
+			</sid>
+			<sid name="VTB">
+				<alt>130</alt>
+			</sid>
+			<sid name="ZMR">
+				<alt>130</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="LEBB">
+		<runway name="10">
+			<sid name="AMTOS">
+				<alt>080</alt>
+			</sid>
+			<sid name="BISKA">
+				<alt>080</alt>
+			</sid>
+			<sid name="CALCE">
+				<alt>080</alt>
+			</sid>
+			<sid name="DOSUL">
+				<alt>080</alt>
+			</sid>
+			<sid name="MAPAX">
+				<alt>080</alt>
+			</sid>
+			<sid name="PPN">
+				<alt>080</alt>
+			</sid>
+			<sid name="SSN">
+				<alt>080</alt>
+			</sid>
+		</runway>
+		<runway name="12">
+			<sid name="AMTOS">
+				<alt>080</alt>
+			</sid>
+			<sid name="BISKA">
+				<alt>080</alt>
+			</sid>
+			<sid name="CALCE">
+				<alt>080</alt>
+			</sid>
+			<sid name="DOSUL">
+				<alt>080</alt>
+			</sid>
+			<sid name="MAPAX">
+				<alt>080</alt>
+			</sid>
+			<sid name="PPN">
+				<alt>080</alt>
+			</sid>
+			<sid name="SSN">
+				<alt>080</alt>
+			</sid>
+		</runway>
+		<runway name="28">
+			<sid name="AMTOS">
+				<alt>080</alt>
+			</sid>
+			<sid name="BISKA">
+				<alt>080</alt>
+			</sid>
+			<sid name="CALCE">
+				<alt>080</alt>
+			</sid>
+			<sid name="DOSUL">
+				<alt>080</alt>
+			</sid>
+			<sid name="MAPAX">
+				<alt>080</alt>
+			</sid>
+			<sid name="PPN">
+				<alt>080</alt>
+			</sid>
+			<sid name="SSN">
+				<alt>080</alt>
+			</sid>
+		</runway>
+		<runway name="30">
+			<sid name="AMTOS">
+				<alt>080</alt>
+			</sid>
+			<sid name="BISKA">
+				<alt>080</alt>
+			</sid>
+			<sid name="CALCE">
+				<alt>080</alt>
+			</sid>
+			<sid name="DOSUL">
+				<alt>080</alt>
+			</sid>
+			<sid name="MAPAX">
+				<alt>080</alt>
+			</sid>
+			<sid name="PPN">
+				<alt>080</alt>
+			</sid>
+			<sid name="SSN">
+				<alt>080</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="LEST">
+		<runway name="17">
+			<sid name="DEMOS">
+				<alt>100</alt>
+			</sid>
+			<sid name="FORNO">
+				<alt>100</alt>
+			</sid>
+			<sid name="KORAV">
+				<alt>100</alt>
+			</sid>
+			<sid name="MEGAT">
+				<alt>100</alt>
+			</sid>
+			<sid name="ROXER">
+				<alt>100</alt>
+			</sid>
+		</runway>
+		<runway name="35">
+			<sid name="DEMOS">
+				<alt>100</alt>
+			</sid>
+			<sid name="FORNO">
+				<alt>100</alt>
+			</sid>
+			<sid name="KORAV">
+				<alt>100</alt>
+			</sid>
+			<sid name="MEGAT">
+				<alt>100</alt>
+			</sid>
+			<sid name="ROXER">
+				<alt>100</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="LEZL">
+		<runway name="09">
+			<sid name="BUDIT">
+				<alt>080</alt>
+			</sid>
+			<sid name="HIJ">
+				<alt>080</alt>
+			</sid>
+			<sid name="CLANA">
+				<alt>090</alt>
+			</sid>
+			<sid name="JRZ">
+				<alt>090</alt>
+			</sid>
+			<sid name="MAR">
+				<alt>090</alt>
+			</sid>
+			<sid name="ONUBA">
+				<alt>090</alt>
+			</sid>
+			<sid name="SANTA">
+				<alt>080</alt>
+			</sid>
+			<sid name="VJF">
+				<alt>090</alt>
+			</sid>
+			<sid name="VIBAS">
+				<alt>090</alt>
+			</sid>
+		</runway>
+		<runway name="27">
+			<sid name="BUDIT">
+				<alt>080</alt>
+			</sid>
+			<sid name="HIJ">
+				<alt>080</alt>
+			</sid>
+			<sid name="CLANA">
+				<alt>090</alt>
+			</sid>
+			<sid name="SANTA">
+				<alt>080</alt>
+			</sid>
+			<sid name="JRZ">
+				<alt>090</alt>
+			</sid>
+			<sid name="MAR">
+				<alt>090</alt>
+			</sid>
+			<sid name="ONUBA">
+				<alt>090</alt>
+			</sid>
+			<sid name="VJF">
+				<alt>090</alt>
+			</sid>
+			<sid name="VIBAS">
+				<alt>090</alt>
+			</sid>
+		</runway>
+    </apt>
+</initialClimb>

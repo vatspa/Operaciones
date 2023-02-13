@@ -1,0 +1,23 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:LEBL Groundlayout GND SACTA:
+Regions:LEBL Groundlayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:24.00000
+TAGFAMILY:GRplugin
+WINDOWAREA:41.283736:2.052177:41.313036:2.121551
+PLUGIN:Ground Radar plugin:GroundMode:LEBL
+PLUGIN:TopSky plugin:NoDraw:1

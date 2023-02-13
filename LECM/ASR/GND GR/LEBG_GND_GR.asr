@@ -1,0 +1,24 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:LEBG Groundlayout GND:
+Geo:LEBG Groundlayout STANDS:
+Geo:LEBG Groundlayout TAXILINES:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:46.00000
+TAGFAMILY:GRplugin
+WINDOWAREA:42.353133:-3.635916:42.366260:-3.604834
+PLUGIN:Ground Radar plugin:GroundMode:LEBG
+PLUGIN:TopSky plugin:NoDraw:1

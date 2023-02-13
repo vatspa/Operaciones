@@ -1,0 +1,24 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:LEXJ Groundlayout GND:
+Geo:LEXJ Groundlayout STANDS:
+Geo:LEXJ Groundlayout TAXILINES:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:0.00000
+TAGFAMILY:GRplugin
+WINDOWAREA:43.420907:-3.836751:43.434034:-3.805670
+PLUGIN:Ground Radar plugin:GroundMode:LEXJ
+PLUGIN:TopSky plugin:NoDraw:1

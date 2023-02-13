@@ -1,0 +1,2392 @@
+[
+	{
+      "icao": "LEAL",
+      "sids": {
+		 	"ASTRO": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "airways": ["UL150"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UM985"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 305,
+			   "airways": ["UL150"],
+			   "destinations": ["LEMD",
+						"LECU",
+						"LEGT",
+						"LETO",
+						"LEVS"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 345,
+			   "airways": ["UL150"],
+			   "destinations": ["LEBB",
+						"LEBG",
+						"LEPP",
+						"LERJ",
+						"LESO",
+						"LEVT",
+						"LEXJ"]
+            },
+			{
+				"direction": "EVEN",
+				"min_fl": 100,
+				"max_fl": 145,
+				"airways": ["B28"]
+			}
+		],
+		  	"CATON": [
+            {
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UN733"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 305,
+			   "airways": ["UN733"],
+			   "destinations": ["LEMD",
+						"LECU",
+						"LEGT",
+						"LETO",
+						"LEVS"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 345,
+			   "airways": ["UN733"],
+			   "destinations": ["LEBB",
+						"LEBG",
+						"LEPP",
+						"LERJ",
+						"LESO",
+						"LEVT",
+						"LEXJ"]
+            },
+			{
+				"direction": "ODD",
+				"min_fl": 95,
+				"max_fl": 145,
+				"airways": ["A33"]
+			}
+         ],
+		  	"VLC": [
+            {
+               "direction": "EVEN",
+			   "destinations": ["LEVC"]
+            }
+         ],
+		  	"SOPET": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "airways": ["UM985",
+						"UM445"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "airways": ["UN608"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 305,
+			   "airways": ["UM985",
+						"UM445"],
+			   "destinations": ["LEBL",
+						"LEDA",
+						"LEGE",
+						"LERS",
+						"LELL"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 305,
+			   "airways": ["UN608"],
+			   "destinations": ["LEBL",
+						"LEDA",
+						"LEGE",
+						"LERS",
+						"LELL"]
+			},
+			{
+				"direction": "EVEN",
+				"min_fl": 95,
+				"max_fl": 145,
+				"airways": ["B28"]
+			}
+         ],
+		  	"MITOS": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "airways": ["UN851"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "airways": ["UN608"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 165,
+			   "airways": ["UN851"],
+			   "destinations": ["LEIB"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 245,
+			   "airways": ["UN851"],
+			   "destinations": ["LEMH",
+						"LEPA",
+						"LESB",
+						"LESJ",
+						"LESL"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["B46"]
+            }
+         ],
+		  	"MAGAL": [
+            {
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UL150",
+						"UP34"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 85,
+			   "max_fl": 145,
+			   "airways": ["A34",
+						"A31"]
+            }
+         ],
+		  	"RESTU": [
+            {
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UN851",
+						"UN860"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["B46",
+						"G850"]
+            }
+         ],
+		  	"YES": [
+            {
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UM985"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "airways": ["UN747"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["B28",
+						"R47"]
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEBL",
+      "sids": {
+			"DALIN": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "airways": ["UN870",
+					"UL16"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 305,
+			   "destinations": ["LFMP",
+					"LFMU",
+					"LFMT",
+					"LFTW",
+					"LFMI",
+					"LFML",
+					"LFTH",
+					"LFMN",
+					"LFLU",
+					"LFLS",
+					"LFLB",
+					"LFLL",
+					"LFXA",
+					"LFMH",
+					"LFLN",
+					"LFLV",
+					"LFLC",
+					"LFKB",
+					"LFKC",
+					"LFKJ",
+					"LFKF",
+					"LFKS"],
+			   "airways": ["UN870",
+					"UL16"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 345,
+			   "destinations": ["LFSB",
+					"LFST",
+					"LSZ",
+					"LSM",
+					"EDDS",
+					"EDNY",
+					"LFLC"],
+			   "airways": ["UN870",
+					"UL16"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 100,
+			   "max_fl": 145,
+			   "airways": ["A67",
+					"H870"]
+            }
+		],
+			"AGENA": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 305,
+			   "destinations": ["LIRP",
+					"LIML",
+					"LIMC",
+					"LIMN",
+					"LIMZ",
+					"LIMF",
+					"LIMJ",
+					"LIMS"],
+			   "airways": ["UM985"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 345,
+			   "destinations": ["LSER", 
+					"LSEZ",
+					"LSGB",
+					"LSGC",
+					"LSGE",
+					"LSGK",
+					"LSGN",
+					"LSGR",
+					"LSGS",
+					"LSGT",
+					"LSGY",
+					"LSEA",
+					"LSEC",
+					"LSEG",
+					"LSMP",
+					"LSTB",
+					"LSTO",
+					"LSTR",
+					"LSTS",
+					"LSTZ",
+					"LSGG",
+					"LSGL",
+					"LSGP",
+					"LFLI",
+					"LFHN",
+					"LIME",
+					"LIMP",
+					"LIPE",
+					"LIPX",
+					"LIQS",
+					"LIRQ",
+					"LSZA",
+					"LSZL",
+					"LSZS"],
+			   "airways": ["UM985"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "airways": ["UM985"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 100,
+			   "max_fl": 145,
+			   "airways": ["G25"]
+            }
+         ],
+			"VERSO": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 305,
+			   "destinations": ["LFKB",
+					"LFKC",
+					"LFKJ",
+					"LFKF",
+					"LFKS"],
+				"airways": ["UM24"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "airways": ["UM24"]
+            }
+         ],
+		 	"DUNES": [
+            {
+				"direction": "ODD",
+				"min_fl": 95,
+				"max_fl": 145,
+				"destinations": ["LEMH",
+					"LESL"],
+				"airways": ["H70"]
+            },
+			{
+				"direction": "ODD",
+				"min_fl": 145,
+				"max_fl": 195,
+				"destinations": ["LEMH",
+					"LESL"],
+				"airways": ["Q700"]
+			}
+         ],
+			"LARPA": [
+            {
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "destinations": ["LEPA",
+					"LESB",
+					"LEIB"],
+			   "airways": ["B31"]
+  		    },
+			{
+				"direction": "ODD",
+				"min_fl": 145,
+				"max_fl": 195,
+				"destinations": ["LEPA",
+					"LESB",
+					"LEIB"],
+				"airways": ["UN859"]
+			},
+			{
+				"direction": "ODD",
+				"min_fl": 145,
+				"airways": ["UN859"]
+			}
+         ],
+		 	"LOTOS": [
+            {
+               "direction": "ODD",
+				"min_fl": 145,
+				"airways": ["UM985"]
+            },
+			{
+               "direction": "ODD",
+				"min_fl": 145,
+				"max_fl": 285,
+				"airways": ["UM985"],
+				"destinations": ["LEVC"]
+            },
+			{
+               "direction": "ODD",
+				"min_fl": 145,
+				"max_fl": 305,
+				"destinations": ["LEAL",
+						"LELC",
+						"LEAB",
+						"LEMI"],
+				"airways": ["UM985"]
+            },
+			{
+               "direction": "ODD",
+				"min_fl": 95,
+				"max_fl": 145,
+				"airways": ["B28"]
+            }
+         ],
+		  	"SENIA": [
+            {
+				"direction": "ODD",
+				"min_fl": 145,
+				"airways": ["UZ596"]
+            },
+			{
+				"direction": "ODD",
+				"min_fl": 145,
+				"max_fl": 295,
+				"airways": ["UZ596"],
+				 "destinations": ["LECU",
+					"LEGT",
+					"LEMD",
+					"LETO",
+					"LEVS"]
+			}
+         ],
+		  	"VLA": [
+            {
+               "direction": "ANY",
+			   "min_fl": 60,
+			   "max_fl": 195,
+			   "destinations": ["LERS"]
+            }
+         ],
+		  	"LOBAR": [
+            {
+               "direction": "ODD",
+			   "min_fl": 195,
+			   "max_fl": 295,
+			   "destinations": ["LEBB",
+					"LEBG",
+					"LEPP",
+					"LERJ",
+					"LESO",
+					"LEVT",
+					"LEXJ"],
+			   "airways": ["UN725"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 195,
+			   "max_fl": 335,
+			   "destinations": ["LEAS",
+					"LEVD",
+					"LELN",
+					"LPPR",
+					"LECO",
+					"LEST",
+					"LEVX"],
+			   "airways": ["UN725"]
+            },
+			{
+               "direction": "ANY",
+			   "min_fl": 150,
+			   "destinations": ["LEZG"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 195,
+			   "airways": ["UN725"]
+            }
+         ],
+		  	"GRAUS": [
+            {
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 295,
+			   "destinations": ["LEBB",
+					"LEBG",
+					"LEPP",
+					"LERJ",
+					"LESO",
+					"LEVT",
+					"LEXJ"],
+			   "airways": ["UM601"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 335,
+			   "destinations": ["LEAS",
+					"LEVD",
+					"LELN",
+					"LPPR",
+					"LECO",
+					"LEST",
+					"LEVX"],
+			   "airways": ["UM601"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UM601"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 105,
+			   "max_fl": 145,
+			   "airways": ["G23"]
+            }
+         ],
+		  	"MOPAS": [
+            {
+               "direction": "EVEN"
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 140,
+			   "max_fl": 195,
+			   "airways": ["A29"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 365,
+			   "airways": ["UN863"],
+			   "destinations": ["LFAI",
+					"LFPM",
+					"LFPN",
+					"LFPO",
+					"LFPV",
+					"EDDF",
+					"EDDF",
+					"EDDG",
+					"EDDL",
+					"EDFM",
+					"EDLP",
+					"EDLV",
+					"EDLW",
+					"EH",
+					"EGSS",
+					"EGGW",
+					"EGSC"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 500,
+			   "airways": ["UN863"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 345,
+			   "airways": ["UN863"],
+			   "destinations": ["EGFF",
+					"EGFH",
+					"EGGD",
+					"EGSY",
+					"EGHL",
+					"EGLF",
+					"EGLK",
+					"EGTD",
+					"EGTF",
+					"EGVO",
+					"EGKB",
+					"EGKK",
+					"EGLC",
+					"EGLL",
+					"EGMC",
+					"EGTO",
+					"EGWU",
+					"EB",
+					"EDFH",
+					"EDDR",
+					"EDLN",
+					"EDRT",
+					"EDRZ",
+					"EHBK",
+					"ELLX",
+					"ETAD",
+					"ETAR",
+					"ETSB",
+					"LFJL",
+					"LF",
+					"LSZ",
+					"LSM",
+					"EDDS",
+					"EDNY",
+					"LSER", 
+					"LSEZ",
+					"LSGB",
+					"LSGC",
+					"LSGE",
+					"LSGK",
+					"LSGN",
+					"LSGR",
+					"LSGS",
+					"LSGT",
+					"LSGY",
+					"LSEA",
+					"LSEC",
+					"LSEG",
+					"LSTB",
+					"LSTO",
+					"LSTR",
+					"LSTS",
+					"LSTZ",
+					"LSGG",
+					"LSGL",
+					"LSGP",
+					"LFLI",
+					"LFHN"]
+			}
+         ],
+		  	"NATPI": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 365,
+			   "destinations": ["LFAI",
+					"LFPM",
+					"LFPN",
+					"LFPO",
+					"LFPV",
+					"EDDF",
+					"EDDF",
+					"EDDG",
+					"EDDL",
+					"EDFM",
+					"EDLP",
+					"EDLV",
+					"EDLW",
+					"EH",
+					"EGSS",
+					"EGGW",
+					"EGSC"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 365,
+			   "airways": ["UT210"],
+			   "destinations": ["LFAI",
+					"LFPM",
+					"LFPN",
+					"LFPO",
+					"LFPV",
+					"EDDF",
+					"EDDF",
+					"EDDG",
+					"EDDL",
+					"EDFM",
+					"EDLP",
+					"EDLV",
+					"EDLW",
+					"EH",
+					"EGSS",
+					"EGGW",
+					"EGSC"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 500
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 500,
+			   "airways": ["UT210"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 345,
+			   "destinations": ["EGFF",
+					"EGFH",
+					"EGGD",
+					"EGSY",
+					"EGHL",
+					"EGLF",
+					"EGLK",
+					"EGTD",
+					"EGTF",
+					"EGVO",
+					"EGKB",
+					"EGKK",
+					"EGLC",
+					"EGLL",
+					"EGMC",
+					"EGTO",
+					"EGWU",
+					"EB",
+					"EDFH",
+					"EDDR",
+					"EDLN",
+					"EDRT",
+					"EDRZ",
+					"EHBK",
+					"ELLX",
+					"ETAD",
+					"ETAR",
+					"ETSB",
+					"LFJL",
+					"LF",
+					"LSZ",
+					"LSM",
+					"EDDS",
+					"EDNY",
+					"LSER", 
+					"LSEZ",
+					"LSGB",
+					"LSGC",
+					"LSGE",
+					"LSGK",
+					"LSGN",
+					"LSGR",
+					"LSGS",
+					"LSGT",
+					"LSGY",
+					"LSEA",
+					"LSEC",
+					"LSEG",
+					"LSTB",
+					"LSTO",
+					"LSTR",
+					"LSTS",
+					"LSTZ",
+					"LSGG",
+					"LSGL",
+					"LSGP",
+					"LFLI",
+					"LFHN"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 345,
+			   "airways": ["UT210"],
+			   "destinations": ["EGFF",
+					"EGFH",
+					"EGGD",
+					"EGSY",
+					"EGHL",
+					"EGLF",
+					"EGLK",
+					"EGTD",
+					"EGTF",
+					"EGVO",
+					"EGKB",
+					"EGKK",
+					"EGLC",
+					"EGLL",
+					"EGMC",
+					"EGTO",
+					"EGWU",
+					"EB",
+					"EDFH",
+					"EDDR",
+					"EDLN",
+					"EDRT",
+					"EDRZ",
+					"EHBK",
+					"ELLX",
+					"ETAD",
+					"ETAR",
+					"ETSB",
+					"LFJL",
+					"LF",
+					"LSZ",
+					"LSM",
+					"EDDS",
+					"EDNY",
+					"LSER", 
+					"LSEZ",
+					"LSGB",
+					"LSGC",
+					"LSGE",
+					"LSGK",
+					"LSGN",
+					"LSGR",
+					"LSGS",
+					"LSGT",
+					"LSGY",
+					"LSEA",
+					"LSEC",
+					"LSEG",
+					"LSTB",
+					"LSTO",
+					"LSTR",
+					"LSTS",
+					"LSTZ",
+					"LSGG",
+					"LSGL",
+					"LSGP",
+					"LFLI",
+					"LFHN"]
+			}
+         ],
+		  	"OKABI": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 365,
+			   "destinations": ["LFAI",
+					"LFPM",
+					"LFPN",
+					"LFPO",
+					"LFPV",
+					"EDDF",
+					"EDDF",
+					"EDDG",
+					"EDDL",
+					"EDFM",
+					"EDLP",
+					"EDLV",
+					"EDLW",
+					"EH",
+					"EGSS",
+					"EGGW",
+					"EGSC"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 365,
+			   "airways": ["UN861"],
+			   "destinations": ["LFAI",
+					"LFPM",
+					"LFPN",
+					"LFPO",
+					"LFPV",
+					"EDDF",
+					"EDDF",
+					"EDDG",
+					"EDDL",
+					"EDFM",
+					"EDLP",
+					"EDLV",
+					"EDLW",
+					"EH",
+					"EGSS",
+					"EGGW",
+					"EGSC"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 500
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 500,
+			   "airways": ["UN861"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 345,
+			   "destinations": ["EGFF",
+					"EGFH",
+					"EGGD",
+					"EGSY",
+					"EGHL",
+					"EGLF",
+					"EGLK",
+					"EGTD",
+					"EGTF",
+					"EGVO",
+					"EGKB",
+					"EGKK",
+					"EGLC",
+					"EGLL",
+					"EGMC",
+					"EGTO",
+					"EGWU",
+					"EB",
+					"EDFH",
+					"EDDR",
+					"EDLN",
+					"EDRT",
+					"EDRZ",
+					"EHBK",
+					"ELLX",
+					"ETAD",
+					"ETAR",
+					"ETSB",
+					"LFJL",
+					"LF",
+					"LSZ",
+					"LSM",
+					"EDDS",
+					"EDNY",
+					"LSER", 
+					"LSEZ",
+					"LSGB",
+					"LSGC",
+					"LSGE",
+					"LSGK",
+					"LSGN",
+					"LSGR",
+					"LSGS",
+					"LSGT",
+					"LSGY",
+					"LSEA",
+					"LSEC",
+					"LSEG",
+					"LSTB",
+					"LSTO",
+					"LSTR",
+					"LSTS",
+					"LSTZ",
+					"LSGG",
+					"LSGL",
+					"LSGP",
+					"LFLI",
+					"LFHN"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 345,
+			   "airways": ["UN861"],
+			   "destinations": ["EGFF",
+					"EGFH",
+					"EGGD",
+					"EGSY",
+					"EGHL",
+					"EGLF",
+					"EGLK",
+					"EGTD",
+					"EGTF",
+					"EGVO",
+					"EGKB",
+					"EGKK",
+					"EGLC",
+					"EGLL",
+					"EGMC",
+					"EGTO",
+					"EGWU",
+					"EB",
+					"EDFH",
+					"EDDR",
+					"EDLN",
+					"EDRT",
+					"EDRZ",
+					"EHBK",
+					"ELLX",
+					"ETAD",
+					"ETAR",
+					"ETSB",
+					"LFJL",
+					"LF",
+					"LSZ",
+					"LSM",
+					"EDDS",
+					"EDNY",
+					"LSER", 
+					"LSEZ",
+					"LSGB",
+					"LSGC",
+					"LSGE",
+					"LSGK",
+					"LSGN",
+					"LSGR",
+					"LSGS",
+					"LSGT",
+					"LSGY",
+					"LSEA",
+					"LSEC",
+					"LSEG",
+					"LSTB",
+					"LSTO",
+					"LSTR",
+					"LSTS",
+					"LSTZ",
+					"LSGG",
+					"LSGL",
+					"LSGP",
+					"LFLI",
+					"LFHN"]
+			}
+         ],
+		  	"CLE": [
+            {
+               "direction": "ANY",
+			   "min_fl": 60,
+			   "max_fl": 195,
+			   "destinations": ["LEGE"]
+			}
+         ]
+      }
+   },
+   {
+      "icao": "LECH",
+      "sids": {
+		 	"NAVAR": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+		  	"MATEX": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+		  	"TATOS": [
+            {
+               "direction": "ANY"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEDA",
+      "sids": {
+		 	"BARBO": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 365,
+			   "airways": ["UN608"],
+			   "destinations": ["LFAI",
+					"LFPM",
+					"LFPN",
+					"LFPO",
+					"LFPV",
+					"EDDF",
+					"EDDF",
+					"EDDG",
+					"EDDL",
+					"EDFM",
+					"EDLP",
+					"EDLV",
+					"EDLW",
+					"EH",
+					"EGSS",
+					"EGGW",
+					"EGSC"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 500,
+			   "airways": ["UN608"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 345,
+			   "airways": ["UN608"],
+			   "destinations": ["EGFF",
+					"EGFH",
+					"EGGD",
+					"EGSY",
+					"EGHL",
+					"EGLF",
+					"EGLK",
+					"EGTD",
+					"EGTF",
+					"EGVO",
+					"EGKB",
+					"EGKK",
+					"EGLC",
+					"EGLL",
+					"EGMC",
+					"EGTO",
+					"EGWU",
+					"EB",
+					"EDFH",
+					"EDDR",
+					"EDLN",
+					"EDRT",
+					"EDRZ",
+					"EHBK",
+					"ELLX",
+					"ETAD",
+					"ETAR",
+					"ETSB",
+					"LFJL",
+					"LF",
+					"LSZ",
+					"LSM",
+					"EDDS",
+					"EDNY",
+					"LSER", 
+					"LSEZ",
+					"LSGB",
+					"LSGC",
+					"LSGE",
+					"LSGK",
+					"LSGN",
+					"LSGR",
+					"LSGS",
+					"LSGT",
+					"LSGY",
+					"LSEA",
+					"LSEC",
+					"LSEG",
+					"LSTB",
+					"LSTO",
+					"LSTR",
+					"LSTS",
+					"LSTZ",
+					"LSGG",
+					"LSGL",
+					"LSGP",
+					"LFLI",
+					"LFHN"]
+			}
+         ],
+		  	"REBUL": [
+            {
+               "direction": "EVEN"
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 305,
+			   "airways": ["UL110"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 195,
+			   "destinations": ["LEBL","LEGE","LELL","LERS"]
+			}
+         ],
+		  	"OSVAK": [
+            {
+               "direction": "ODD"
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 195,
+			   "destinations": ["LEBL","LEGE","LELL","LERS"]
+			},
+			{
+               "direction": "ODD",
+				"min_fl": 145,
+				"max_fl": 285,
+				"destinations": ["LEVC"],
+				"airways": ["UL110"]
+            },
+			{
+               "direction": "ODD",
+				"min_fl": 145,
+				"max_fl": 305,
+				"destinations": ["LEAL",
+						"LELC",
+						"LEAB",
+						"LEMI"],
+				"airways": ["UL110"]
+            },
+			{
+               "direction": "ODD",
+				"min_fl": 145,
+				"airways": ["UL110"]
+            },
+			{
+               "direction": "ODD",
+				"min_fl": 75,
+				"max_fl": 145,
+				"airways": ["H110"]
+            }
+         ],
+		  	"ALOSU": [
+            {
+               "direction": "ODD"
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 105,
+			   "max_fl": 195,
+			   "destinations": ["LEBL","LEGE","LELL","LERS"]
+			},
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 295,
+			   "destinations": ["LEBB",
+					"LEBG",
+					"LEPP",
+					"LERJ",
+					"LESO",
+					"LEVT",
+					"LEXJ"],
+			   "airways": ["UM601"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 335,
+			   "destinations": ["LEAS",
+					"LEVD",
+					"LELN",
+					"LPPR",
+					"LECO",
+					"LEST",
+					"LEVX"],
+			   "airways": ["UM601"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UM601"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 105,
+			   "max_fl": 145,
+			   "airways": ["G23"]
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEGE",
+      "sids": {
+		 	"GEANT": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 500,
+			   "airways": ["UN727"]
+            }
+         ],
+		  	"MAMUK": [
+            {
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 305,
+			   "airways": ["UL110"]
+            }
+         ],
+		  	"BGR": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["H110"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["A27"],
+			"destinations": ["LFMP"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["A27"],
+			   "destinations": ["LEPA"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["A67"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 305,
+			   "airways": ["UN855"],
+			   "destinations": ["LEIB",
+					"LEPA",
+					"LESB"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UN855"]
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEIB",
+      "sids": {
+		 	"MHN": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 365,
+			   "airways": ["UN853"],
+			   "destinations": ["LS",
+					"LFSB",
+					"EDNY"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "airways": ["UN853"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["B16"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "airways": ["UM603"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "airways": ["UN851"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 115,
+			   "max_fl": 145,
+			   "airways": ["A33"]
+            }
+			
+         ],
+		  	"KABRE": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 245,
+			   "max_fl": 365,
+			   "destinations": ["LS",
+					"LFSB",
+					"EDNY"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 245
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 60,
+			   "max_fl": 245,
+			   "destinations": ["LEMH",
+					"LESL"]
+            }
+         ],
+		  	"LAMPA": [
+            {
+               "direction": "ANY",
+			   "min_fl": 60,
+			   "max_fl": 115,
+			   "destinations": ["LEPA",
+					"LESB"]
+            }
+         ],
+		  	"INSUB": [
+            {
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["G30"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UN856"]
+            }
+         ],
+		 	"BAVER": [
+            {
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 175,
+			   "airways": ["UM603"],
+			   "destinations": ["LEAL"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 245,
+			   "airways": ["UM603"],
+			   "destinations": ["LELC",
+					"LEMI"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UM603"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["R59"]
+            }
+         ],
+		 	"XOSTA": [
+            {
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 315,
+			   "airways": ["UM134"],
+			   "destinations": ["LECU",
+					"LEGT",
+					"LEMD",
+					"LETO",
+					"LEVS"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 175,
+			   "airways": ["UM134"],
+			   "destinations": ["LEVC"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UM134"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["G30"]
+            }
+		],
+		 	"EPAMA": [
+            {
+               "direction": "EVEN",
+				"min_fl": 145,
+				"max_fl": 345,
+				"airways": ["UN856"],
+				"destinations": ["LFBA",
+					"LFBP",
+					"LFBT",
+					"LFBF",
+					"LFBO",
+					"LFBR",
+					"LFCI",
+					"LFCK",
+					"LFCL",
+					"LFCQ",
+					"LFCX",
+					"LFDB",
+					"LFDG",
+					"LFDJ",
+					"LFIR",
+					"LFIT",
+					"LFMG",
+					"LFMK",
+					"LFMW"]
+            },
+			{
+               "direction": "EVEN",
+				"min_fl": 145,
+				"max_fl": 245,
+				"airways": ["UN856"],
+				"destinations": ["LEBL",
+					"LELL",
+					"LERS",
+					"LEDA",
+					"LEZG"]
+            },
+			{
+               "direction": "EVEN",
+				"min_fl": 145,
+				"max_fl": 305,
+				"airways": ["UN856"],
+				"destinations": ["LEGE"]
+            },
+			{
+               "direction": "EVEN",
+				"min_fl": 145,
+				"airways": ["UN856"]
+            },
+			{
+               "direction": "EVEN",
+				"min_fl": 95,
+				"max_fl": 145,
+				"airways": ["A293"]
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LELC",
+      "sids": {
+		 	"ALT": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+		  	"VSJ": [
+            {
+               "direction": "ANY"
+            }
+         ],
+		  	"PALOS": [
+            {
+               "direction": "ODD"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEMH",
+      "sids": {
+		 	"LUNIK": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 195,
+			   "airways": ["Q255"],
+			   "destinations": ["LEBL",
+					"LEDA",
+					"LERS",
+					"LELL"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 100,
+			   "max_fl": 145,
+			   "airways": ["A25"],
+			   "destinations": ["LEBL",
+					"LEDA",
+					"LERS",
+					"LELL"]
+			}
+         ],
+		  	"SARGO": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 345,
+			   "airways": ["UL16"],
+			   "destinations": ["LFBO",
+					"LFMK",
+					"LFBP",
+					"LFBT",
+					"LFTH",
+					"LFBA","LFBP","LFBT",
+					"LFCN",
+					"LFDH",
+					"LFBF","LFBR",
+					"LFCI","LFCK","LFCL","LFCQ",
+					"LFDG","LFDJ",
+					"LFIR","LFIT",
+					"LFMG","LFMK","LFMW"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "airways": ["UL16"],
+			   "destinations": ["LFMP",
+					"LFBM",
+					"LFBZ",
+					"LFMU",
+					"LFMT",
+					"LFTW",
+					"LFMI",
+					"LFML",
+					"LFTH"]
+            }
+         ],
+		  	"MEROS": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 345,
+			   "airways": ["UN853"],
+			   "destinations": ["LIRP",
+					"LIMA",
+					"LIMB",
+					"LIMC",
+					"LIMF",
+					"LIMG",
+					"LIMJ",
+					"LIML",
+					"LIMN",
+					"LIMS",
+					"LIMW",
+					"LIMZ",
+					"LSZA",
+					"LSZL",
+					"LSZS"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 365,
+			   "airways": ["UN853"],
+			   "destinations": ["LS",
+					"LFSB",
+					"EDNY"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "airways": ["UN853"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["B16"]
+            }
+         ],
+		  	"ISTER": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 500,
+			   "airways": ["UN851"]
+            }
+         ],
+		 	"MORSS": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 500,
+			   "airways": ["UM603"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 115,
+			   "max_fl": 195,
+			   "airways": ["M603"]
+            }
+         ],
+		 	"MAMEB": [
+            {
+               "direction": "ANY",
+			   "max_fl": 135,
+			   "destinations": ["LEPA"]
+            }
+         ],
+		 	"NEVIC": [
+            {
+               "direction": "ANY",
+			   "min_fl": 60,
+			   "max_fl": 245,
+			   "destinations": ["LEIB"]
+            }
+         ],
+		 	"MJV": [
+            {
+			   "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 345,
+			   "airways": ["UN863"],
+			   "destinations":["LFBD",
+					"LFBA",
+					"LFBP", 
+					"LFBT",
+					"LFBF",
+					"LFBO", 
+					"LFBR",
+					"LFCI",
+					"LFCK",
+					"LFCL",
+					"LFCQ",
+					"LFCX",
+					"LFDB",
+					"LFDG",
+					"LFDJ",
+					"LFIR",
+					"LFIT",
+					"LFMG",
+					"LFMK",
+					"LFMW"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 245,
+			   "airways": ["UN863"],
+			   "destinations": ["LEZG",
+					"LEDA",
+					"LEGE"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "airways": ["UN863"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["A29"]
+            }
+         ],
+		 	"EDULI": [
+			{
+			   "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 245,
+			   "airways": ["UM603"],
+			   "destinations": ["LEAL",
+					"LELC",
+					"LEVC",
+					"LEMI"]
+            },
+			{
+			   "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UM603"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["R59"]
+            }
+         ],
+		 	"EPAMA": [
+            {
+			   "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 245,
+			   "airways": ["UN733"],
+			   "destinations": ["LEAL",
+					"LELC",
+					"LEVC",
+					"LEMI"]
+            },
+			{
+			   "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 315,
+			   "airways": ["UN733"],
+			   "destinations": ["LECU",
+					"LEGT",
+					"LEMD",
+					"LETO",
+					"LEVS"]
+            },
+			{
+			   "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UN733"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["A33"]
+            }
+         ],
+		 	"BAVER": [
+            {
+			   "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 245,
+			   "airways": ["UM603"],
+			   "destinations": ["LEAL",
+					"LELC",
+					"LEVC",
+					"LEMI"]
+            },
+			{
+			   "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UM603"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["R59"]
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEMI",
+      "sids": {
+		 	"ALT": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+		  	"RESTU": [
+            {
+               "direction": "ANY"
+            }
+         ],
+		  	"DINCO": [
+            {
+               "direction": "ODD"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEPA",
+      "sids": {
+		 	"NELUX": [
+            {
+               "direction": "ANY",
+			   "min_fl": 40,
+               "max_fl": 115,
+               "destinations": ["LEIB"]
+            }
+         ],
+			"MEROS": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "airways": ["UN853"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["B16"]
+            }
+         ],
+		  	"ISTER": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 500,
+			   "airways": ["UN851"]
+            }
+         ],
+		  	"MORSS": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 500,
+			   "airways": ["UM603"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 120,
+			   "max_fl": 195,
+			   "airways": ["M603"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 195,
+			   "max_fl": 660
+            }
+         ],
+		  	"CDP": [
+            {
+               "direction": "ANY",
+			   "min_fl": 40,
+			   "max_fl": 145,
+			   "destinations": ["LEMH"]
+			}
+         ],
+		  	"TONIS": [
+            {
+               "direction": "ANY",
+			   "min_fl": 40,
+			   "max_fl": 145,
+			   "destinations": ["LEMH"]
+            }
+         ],
+		  	"OSGAL": [
+            {
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UN859"]
+			},
+			{
+               "direction": "ODD",
+			   "min_fl": 100,
+			   "max_fl": 145,
+			   "airways": ["B31"]
+			}
+         ],
+		  	"MEBUT": [
+            {
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UL129"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 100,
+			   "max_fl": 145,
+			   "airways": ["A6"]
+            }
+         ],
+		  	"BAVER": [
+            {
+			   "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 245,
+			   "airways": ["UM603"],
+			   "destinations": ["LEAL",
+					"LELC",
+					"LEVC",
+					"LEMI"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UM603"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 100,
+			   "max_fl": 145,
+			   "airways": ["R59"]
+            }
+         ],
+		  	"EPAMA": [
+            {
+			   "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 315,
+			   "airways": ["UN733"],
+			   "destinations": ["LECU",
+					"LEGT",
+					"LEMD",
+					"LETO",
+					"LEVS"]
+            },
+			{
+			   "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 245,
+			   "airways": ["UN733"],
+			   "destinations": ["LEAL",
+					"LELC",
+					"LEVC",
+					"LEMI"]
+            },
+			{
+			   "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UN733"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["A33"]
+            }
+         ],
+		  	"DRAGO": [
+            {
+			   "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 185,
+			   "airways": ["UN863"],
+			   "destinations":["LERS",
+					"LESU"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 245,
+			   "airways": ["UN863"],
+			   "destinations": ["LEZG",
+					"LEDA"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 335,
+			   "airways": ["UN863"],
+			   "destinations": ["LEBB",
+					"LEBG",
+					"LEPP",
+					"LERJ",
+					"LESO",
+					"LEVT",
+					"LEXJ"]
+            },
+			{
+			   "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 345,
+			   "airways": ["UN863"],
+			   "destinations":["LFBD",
+					"LFBA",
+					"LFBP", 
+					"LFBT",
+					"LFBF",
+					"LFBO", 
+					"LFBR",
+					"LFCI",
+					"LFCK",
+					"LFCL",
+					"LFCQ",
+					"LFCX",
+					"LFDB",
+					"LFDG",
+					"LFDJ",
+					"LFIR",
+					"LFIT",
+					"LFMG",
+					"LFMK",
+					"LFMW"]
+			},
+			{
+			   "direction": "EVEN",
+			   "min_fl": 145,
+			   "airways": ["UN863"]
+			},
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["A29"]
+            }
+         ],
+		  	"GALAT": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 150,
+			   "max_fl": 185,
+			   "airways": ["UN861"],
+			   "destinations": ["LESU"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 150,
+			   "airways": ["UN861"]
+            }
+         ],
+			"ESPOR": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "destinations": ["LEBL","LEGE","LELL"],
+			   "airways": ["W2"]
+			},
+			{
+			   "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 185,
+			   "destinations": ["LEBL","LELL"],
+			   "airways": ["L2"]
+			},
+			{
+			   "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 305,
+			   "destinations": ["LEGE"],
+			   "airways": ["L2"]
+			}
+		 ],
+			"PTC": [
+			{
+               "direction": "ANY",
+			   "min_fl": 100,
+               "max_fl": 145,
+			   "destinations": ["LEMH"]
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LERI",
+      "sids": {
+		 	"VAB": [
+            {
+               "direction": "ANY"
+            }
+         ],
+		  	"YES": [
+            {
+               "direction": "ANY"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LERS",
+      "sids": {
+		 	"DIRMU": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+		  	"POSSY": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+		  	"ARBEK": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+		  	"BCN": [
+            {
+               "direction": "ANY"
+            }
+         ],
+		 	"RULOS": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+		 	"GARBI": [
+            {
+               "direction": "ODD"
+            }
+         ],
+		 	"RUBOT": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+		 	"EBROX": [
+            {
+               "direction": "ODD"
+            }
+         ],
+		 	"CRETA": [
+            {
+               "direction": "ODD"
+            }
+         ],
+			"MLA": [
+            {
+               "direction": "ODD"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "LEVC",
+      "sids": {
+		 	"TATOS": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 100,
+			   "max_fl": 145,
+			   "airways": ["A34"]
+			}
+         ],
+		  	"SOPET": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 285,
+			   "airways": ["UN608"],
+			   "destinations": ["LEBL",
+					"LEDA",
+					"LERS",
+					"LEGE",
+					"LELL"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 285,
+			   "airways": ["UM445",
+					"UM985"],
+			   "destinations": ["LEBL",
+					"LEDA",
+					"LERS",
+					"LEGE",
+					"LELL"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 365,
+			   "airways": ["UM985"],
+			   "destinations": ["LS",
+					"LFSB",
+					"EDNY"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "airways": ["UN608"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "airways": ["UM445",
+					"UM985"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["B28"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 345,
+			   "destinations": ["LEBB",
+					"LEBG",
+					"LEPP",
+					"LERJ",
+					"LESO",
+					"LEVT",
+					"LEXJ"], 
+			   "airways": ["UN608"]
+            }
+         ],
+		  	"ORVUS": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 245,
+			   "destinations": ["LEPA",
+					"LEMH"],
+			   "airways": ["UM871"]	
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "airways": ["UM871"]	
+            }
+         ],
+		  	"ODSEN": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 165,
+			   "destinations": ["LEIB"],
+			   "airways": ["UZ224"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "airways": ["UZ224"]
+            }
+         ],
+		 	"ALT": [
+            {
+               "direction": "ODD",
+			   "min_fl": 100,
+			   "max_fl": 235,
+			   "destinations": ["LELC",
+					"LEMI","LEAL"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 105,
+			   "max_fl": 145,
+			   "airways": ["B46"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UN851",
+					"UL150"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["B112"]
+            },
+			{
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "max_fl": 285,
+			   "airways": ["UL112"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 75,
+			   "max_fl": 145,
+			   "airways": ["A31",
+					"A34"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["W810"]
+            }
+         ],
+		 	"NARGO": [
+            {
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["G850"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UN860"]
+            }
+         ],
+		 	"ASTRO": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "airways": ["UL150"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UM985"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["B28"]
+            }
+         ],
+		 	"CENTA": [
+            {
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["A33"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 305,
+			   "destinations": ["LECU",
+					"LEGT",
+					"LEMD",
+					"LETO",
+					"LEVS"], 
+			   "airways": ["UN733"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "max_fl": 345,
+			   "destinations": ["LEBB",
+					"LEBG",
+					"LEPP",
+					"LERJ",
+					"LESO",
+					"LEVT",
+					"LEXJ"], 
+			   "airways": ["UN733"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UN733"]
+            }
+         ],
+		 	"MANDY": [
+            {
+               "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 145,
+			   "airways": ["R29"]
+            },
+			{
+               "direction": "ODD",
+			   "min_fl": 145,
+			   "airways": ["UM176"]
+            }
+         ]
+      }
+   }
+]

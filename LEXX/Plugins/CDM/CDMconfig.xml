@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<CDM>
+	<ctot option="callsign" />
+	<rate ops="40" />
+	<rateLvo ops="10" />
+	<expiredCtot time="25" />
+	<realMode mode="false" />
+	<Rates url="https://archivos.vatsimspain.es/Operaciones/Plugins/CDM_data/rate.txt" />
+	<Taxizones url="https://archivos.vatsimspain.es/Operaciones/Plugins/CDM_data/taxizones.txt" />
+	<Ctot url="https://archivos.vatsimspain.es/Operaciones/Plugins/CDM_data/ctot.txt" />
+	<DefaultTaxiTime minutes="15" />
+	<RefreshTime seconds="20" />
+	<Debug mode="false" />
+	<FlowRestrictions url="https://ecfmp.vatsim.net/api/v1/plugin" />
+	<ftpHost host="ftp.vatsimspain.es" />
+	<ftpUser user="aman_vatspa" />
+	<ftpPassword password="Ek0TxdyF33yaxBqxRAK5" />
+</CDM>

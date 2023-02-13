@@ -1,0 +1,23 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:LEDA Groundlayout GND:
+Geo:LEDA Groundlayout STANDS:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:GRplugin
+WINDOWAREA:41.718553:0.515674:41.738161:0.562101
+PLUGIN:Ground Radar plugin:GroundMode:LEDA
+PLUGIN:TopSky plugin:NoDraw:1

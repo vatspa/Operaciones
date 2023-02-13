@@ -1,0 +1,23 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:LEMG Groundlayout GND:
+Geo:LEMG Groundlayout STANDS:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:3
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:317.00000
+TAGFAMILY:GRplugin
+WINDOWAREA:36.666773:-4.516331:36.687549:-4.467139
+PLUGIN:Ground Radar plugin:GroundMode:LEMG
+PLUGIN:TopSky plugin:NoDraw:1

@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<initialClimb>
+    <apt icao="LEAL">
+		<runway name="10">
+			<sid name="ASTRO">
+				<alt>060</alt>
+			</sid>
+			<sid name="CATON">
+				<alt>060</alt>
+			</sid>
+			<sid name="MAGAL">
+				<alt>060</alt>
+			</sid>
+			<sid name="MITOS">
+				<alt>060</alt>
+			</sid>
+			<sid name="RESTU">
+				<alt>060</alt>
+			</sid>
+			<sid name="SOPET">
+				<alt>060</alt>
+			</sid>
+			<sid name="VLC">
+				<alt>060</alt>
+			</sid>
+			<sid name="YES">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="28">
+			<sid name="ASTRO">
+				<alt>060</alt>
+			</sid>
+			<sid name="CATON">
+				<alt>060</alt>
+			</sid>
+			<sid name="MAGAL">
+				<alt>060</alt>
+			</sid>
+			<sid name="MITOS">
+				<alt>060</alt>
+			</sid>
+			<sid name="RESTU">
+				<alt>060</alt>
+			</sid>
+			<sid name="SOPET">
+				<alt>060</alt>
+			</sid>
+			<sid name="VLC">
+				<alt>060</alt>
+			</sid>
+			<sid name="YES">
+				<alt>060</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="LEPA">
+		<runway name="24R">
+			<sid name="BAVER">
+				<alt>040</alt>
+			</sid>
+			<sid name="DRAGO">
+				<alt>060</alt>
+			</sid>
+			<sid name="EPAMA">
+				<alt>040</alt>
+			</sid>
+			<sid name="ESPOR">
+				<alt>060</alt>
+			</sid>
+			<sid name="GALAT">
+				<alt>060</alt>
+			</sid>
+			<sid name="ISTER">
+				<alt>050</alt>
+			</sid>
+			<sid name="MEBUT">
+				<alt>040</alt>
+			</sid>
+			<sid name="MEROS">
+				<alt>050</alt>
+			</sid>
+			<sid name="MORSS">
+				<alt>050</alt>
+			</sid>
+			<sid name="NELUX">
+				<alt>040</alt>
+			</sid>
+			<sid name="OSGAL">
+				<alt>040</alt>
+			</sid>
+			<sid name="PTC">
+				<alt>050</alt>
+			</sid>
+		</runway>
+		<runway name="24L">
+			<sid name="BAVER">
+				<alt>040</alt>
+			</sid>
+			<sid name="DRAGO">
+				<alt>060</alt>
+			</sid>
+			<sid name="EPAMA">
+				<alt>040</alt>
+			</sid>
+			<sid name="ESPOR">
+				<alt>060</alt>
+			</sid>
+			<sid name="GALAT">
+				<alt>060</alt>
+			</sid>
+			<sid name="ISTER">
+				<alt>050</alt>
+			</sid>
+			<sid name="MEBUT">
+				<alt>040</alt>
+			</sid>
+			<sid name="MEROS">
+				<alt>050</alt>
+			</sid>
+			<sid name="MORSS">
+				<alt>050</alt>
+			</sid>
+			<sid name="NELUX">
+				<alt>040</alt>
+			</sid>
+			<sid name="OSGAL">
+				<alt>040</alt>
+			</sid>
+			<sid name="PTC">
+				<alt>050</alt>
+			</sid>
+		</runway>
+		<runway name="06R">
+			<sid name="BAVER4B">
+				<alt>040</alt>
+			</sid>
+			<sid name="BAVER3T">
+				<alt>060</alt>
+			</sid>
+			<sid name="CDP">
+				<alt>040</alt>
+			</sid>
+			<sid name="DRAGO">
+				<alt>060</alt>
+			</sid>
+			<sid name="EPAMA2B">
+				<alt>100</alt>
+			</sid>
+			<sid name="EPAMA3R">
+				<alt>060</alt>
+			</sid>
+			<sid name="ESPOR">
+				<alt>060</alt>
+			</sid>
+			<sid name="GALAT">
+				<alt>060</alt>
+			</sid>
+			<sid name="ISTER">
+				<alt>040</alt>
+			</sid>
+			<sid name="MEBUT">
+				<alt>040</alt>
+			</sid>
+			<sid name="MEROS">
+				<alt>040</alt>
+			</sid>
+			<sid name="MORSS">
+				<alt>040</alt>
+			</sid>
+			<sid name="NELUX">
+				<alt>040</alt>
+			</sid>
+			<sid name="OSGAL">
+				<alt>040</alt>
+			</sid>
+			<sid name="TONIS">
+				<alt>040</alt>
+			</sid>
+		</runway>
+		<runway name="06L">
+			<sid name="BAVER4G">
+				<alt>040</alt>
+			</sid>
+			<sid name="BAVER3S">
+				<alt>060</alt>
+			</sid>
+			<sid name="CDP">
+				<alt>040</alt>
+			</sid>
+			<sid name="DRAGO">
+				<alt>060</alt>
+			</sid>
+			<sid name="EPAMA2L">
+				<alt>100</alt>
+			</sid>
+			<sid name="EPAMA3N">
+				<alt>060</alt>
+			</sid>
+			<sid name="ESPOR">
+				<alt>060</alt>
+			</sid>
+			<sid name="GALAT">
+				<alt>060</alt>
+			</sid>
+			<sid name="ISTER">
+				<alt>040</alt>
+			</sid>
+			<sid name="MEBUT">
+				<alt>040</alt>
+			</sid>
+			<sid name="MEROS">
+				<alt>040</alt>
+			</sid>
+			<sid name="MORSS">
+				<alt>040</alt>
+			</sid>
+			<sid name="NELUX">
+				<alt>040</alt>
+			</sid>
+			<sid name="OSGAL">
+				<alt>040</alt>
+			</sid>
+			<sid name="TONIS">
+				<alt>040</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="LEIB">
+		<runway name="06">
+			<sid name="BAVER3R">
+				<alt>040</alt>
+			</sid>
+			<sid name="EPAMA2F">
+				<alt>060</alt>
+			</sid>
+			<sid name="INSUB2F">
+				<alt>040</alt>
+			</sid>
+			<sid name="KABRE2R">
+				<alt>060</alt>
+			</sid>
+			<sid name="LAMPA2F">
+				<alt>060</alt>
+			</sid>
+			<sid name="MHN5F">
+				<alt>060</alt>
+			</sid>
+			<sid name="XOSTA3F">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="24">
+			<sid name="BAVER">
+				<alt>060</alt>
+			</sid>
+			<sid name="EPAMA">
+				<alt>060</alt>
+			</sid>
+			<sid name="INSUB">
+				<alt>060</alt>
+			</sid>
+			<sid name="KABRE">
+				<alt>060</alt>
+			</sid>
+			<sid name="LAMPA">
+				<alt>060</alt>
+			</sid>
+			<sid name="MHN">
+				<alt>060</alt>
+			</sid>
+			<sid name="XOSTA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="LEBL">
+		<runway name="02">
+			<sid name="AGENA">
+				<alt>060</alt>
+			</sid>
+			<sid name="CLE">
+				<alt>060</alt>
+			</sid>
+			<sid name="DALIN">
+				<alt>060</alt>
+			</sid>
+			<sid name="DUNES">
+				<alt>060</alt>
+			</sid>
+			<sid name="GRAUS">
+				<alt>060</alt>
+			</sid>
+			<sid name="LARPA">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOBAR">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOTOS">
+				<alt>060</alt>
+			</sid>
+			<sid name="MOPAS">
+				<alt>060</alt>
+			</sid>
+			<sid name="NATPI">
+				<alt>060</alt>
+			</sid>
+			<sid name="OKABI">
+				<alt>060</alt>
+			</sid>
+			<sid name="SENIA">
+				<alt>060</alt>
+			</sid>
+			<sid name="VERSO">
+				<alt>060</alt>
+			</sid>
+			<sid name="VLA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="06L">
+			<sid name="AGENA">
+				<alt>060</alt>
+			</sid>
+			<sid name="CLE">
+				<alt>060</alt>
+			</sid>
+			<sid name="DALIN">
+				<alt>060</alt>
+			</sid>
+			<sid name="DUNES">
+				<alt>060</alt>
+			</sid>
+			<sid name="GRAUS">
+				<alt>060</alt>
+			</sid>
+			<sid name="LARPA">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOBAR">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOTOS">
+				<alt>060</alt>
+			</sid>
+			<sid name="MOPAS">
+				<alt>060</alt>
+			</sid>
+			<sid name="NATPI">
+				<alt>060</alt>
+			</sid>
+			<sid name="OKABI">
+				<alt>060</alt>
+			</sid>
+			<sid name="SENIA">
+				<alt>060</alt>
+			</sid>
+			<sid name="VERSO">
+				<alt>060</alt>
+			</sid>
+			<sid name="VLA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="06R">
+			<sid name="AGENA">
+				<alt>060</alt>
+			</sid>
+			<sid name="CLE">
+				<alt>060</alt>
+			</sid>
+			<sid name="DALIN">
+				<alt>060</alt>
+			</sid>
+			<sid name="DUNES">
+				<alt>060</alt>
+			</sid>
+			<sid name="GRAUS">
+				<alt>060</alt>
+			</sid>
+			<sid name="LARPA">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOBAR">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOTOS">
+				<alt>060</alt>
+			</sid>
+			<sid name="MOPAS">
+				<alt>060</alt>
+			</sid>
+			<sid name="NATPI">
+				<alt>060</alt>
+			</sid>
+			<sid name="OKABI">
+				<alt>060</alt>
+			</sid>
+			<sid name="SENIA">
+				<alt>060</alt>
+			</sid>
+			<sid name="VERSO">
+				<alt>060</alt>
+			</sid>
+			<sid name="VLA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="20">
+			<sid name="AGENA">
+				<alt>060</alt>
+			</sid>
+			<sid name="CLE">
+				<alt>060</alt>
+			</sid>
+			<sid name="DALIN">
+				<alt>060</alt>
+			</sid>
+			<sid name="DUNES">
+				<alt>060</alt>
+			</sid>
+			<sid name="GRAUS">
+				<alt>060</alt>
+			</sid>
+			<sid name="LARPA">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOBAR">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOTOS">
+				<alt>060</alt>
+			</sid>
+			<sid name="MOPAS">
+				<alt>060</alt>
+			</sid>
+			<sid name="NATPI">
+				<alt>060</alt>
+			</sid>
+			<sid name="OKABI">
+				<alt>060</alt>
+			</sid>
+			<sid name="SENIA">
+				<alt>060</alt>
+			</sid>
+			<sid name="VERSO">
+				<alt>060</alt>
+			</sid>
+			<sid name="VLA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="24L">
+			<sid name="AGENA">
+				<alt>060</alt>
+			</sid>
+			<sid name="CLE">
+				<alt>060</alt>
+			</sid>
+			<sid name="DALIN">
+				<alt>060</alt>
+			</sid>
+			<sid name="DUNES">
+				<alt>060</alt>
+			</sid>
+			<sid name="GRAUS">
+				<alt>060</alt>
+			</sid>
+			<sid name="LARPA">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOBAR">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOTOS">
+				<alt>060</alt>
+			</sid>
+			<sid name="MOPAS">
+				<alt>060</alt>
+			</sid>
+			<sid name="NATPI">
+				<alt>060</alt>
+			</sid>
+			<sid name="OKABI">
+				<alt>060</alt>
+			</sid>
+			<sid name="SENIA">
+				<alt>060</alt>
+			</sid>
+			<sid name="VERSO">
+				<alt>060</alt>
+			</sid>
+			<sid name="VLA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="24R">
+			<sid name="AGENA">
+				<alt>060</alt>
+			</sid>
+			<sid name="CLE">
+				<alt>060</alt>
+			</sid>
+			<sid name="DALIN">
+				<alt>060</alt>
+			</sid>
+			<sid name="DUNES">
+				<alt>060</alt>
+			</sid>
+			<sid name="GRAUS">
+				<alt>060</alt>
+			</sid>
+			<sid name="LARPA">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOBAR">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOTOS">
+				<alt>060</alt>
+			</sid>
+			<sid name="MOPAS">
+				<alt>060</alt>
+			</sid>
+			<sid name="NATPI">
+				<alt>060</alt>
+			</sid>
+			<sid name="OKABI">
+				<alt>060</alt>
+			</sid>
+			<sid name="SENIA">
+				<alt>060</alt>
+			</sid>
+			<sid name="VERSO">
+				<alt>060</alt>
+			</sid>
+			<sid name="VLA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="LEVC">
+		<runway name="12">
+			<sid name="ALT">
+				<alt>060</alt>
+			</sid>
+			<sid name="ASTRO">
+				<alt>060</alt>
+			</sid>
+			<sid name="CENTA">
+				<alt>060</alt>
+			</sid>
+			<sid name="MANDY">
+				<alt>060</alt>
+			</sid>
+			<sid name="NARGO">
+				<alt>060</alt>
+			</sid>
+			<sid name="ODSEN">
+				<alt>060</alt>
+			</sid>
+			<sid name="ORVUS">
+				<alt>060</alt>
+			</sid>
+			<sid name="SOPET">
+				<alt>060</alt>
+			</sid>
+			<sid name="TATOS">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="30">
+			<sid name="ALT">
+				<alt>060</alt>
+			</sid>
+			<sid name="ASTRO">
+				<alt>060</alt>
+			</sid>
+			<sid name="CENTA">
+				<alt>060</alt>
+			</sid>
+			<sid name="MANDY">
+				<alt>060</alt>
+			</sid>
+			<sid name="NARGO">
+				<alt>060</alt>
+			</sid>
+			<sid name="ODSEN">
+				<alt>060</alt>
+			</sid>
+			<sid name="ORVUS">
+				<alt>060</alt>
+			</sid>
+			<sid name="SOPET">
+				<alt>060</alt>
+			</sid>
+			<sid name="TATOS">
+				<alt>060</alt>
+			</sid>
+		</runway>
+    </apt>
+</initialClimb>

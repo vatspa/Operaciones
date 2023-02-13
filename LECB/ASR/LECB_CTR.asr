@@ -1,0 +1,23 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+SHOWC:1
+SHOWSB:0
+BELOW:50
+ABOVE:0
+LEADER:-7
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:358.80000
+TAGFAMILY:TopSky - APP
+WINDOWAREA:38.870594:2.173457:40.616702:6.307801
+PLUGIN:ESCenterlines:Display Active:1
+PLUGIN:ESCenterlines:Display_Centerlines:1
+PLUGIN:TopSky plugin:HideMapData:APP,APP_F,TWR
+PLUGIN:TopSky plugin:ShowMapData:CTR

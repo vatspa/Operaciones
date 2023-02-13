@@ -1,0 +1,110 @@
+{
+  "Name": "Jerez",
+  "Identifier": "LEJR",
+  "Contractions": [
+	{
+	  "String": "W",
+	  "Spoken": "WHISKEY"
+	},
+	{
+	  "String": "E",
+	  "Spoken": "ECHO"
+	},
+	{
+	  "String": "N",
+	  "Spoken": "NOVEMBER"
+	},
+	{
+	  "String": "L",
+	  "Spoken": "LIMA"
+	},
+	{
+	  "String": "R-NAV",
+	  "Spoken": "ARE-NAV"
+	},
+	{
+	  "String": "Z",
+	  "Spoken": "ZULU"
+	},
+	{
+	  "String": "UTC",
+	  "Spoken": "YOU-T-SEE"
+	},
+	{
+	  "String": "Y",
+	  "Spoken": "YANKEE"
+	},
+	{
+	  "String": "RWY",
+	  "Spoken": "RUNWAY"
+	},
+	{
+	  "String": "RWYS",
+	  "Spoken": "RUNWAYS"
+	}
+  ],
+  "AtisFrequency": 25650,
+  "ObservationTime": {
+	"Enabled": false,
+	"Time": 0
+  },
+  "MagneticVariation": {
+	"Enabled": false,
+	"MagneticDegrees": 0
+  },
+  "AtisVoice": {
+	"UseTextToSpeech": true,
+	"Voice": "Default"
+  },
+  "IDSEndpoint": "",
+  "Presets": [
+	{
+	  "Name": "SOUTH",
+	  "AirportConditions": "DEPARTURE RWY 20. ARRIVALS EXPECT ILS Z APPROACH RWY 20.",
+	  "Notams": null,
+	  "ArbitraryText": null,
+	  "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE]."
+	},
+	{
+	  "Name": "NORTH",
+	  "AirportConditions": "DEPARTURE RWY 02. ARRIVALS EXPECT RNP Y APPROACH 02",
+	  "Notams": null,
+	  "ArbitraryText": null,
+	  "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE]."
+	}
+  ],
+  "AirportConditionDefinitions": [],
+  "NotamDefinitions": [],
+  "TransitionLevels": [
+	{
+	  "Low": 942,
+	  "High": 959,
+	  "Altitude": 90
+	},
+	{
+	  "Low": 960,
+	  "High": 977,
+	  "Altitude": 85
+	},
+	{
+	  "Low": 978,
+	  "High": 995,
+	  "Altitude": 80
+	},
+	{
+	  "Low": 996,
+	  "High": 1013,
+	  "Altitude": 75
+	},
+	{
+	  "Low": 1014,
+	  "High": 1031,
+	  "Altitude": 70
+	},
+	{
+	  "Low": 1032,
+	  "High": 1050,
+	  "Altitude": 65
+	}
+  ]
+}

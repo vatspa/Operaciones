@@ -1,0 +1,23 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:LEPA Groundlayout GND:
+Regions:LEPA Groundlayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:3
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:31.50000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:39.539642:2.707999:39.559284:2.754506
+PLUGIN:Ground Radar plugin:GroundMode:LEPA
+PLUGIN:TopSky plugin:NoDraw:1
