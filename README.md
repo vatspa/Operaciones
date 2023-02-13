@@ -4,8 +4,9 @@
 1. Instalar Github Desktop: https://desktop.github.com/
 2. instalar Sublime Text: https://www.sublimetext.com/
 3. Clonar Repositorio en github desktop.
-4. Seleccionar la rama correcta.
-4. Click Derecho en el Repositorio Operaciones y "Open in Sublime Text".
+4. Mover el fichero ``pre-commit.file`` a ``.git/hooks/``
+5. Seleccionar la rama correcta. En caso contrario no nos dejará subir los cambios.
+6. Click Derecho en el Repositorio Operaciones y "Open in Sublime Text".
 
 </br>
 
