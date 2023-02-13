@@ -17,7 +17,8 @@
 - Crear Issue por cada cambio a hacer (Especificar Milestone y Labels).
 
 ### 2. Una vez obtenidos requisitos.
-- Trabajar sobre la rama por cada airac (ej. 2302) y nunca sobre MASTER.
+- Trabajar sobre la rama por cada airac (ej. 2302) y nunca sobre **ESTABLE**.
+- Hacer "Push" vinculando **siempre** una issue con # y el id de la issue -> #32.
 
 ### 3. Dia previo salida AIRAC
-- Merge rama proximo airac a MASTER. 
+- Pull Request rama proximo airac a **ESTABLE**.
