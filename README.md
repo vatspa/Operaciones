@@ -1,5 +1,5 @@
 # Control de AIRAC
-test
+
 ## Trabajar con el proyecto
 1. Instalar Github Desktop: https://desktop.github.com/
 2. instalar Sublime Text: https://www.sublimetext.com/
