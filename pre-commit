@@ -1,0 +1,8 @@
+#!/bin/sh
+
+branch="$(git rev-parse --abbrev-ref HEAD)"
+
+if [ "$branch" = "estable" ]; then
+  echo "estable branch commit is blocked"
+  exit 1
+fi
