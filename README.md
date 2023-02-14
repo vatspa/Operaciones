@@ -20,6 +20,7 @@
 ### 2. Una vez obtenidos requisitos.
 - Trabajar sobre la rama por cada airac (ej. 2302) y nunca sobre **ESTABLE**.
 - Hacer "Push" vinculando **siempre** una issue con # y el id de la issue -> #32.
+- Si se quiere cerrar con el mismo commit. Usar "fix # + id" -> (ej. "fix #13").
 
 ### 3. Dia previo salida AIRAC
 - Pull Request rama proximo airac a **ESTABLE**.
