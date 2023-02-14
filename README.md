@@ -12,6 +12,11 @@
 
 
 ## Forma de trabajo.
+
+
+![image](https://user-images.githubusercontent.com/68125167/218854356-ced7c7b8-ade7-4cb0-8f2b-6780e749ed0c.png)
+
+
 ### 1. Semana post-AIRAC-release.
 - Coger requisitos del AIRAC siguiente + 1 (Si el siguiente es 2302, trabajar en el 2303).
 - Crear Milestone por cada FIR y AIRAC (ej. 2303-LECB).
