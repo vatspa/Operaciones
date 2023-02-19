@@ -360,25 +360,13 @@
     </apt>
 	<apt icao="GCRR">
 		<runway name="03">
-			<sid name="KEMEV">
+			<sid name="BAMKU">
 				<alt>040</alt>
-			</sid>
-			<sid name="KORAL3V">
-				<alt>100</alt>
 			</sid>
 			<sid name="KORAL7M">
 				<alt>120</alt>
 			</sid>
-			<sid name="LARYS">
-				<alt>040</alt>
-			</sid>
-			<sid name="LORPO">
-				<alt>040</alt>
-			</sid>
-			<sid name="TENDA">
-				<alt>040</alt>
-			</sid>
-			<sid name="BAMKU">
+			<sid name="KEMEV">
 				<alt>040</alt>
 			</sid>
 			<sid name="SAMAR">
@@ -387,40 +375,64 @@
 			<sid name="SOTAD">
 				<alt>040</alt>
 			</sid>
+			<sid name="DESUM">
+				<alt>120</alt>
+			</sid>
 			<sid name="VASTO">
 				<alt>120</alt>
 			</sid>
-		</runway>
-		<runway name="21">
+			<sid name="KORAL3V">
+				<alt>100</alt>
+			</sid>
+			<sid name="TENDA">
+				<alt>040</alt>
+			</sid>
 			<sid name="KEMEV">
 				<alt>040</alt>
+			</sid>
+			<sid name="LORPO">
+				<alt>040</alt>
+			</sid>
+			<sid name="LARYS">
+				<alt>040</alt>
+			</sid>
+		</runway>
+		<runway name="21">
+			<sid name="BAMKU">
+				<alt>040</alt>
+			</sid>
+			<sid name="KORAL9N">
+				<alt>120</alt>
+			</sid>
+			<sid name="SAMAR">
+				<alt>120</alt>
+			</sid>
+			<sid name="KEMEV">
+				<alt>040</alt>
+			</sid>
+			<sid name="SOTAD">
+				<alt>040</alt>
+			</sid>
+			<sid name="DESUM">
+				<alt>120</alt>
+			</sid>
+			<sid name="VASTO">
+				<alt>120</alt>
 			</sid>
 			<sid name="KORAL2W">
 				<alt>100</alt>
 			</sid>
-			<sid name="KORAL7N">
-				<alt>120</alt>
+			<sid name="TENDA">
+				<alt>040</alt>
 			</sid>
-			<sid name="LARYS">
+			<sid name="KEMEV">
 				<alt>040</alt>
 			</sid>
 			<sid name="LORPO">
 				<alt>040</alt>
 			</sid>
-			<sid name="TENDA">
+			<sid name="LARYS">
 				<alt>040</alt>
-			</sid>
-			<sid name="BAMKU">
-				<alt>040</alt>
-			</sid>
-			<sid name="SAMAR">
-				<alt>120</alt>
-			</sid>
-			<sid name="SOTAD">
-				<alt>040</alt>
-			</sid>
-			<sid name="VASTO">
-				<alt>120</alt>
 			</sid>
 		</runway>
     </apt>
@@ -432,7 +444,7 @@
 			<sid name="KORAL6Z">
 				<alt>100</alt>
 			</sid>
-			<sid name="KORAL8Q">
+			<sid name="KORAL9Q">
 				<alt>120</alt>
 			</sid>
 			<sid name="LARYS">
