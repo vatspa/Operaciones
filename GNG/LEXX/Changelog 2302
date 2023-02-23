@@ -19,6 +19,10 @@ GCCC
 - Updated TopSkyAreas.txt to update all reserved areas.
 - Updated TopSkyAreas.txt to update all danger areas.
 - Updated TopSkyAreas.txt to update all restricted areas.
+- LOGINPROFILES.txt updated:	
+	- New position added: GCHI_I_TWR
+	- Deleted GCCC_CTR
+	- Added vertical and airport coverage in APP positions
 
 LECM
 
