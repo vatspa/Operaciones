@@ -14,6 +14,11 @@ GCCC
 - Renamed rnav waypoints in TopSkyMaps as per AIRAC AMD 2302 for airports GCLA and GCRR.
 - Updated all ASRs to have the SACTA PLUGIN TAG by default.
 - Updated InitialClimb Plugin with the actual SIDs.
+- Updated TopSkyMaps.txt to change LEVC Stands from SCTDATA to TEXT for plugin performance improvement.
+- Updated TopSkyAreas.txt to update all segregated areas.
+- Updated TopSkyAreas.txt to update all reserved areas.
+- Updated TopSkyAreas.txt to update all danger areas.
+- Updated TopSkyAreas.txt to update all restricted areas.
 
 LECM
 
@@ -24,6 +29,8 @@ LECM
 - Updated all ASRs to have the SACTA PLUGIN TAG by default.
 - Updated TopSkyAreas.txt to update all segregated areas.
 - Updated TopSkyAreas.txt to update all reserved areas.
+- Updated TopSkyAreas.txt to update all danger areas.
+- Updated TopSkyAreas.txt to update all restricted areas.
 
 LECB
 
@@ -34,3 +41,5 @@ LECB
 - Updated TopSkyMaps.txt to change LEVC Stands from SCTDATA to TEXT for plugin performance improvement.
 - Updated TopSkyAreas.txt to update all segregated areas.
 - Updated TopSkyAreas.txt to update all reserved areas.
+- Updated TopSkyAreas.txt to update all danger areas.
+- Updated TopSkyAreas.txt to update all restricted areas.
