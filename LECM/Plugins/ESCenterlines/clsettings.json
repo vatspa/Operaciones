@@ -6173,7 +6173,7 @@
 				"direction": "right",
 				"dist_cl": 0,
 				"dist_thr": 20,
-				"length": 0.4
+				"length": 0.2
 			},
 			{
 				"angle": 90,
@@ -6182,7 +6182,7 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 20,
-				"length": 0.4
+				"length": 0.2
 			},
 			{
 				"angle": 90,
