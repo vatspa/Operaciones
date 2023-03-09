@@ -4,6 +4,8 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
 Geo:GCRR Groundlayout GND:
+Geo:GCRR Groundlayout STANDS:
+Geo:GCRR Groundlayout TAXILINES:
 SHOWC:1
 SHOWSB:0
 BELOW:0
