@@ -637,5 +637,37 @@
 				"length": 0.4
 			}
 		]
+	},
+	{
+		"airport": "GCLB",
+		"runway": "07"
+	},
+	{
+		"airport": "GCLB",
+		"runway": "25"
+	},
+	{
+		"airport": "GCGM",
+		"runway": "09"
+	},
+	{
+		"airport": "GCGM",
+		"runway": "27"
+	},
+	{
+		"airport": "GCHI",
+		"runway": "34"
+	},
+	{
+		"airport": "GCHI",
+		"runway": "16"
+	},
+	{
+		"airport": "GCLA",
+		"runway": "36"
+	},
+	{
+		"airport": "GCLA",
+		"runway": "18"
 	}
 ]
