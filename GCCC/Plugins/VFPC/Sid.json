@@ -785,5 +785,46 @@
             }
          ]
       }
+   },
+   {
+      "icao": "GCHI",
+      "sids": {
+      	"ARACO": [
+            {
+               "direction": "EVEN",
+               "airways": ["DCT"]
+            }
+         ],
+         "LPC": [
+            {
+               "direction": "ODD",
+			   "airways": ["DCT"]
+            }
+         ],
+		 	"TFN": [
+            {
+               "direction": "EVEN",
+			   "min_fl": 100,
+			   "airways": ["DCT"]
+            },
+            {
+               "direction": "EVEN",
+			   "min_fl": 095,
+			   "max_fl": 145,
+			   "airways": ["J602"]
+            },
+            {
+               "direction": "EVEN",
+			   "min_fl": 145,
+			   "airways": ["UN602"]
+            }
+         ],
+		 	"TFS": [
+            {
+               "direction": "EVEN",
+			   "airways": ["DCT"]
+            }
+         ]
+      }
    }
 ]
