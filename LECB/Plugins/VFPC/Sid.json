@@ -1354,6 +1354,13 @@
 		  	"KABRE": [
             {
                "direction": "EVEN",
+			   "min_fl": 60,
+			   "max_fl": 245,
+			   "destinations": ["LEMH",
+					"LESL"]
+            },
+			{
+               "direction": "EVEN",
 			   "min_fl": 245,
 			   "max_fl": 365,
 			   "destinations": ["LS",
@@ -1363,13 +1370,6 @@
 			{
                "direction": "EVEN",
 			   "min_fl": 245
-            },
-			{
-               "direction": "EVEN",
-			   "min_fl": 60,
-			   "max_fl": 245,
-			   "destinations": ["LEMH",
-					"LESL"]
             }
          ],
 		  	"LAMPA": [
@@ -1537,6 +1537,16 @@
 		 	"LUNIK": [
             {
                "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 195,
+			   "airways": ["DCT"],
+			   "destinations": ["LEBL",
+					"LEDA",
+					"LERS",
+					"LELL"]
+			},
+            {
+               "direction": "EVEN",
 			   "min_fl": 145,
 			   "max_fl": 195,
 			   "airways": ["Q255"],
@@ -1547,7 +1557,7 @@
 			},
 			{
                "direction": "EVEN",
-			   "min_fl": 100,
+			   "min_fl": 95,
 			   "max_fl": 145,
 			   "airways": ["A25"],
 			   "destinations": ["LEBL",
@@ -1659,6 +1669,7 @@
 		 	"MAMEB": [
             {
                "direction": "ANY",
+            "min_fl": 50,
 			   "max_fl": 135,
 			   "destinations": ["LEPA"]
             }

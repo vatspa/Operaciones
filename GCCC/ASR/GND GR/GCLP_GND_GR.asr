@@ -4,6 +4,8 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
 Geo:GCLP Groundlayout GND:
+Geo:GCLP Groundlayout STANDS:
+Geo:GCLP Groundlayout TAXILINES:
 SHOWC:1
 SHOWSB:0
 BELOW:0

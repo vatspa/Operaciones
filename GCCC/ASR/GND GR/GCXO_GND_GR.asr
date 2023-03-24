@@ -4,6 +4,8 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
 Geo:GCXO Groundlayout GND:
+Geo:GCXO Groundlayout STANDS:
+Geo:GCXO Groundlayout TAXILINES:
 SHOWC:1
 SHOWSB:0
 BELOW:0

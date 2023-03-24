@@ -4,6 +4,8 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
 Geo:GCLA Groundlayout GND:
+Geo:GCLA Groundlayout STANDS:
+Geo:GCLA Groundlayout TAXILINES:
 SHOWC:1
 SHOWSB:0
 BELOW:0
