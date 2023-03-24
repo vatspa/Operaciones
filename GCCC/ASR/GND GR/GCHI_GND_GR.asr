@@ -4,6 +4,8 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
 Geo:GCHI Groundlayout GND:
+Geo:GCHI Groundlayout STANDS:
+Geo:GCHI Groundlayout TAXILINES:
 SHOWC:1
 SHOWSB:0
 BELOW:0
