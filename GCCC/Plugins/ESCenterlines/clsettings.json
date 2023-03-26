@@ -1317,5 +1317,9 @@
 	{
 		"airport": "GCLA",
 		"runway": "18"
+	},
+	{
+		"airport": "GCRR",
+		"runway": "21"
 	}
 ]
