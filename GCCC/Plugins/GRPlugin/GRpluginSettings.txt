@@ -255,8 +255,11 @@ Window_APP_Extensions_TickWidth=0
 
 [GCLP]
 
-List_Inbound=*,2,0,500
-List_Outbound=*,2,1730,450
+List_Inbound=*,2,0,780
+List_Outbound=03L,2,1735,700
+List_Outbound=03R,2,1735,850
+List_Outbound=21R,2,1735,700
+List_Outbound=21L,2,1735,850
 Airport_SMR_Raw=2
 Airport_SMR_Track=2
 Airport_ModeA=2
@@ -264,11 +267,12 @@ Airport_ModeS=2
 Airport_Dep_Transfer_Height=1000
 Airport_Elevation=77
 Airport_Radius=2.5
-Window_APP_Rotation=68.8
-Window_APP=1,0,230,520,270
-Window_APP_Scale=8
+Window_APP_Rotation=248.8
+Window_APP=1,0,230,420,255
+Window_APP_Scale=17
 Window_APP_Extensions=0
 Window_APP_Extensions_TickWidth=0
+Window_APP_AltFilter=4000
 
 [GCRR]
 
