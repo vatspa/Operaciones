@@ -183,8 +183,8 @@ Label=GND:ARR:3:GS,0,0,1:AFL,0,1,30:CFL,0,1,300:ADEP,0,1
 
 [GCFV]
 
-List_Inbound=*,2,0,580
-List_Outbound=*,2,1730,450
+List_Inbound=*,2,0,820
+List_Outbound=*,2,1735,820
 Airport_SMR_Raw=2
 Airport_SMR_Track=2
 Airport_ModeA=2
@@ -192,13 +192,9 @@ Airport_ModeS=2
 Airport_Dep_Transfer_Height=1000
 Airport_Elevation=83
 Airport_Radius=2
-Airport_Runway_Thr=19:N028.25.58.279:W013.51.51.920
-Airport_Runway_End=19:N028.27.48.675:W013.51.48.263
-Airport_Runway_Thr=01:N028.27.48.675:W013.51.48.263
-Airport_Runway_End=01:N028.25.58.279:W013.51.51.920
 Window_APP_Rotation=268.5
-Window_APP=1,0,302,520,270
-Window_APP_Scale=12
+Window_APP=1,0,320,350,300
+Window_APP_Scale=13
 Window_APP_Extensions=0
 Window_APP_Extensions_TickWidth=0
 
