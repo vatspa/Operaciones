@@ -6277,13 +6277,13 @@ WINGSPAN:7
 LENGTH:7
 
 STAND:LEXJ:23:N043.25.30.22:W003.49.37.77:8
-WINGSPAN:16.2
-LENGTH:16.8
+WINGSPAN:14
+LENGTH:17.1
 USE:H
 
 STAND:LEXJ:24:N043.25.29.24:W003.49.38.26:8
-WINGSPAN:16.2
-LENGTH:16.8
+WINGSPAN:14
+LENGTH:17.1
 USE:H
 
 // ................................................  LEZG ............................................... //
