@@ -410,8 +410,8 @@ System_TowerMode_AltFilter_Low=2680
 
 [LEVC]
 
-List_Inbound=*,2,0,500
-List_Outbound=*,2,1730,610
+List_Inbound=*,2,0,800
+List_Outbound=*,2,1735,670
 Airport_SMR_Raw=2
 Airport_SMR_Track=2
 Airport_ModeA=2
@@ -419,6 +419,11 @@ Airport_ModeS=2
 Airport_Dep_Transfer_Height=1000
 Airport_Elevation=240
 Airport_Radius=3
+Window_APP_Extensions=0
+Window_APP_Extensions_TickWidth=0
+Window_APP_Rotation=153.6
+Window_APP=1,1520,371,400,300
+Window_APP_Scale=6
 Window_APP_AltFilter=7300
 System_TowerMode_AltFilter_Low=290
 Airport_Runway_Thr=30:N039.29.01.032:W000.28.00.036
