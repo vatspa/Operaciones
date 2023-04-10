@@ -5,14 +5,34 @@
          "LORPO": [
             {
                "direction": "EVEN",
-               "airways": ["DCT", ""]
+               "airways": ["DCT"]
+            },
+            {
+               "direction": "EVEN",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "LARYS": [
             {
                "direction": "ANY",
             "min_fl": 140,
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "EVEN",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "MAPED": [
@@ -63,7 +83,17 @@
          "ARACO": [
             {
                "direction": "EVEN",
-               "airways": ["DCT", ""]
+               "airways": ["DCT"]
+            },
+            {
+               "direction": "EVEN",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "BIMBO": [
@@ -88,13 +118,33 @@
          "LPC": [
             {
                "direction": "ANY",
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "HIE": [
             {
                "direction": "ANY",
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "EVEN",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 195,
+               "airways": [""]
             },
             {
                "direction": "EVEN",
@@ -118,7 +168,17 @@
             {
                "direction": "EVEN",
             "min_fl": 150,
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "KORAL": [
@@ -165,7 +225,17 @@
             {
                "direction": "EVEN",
             "min_fl": 150,
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "REMGI": [
@@ -243,7 +313,17 @@
          "ARACO": [
             {
                "direction": "ANY",
-               "airways": ["DCT", ""]
+               "airways": ["DCT"]
+            },
+            {
+               "direction": "EVEN",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "BIMBO": [
@@ -286,7 +366,17 @@
          "HIE": [
             {
                "direction": "ANY",
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "EVEN",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 195,
+               "airways": [""]
             },
             {
                "direction": "EVEN",
@@ -309,7 +399,17 @@
             {
                "direction": "EVEN",
             "min_fl": 150,
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "KORAL": [
@@ -355,7 +455,17 @@
          "RASEP": [
             {
                "direction": "EVEN",
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "REMGI": [
@@ -391,7 +501,17 @@
          "TFN": [
             {
                "direction": "ANY",
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "EVEN",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 195,
+               "airways": [""]
             },
             {
                "direction": "EVEN",
@@ -409,6 +529,16 @@
             {
                "direction": "ANY",
             "airways": ["DCT", ""]
+            },
+            {
+               "direction": "EVEN",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "VASTO": [
@@ -449,7 +579,17 @@
          "GDV": [
             {
                "direction": "EVEN",
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             },
             {
                "direction": "EVEN",
@@ -476,8 +616,18 @@
          ],
          "LPC": [
             {
-               "direction": "ANY",
-            "airways": ["DCT", ""]
+               "direction": "EVEN",
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "KONBA": [
@@ -515,7 +665,17 @@
             {
                "direction": "ANY",
             "min_fl": 110,
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             },
             {
                "direction": "EVEN",
@@ -532,7 +692,17 @@
          "TFS": [
             {
                "direction": "ANY",
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "VASTO": [
@@ -555,20 +725,50 @@
          "ARACO": [
             {
                "direction": "EVEN",
-               "airways": ["DCT", ""]
+               "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "LPC": [
             {
                "direction": "ODD",
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "TFN": [
             {
                "direction": "EVEN",
             "min_fl": 100,
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             },
             {
                "direction": "EVEN",
@@ -585,7 +785,17 @@
          "TFS": [
             {
                "direction": "EVEN",
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             }
          ]
       }
@@ -596,7 +806,17 @@
          "ARACO": [
             {
                "direction": "ODD",
-               "airways": ["DCT", ""]
+               "airways": ["DCT"]
+            },
+            {
+               "direction": "EVEN",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "BIMBO": [
@@ -621,7 +841,17 @@
          "GDV": [
             {
                "direction": "ODD",
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             },
             {
                "direction": "EVEN",
@@ -649,13 +879,33 @@
          "LPC": [
             {
                "direction": "ODD",
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "HIE": [
             {
                "direction": "ODD",
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "EVEN",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 195,
+               "airways": [""]
             },
             {
                "direction": "EVEN",
@@ -686,7 +936,17 @@
             {
                "direction": "ANY",
             "min_fl": 130,
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "SAMAR": [
@@ -707,7 +967,7 @@
             {
                "direction": "ODD",
             "min_fl": 70,
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
             },
             {
                "direction": "ODD",
@@ -760,14 +1020,34 @@
             {
                "direction": "ODD",
             "min_fl": 90,
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "EVEN",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "LORPO": [
             {
                "direction": "ODD",
             "min_fl": 90,
-            "airways": ["DCT", ""]
+            "airways": ["DCT"]
+            },
+            {
+               "direction": "EVEN",
+               "max_fl": 195,
+               "airways": [""]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 195,
+               "airways": [""]
             }
          ],
          "TENDA": [
