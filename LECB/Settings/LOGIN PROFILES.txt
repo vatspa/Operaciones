@@ -1,270 +1,270 @@
 PROFILE
 PROFILE:LECL_CTR:400:6
 ATIS2:$radioname - PDC/DCL Datalink [LECL]
-ATIS3:My active sector vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:My active sector vats.im/lexx
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECP_CTR:400:6
 ATIS2:$radioname - PDC/DCL Datalink [LECP]
-ATIS3:My active sector vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:My active sector vats.im/lexx
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECB_RN_CTR:400:6
 ATIS2:$radioname - CPDLC [CBRN]
-ATIS3:My active sector vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:My active sector vats.im/lexx
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECB_DDI_CTR:400:6
 ATIS2:$radioname - CPDLC [CDDI]
-ATIS3:My active sector vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:My active sector vats.im/lexx
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECB_XAL_CTR:400:6
 ATIS2:$radioname - CPDLC [CXAL]
-ATIS3:My active sector vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:My active sector vats.im/lexx
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECB_CCC_CTR:400:6
 ATIS2:$radioname - CPDLC [CCCC]
-ATIS3:My active sector vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:My active sector vats.im/lexx
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECB_RS_CTR:400:6
 ATIS2:$radioname - CPDLC [CBRS]
-ATIS3:My active sector vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:My active sector vats.im/lexx
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECB_RW_CTR:400:6
 ATIS2:$radioname - CPDLC [CBRW]
-ATIS3:My active sector vats.im/lexx (BCN TMA up to FL195) || https://beta.vatglasses.uk/spain/
+ATIS3:My active sector vats.im/lexx (BCN TMA up to FL195)
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECB_RE_CTR:400:6
 ATIS2:$radioname - CPDLC [CBRE]
-ATIS3:My active sector vats.im/lexx (Not covering BCN TMA) || https://beta.vatglasses.uk/spain/
+ATIS3:My active sector vats.im/lexx (Not covering BCN TMA)
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECB_PPI_CTR:400:6
 ATIS2:$radioname - CPDLC [CPPI]
-ATIS3:My active sector vats.im/lexx (BCN TMA up to FL195) || https://beta.vatglasses.uk/spain/
+ATIS3:My active sector vats.im/lexx (BCN TMA up to FL195)
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECB_LLI_CTR:400:6
 ATIS2:$radioname - CPDLC [CLLI]
-ATIS3:My active sector vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:My active sector vats.im/lexx
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECB_VNI_CTR:400:6
 ATIS2:$radioname - CPDLC [CVNI]
-ATIS3:My active sector vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:My active sector vats.im/lexx
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECB_MVS_CTR:400:6
 ATIS2:$radioname - CPDLC [CMVS]
-ATIS3:My active sector vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:My active sector vats.im/lexx
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECB_CTR:400:6
 ATIS2:$radioname - CPDLC [CBRA]
-ATIS3:My active sector vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:My active sector vats.im/lexx
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEAL_DEL:20:2
 ATIS2:$radioname - PDC/DCL Datalink [LEAL]
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEAL_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LEAL]
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEAL_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LEAL]
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEAL_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEAL]
-ATIS3:SFC/FL125 - vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:SFC/FL125 - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEAL_DEP:150:5
 ATIS2:$radioname
-ATIS3:Covering LEAL/LC/MI below FL245 - vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:Covering LEAL/LC/MI below FL245 - vats.im/lexx
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEBL_DEL:20:2
 ATIS2:$radioname - PDC/DCL Datalink [LEBL]
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEBL_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LEBL]
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEBL_C_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LEBL]
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEBL_S_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LEBL]
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEBL_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LEBL]
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEBL_S_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LEBL]
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEBL_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEBL]
-ATIS3:Covering LEBL, LERS, LELL, LEDA & LEGE below FL195 - vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:Covering LEBL, LERS, LELL, LEDA & LEGE below FL195 - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEBL_2_APP:150:5
 ATIS2:$radioname
-ATIS3:Covering South-East sector - vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:Covering South-East sector - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEBL_3_APP:150:5
 ATIS2:$radioname
-ATIS3:Covering South-West sector - vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:Covering South-West sector - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEBL_4_APP:150:5
 ATIS2:$radioname
-ATIS3:Covering North-West sector- vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:Covering North-West sector- vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEBL_N_APP:150:5
 ATIS2:$radioname
-ATIS3:Covering North sector - vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:Covering North sector - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEBL_F_APP:150:5
 ATIS2:$radioname
-ATIS3:Covering Final sector - vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:Covering Final sector - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECH_GND:20:3
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECH_TWR:50:4
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEDA_GND:20:3
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEDA_TWR:50:4
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEGE_GND:20:3
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEGE_TWR:50:4
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEIB_DEL:20:2
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEIB_GND:20:3
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEIB_TWR:50:4
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEIB_IXX_APP:150:5
 ATIS2:$radioname
-ATIS3:SFC/FL245 - vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:SFC/FL245 - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEIB_APP:150:5
 ATIS2:$radioname
-ATIS3:SFC/FL85 - vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:SFC/FL85 - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEIB_IXN_APP:150:5
 ATIS2:$radioname
-ATIS3:FL85/FL245 - vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:FL85/FL245 - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LELC_GND:20:3
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LELC_TWR:50:4
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LELC_APP:150:5
 ATIS2:$radioname
-ATIS3:SFC/FL125 - vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:SFC/FL125 - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LELL_GND:20:3
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LELL_TWR:100:4
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEMH_GND:20:3
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEMH_TWR:50:4
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEMH_MXX_APP:150:5
 ATIS2:$radioname
-ATIS3:SFC/FL245 - vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:SFC/FL245 - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEPA_DEL:20:2
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEPA_GND:20:3
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEPA_N_GND:20:3
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEPA_TWR:50:4
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEPA_N_TWR:50:4
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEPA_APP:150:5
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEPA_E_APP:150:5
 ATIS2:$radioname
-ATIS3:Covering East sector - vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:Covering East sector - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEPA_F_APP:150:5
 ATIS2:$radioname
-ATIS3:Covering Final sector - vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:Covering Final sector - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LERI_TWR:50:4
 ATIS2:$radioname 
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LERS_GND:20:3
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LERS_TWR:50:4
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LESU_I_TWR:50:4
 ATIS2:$radioname 
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEVC_DEL:20:2
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEVC_GND:20:3
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEVC_TWR:50:4
 ATIS2:$radioname
-ATIS3:vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEVC_APP:150:5
 ATIS2:$radioname
-ATIS3:SFC/FL125 - vats.im/lexx || https://beta.vatglasses.uk/spain/
+ATIS3:SFC/FL125 - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 END
