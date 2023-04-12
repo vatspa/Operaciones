@@ -63,7 +63,7 @@
 .rrs .rings N040.58.20.587,W003.33.47.937 10 7
 
 ;*** 03 Información ON/OFF Canal ATC ***
-.on /Hi all. Hola a todos. $radioname on line.
+.on /Hi all. Hola a todos. $radioname on duty.
 .off /$radioname closing. Bye all. Hasta luego.
 
 ;*** 04 Advertencias ***
