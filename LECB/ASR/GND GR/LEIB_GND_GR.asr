@@ -3,7 +3,6 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Geo:LEIB Groundlayout GND:
 Regions:LEIB Groundlayout:polygon
 SHOWC:1
 SHOWSB:0
@@ -18,6 +17,6 @@ DISABLEPANNING:1
 DISABLEZOOMING:1
 DisplayRotation:28.40000
 TAGFAMILY:GRplugin
-WINDOWAREA:38.866407:1.348553:38.887315:1.398057
+WINDOWAREA:38.871703:1.350931:38.888567:1.390861
 PLUGIN:Ground Radar plugin:GroundMode:LEIB
 PLUGIN:TopSky plugin:NoDraw:1
