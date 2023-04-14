@@ -279,6 +279,9 @@
 			<sid name="AGENA">
 				<alt>060</alt>
 			</sid>
+			<sid name="CLE">
+				<alt>060</alt>
+			</sid>
 			<sid name="DALIN">
 				<alt>060</alt>
 			</sid>
@@ -331,6 +334,9 @@
 			</sid>
 			<sid name="AGENA4B">
 				<alt>040</alt>
+			</sid>
+			<sid name="CLE">
+				<alt>060</alt>
 			</sid>
 			<sid name="DALIN3T">
 				<alt>060</alt>
@@ -428,6 +434,9 @@
 		</runway>
 		<runway name="06R">
 			<sid name="AGENA">
+				<alt>060</alt>
+			</sid>
+			<sid name="CLE">
 				<alt>060</alt>
 			</sid>
 			<sid name="DALIN">
