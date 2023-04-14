@@ -279,13 +279,16 @@
 			<sid name="AGENA">
 				<alt>060</alt>
 			</sid>
-			<sid name="CLE">
-				<alt>060</alt>
-			</sid>
 			<sid name="DALIN">
 				<alt>060</alt>
 			</sid>
+			<sid name="DIPES">
+				<alt>060</alt>
+			</sid>
 			<sid name="DUNES">
+				<alt>060</alt>
+			</sid>
+			<sid name="DUQQI">
 				<alt>060</alt>
 			</sid>
 			<sid name="GRAUS">
@@ -300,66 +303,126 @@
 			<sid name="LOTOS">
 				<alt>060</alt>
 			</sid>
+			<sid name="MAMUK">
+				<alt>060</alt>
+			</sid>
 			<sid name="MOPAS">
 				<alt>060</alt>
 			</sid>
 			<sid name="NATPI">
 				<alt>060</alt>
 			</sid>
-			<sid name="OKABI">
+			<sid name="OLOXO">
+				<alt>060</alt>
+			</sid>
+			<sid name="REBUL">
 				<alt>060</alt>
 			</sid>
 			<sid name="SENIA">
 				<alt>060</alt>
 			</sid>
-			<sid name="VERSO">
-				<alt>060</alt>
-			</sid>
-			<sid name="VLA">
+			<sid name="VIBOK">
 				<alt>060</alt>
 			</sid>
 		</runway>
 		<runway name="06L">
-			<sid name="AGENA">
+			<sid name="AGENA3T">
 				<alt>060</alt>
 			</sid>
-			<sid name="CLE">
+			<sid name="AGENA4B">
+				<alt>040</alt>
+			</sid>
+			<sid name="DALIN3T">
 				<alt>060</alt>
 			</sid>
-			<sid name="DALIN">
+			<sid name="DALIN4B">
+				<alt>040</alt>
+			</sid>
+			<sid name="DIPES1T">
 				<alt>060</alt>
 			</sid>
-			<sid name="DUNES">
+			<sid name="DIPES1B">
+				<alt>040</alt>
+			</sid>
+			<sid name="DUNES3T">
 				<alt>060</alt>
 			</sid>
-			<sid name="GRAUS">
+			<sid name="DUNES4B">
+				<alt>040</alt>
+			</sid>
+			<sid name="DUQQI1T">
 				<alt>060</alt>
 			</sid>
-			<sid name="LARPA">
+			<sid name="GRAUS2T">
 				<alt>060</alt>
 			</sid>
-			<sid name="LOBAR">
+			<sid name="GRAUS2A">
 				<alt>060</alt>
 			</sid>
-			<sid name="LOTOS">
+			<sid name="GRAUS7B">
+				<alt>040</alt>
+			</sid>
+			<sid name="LARPA3T">
 				<alt>060</alt>
 			</sid>
-			<sid name="MOPAS">
+			<sid name="LARPA4B">
+				<alt>040</alt>
+			</sid>
+			<sid name="LOBAR3T">
 				<alt>060</alt>
 			</sid>
-			<sid name="NATPI">
+			<sid name="LOBAR2A">
 				<alt>060</alt>
 			</sid>
-			<sid name="OKABI">
+			<sid name="LOBAR6B">
+				<alt>040</alt>
+			</sid>
+			<sid name="LOTOS2T">
 				<alt>060</alt>
 			</sid>
-			<sid name="SENIA">
+			<sid name="LOTOS4B">
+				<alt>040</alt>
+			</sid>
+			<sid name="MAMUK">
 				<alt>060</alt>
 			</sid>
-			<sid name="VERSO">
+			<sid name="MOPAS2T">
 				<alt>060</alt>
 			</sid>
-			<sid name="VLA">
+			<sid name="MOPAS2A">
+				<alt>060</alt>
+			</sid>
+			<sid name="MOPAS8B">
+				<alt>040</alt>
+			</sid>
+			<sid name="NATPI1T">
+				<alt>060</alt>
+			</sid>
+			<sid name="NATPI2A">
+				<alt>060</alt>
+			</sid>
+			<sid name="NATPI2B">
+				<alt>040</alt>
+			</sid>
+			<sid name="OLOXO1T">
+				<alt>060</alt>
+			</sid>
+			<sid name="OLOXO1A">
+				<alt>060</alt>
+			</sid>
+			<sid name="OLOXO1B">
+				<alt>040</alt>
+			</sid>
+			<sid name="REBUL">
+				<alt>060</alt>
+			</sid>
+			<sid name="SENIA2T">
+				<alt>060</alt>
+			</sid>
+			<sid name="SENIA6B">
+				<alt>040</alt>
+			</sid>
+			<sid name="VIBOK1T">
 				<alt>060</alt>
 			</sid>
 		</runway>
@@ -367,13 +430,16 @@
 			<sid name="AGENA">
 				<alt>060</alt>
 			</sid>
-			<sid name="CLE">
-				<alt>060</alt>
-			</sid>
 			<sid name="DALIN">
 				<alt>060</alt>
 			</sid>
+			<sid name="DIPES">
+				<alt>060</alt>
+			</sid>
 			<sid name="DUNES">
+				<alt>060</alt>
+			</sid>
+			<sid name="DUQQI">
 				<alt>060</alt>
 			</sid>
 			<sid name="GRAUS">
@@ -388,22 +454,25 @@
 			<sid name="LOTOS">
 				<alt>060</alt>
 			</sid>
+			<sid name="MAMUK">
+				<alt>060</alt>
+			</sid>
 			<sid name="MOPAS">
 				<alt>060</alt>
 			</sid>
 			<sid name="NATPI">
 				<alt>060</alt>
 			</sid>
-			<sid name="OKABI">
+			<sid name="OLOXO">
+				<alt>060</alt>
+			</sid>
+			<sid name="REBUL">
 				<alt>060</alt>
 			</sid>
 			<sid name="SENIA">
 				<alt>060</alt>
 			</sid>
-			<sid name="VERSO">
-				<alt>060</alt>
-			</sid>
-			<sid name="VLA">
+			<sid name="VIBOK">
 				<alt>060</alt>
 			</sid>
 		</runway>
@@ -411,13 +480,16 @@
 			<sid name="AGENA">
 				<alt>060</alt>
 			</sid>
-			<sid name="CLE">
-				<alt>060</alt>
-			</sid>
 			<sid name="DALIN">
 				<alt>060</alt>
 			</sid>
+			<sid name="DIPES">
+				<alt>060</alt>
+			</sid>
 			<sid name="DUNES">
+				<alt>060</alt>
+			</sid>
+			<sid name="DUQQI">
 				<alt>060</alt>
 			</sid>
 			<sid name="GRAUS">
@@ -432,22 +504,25 @@
 			<sid name="LOTOS">
 				<alt>060</alt>
 			</sid>
+			<sid name="MAMUK">
+				<alt>060</alt>
+			</sid>
 			<sid name="MOPAS">
 				<alt>060</alt>
 			</sid>
 			<sid name="NATPI">
 				<alt>060</alt>
 			</sid>
-			<sid name="OKABI">
+			<sid name="OLOXO">
+				<alt>060</alt>
+			</sid>
+			<sid name="REBUL">
 				<alt>060</alt>
 			</sid>
 			<sid name="SENIA">
 				<alt>060</alt>
 			</sid>
-			<sid name="VERSO">
-				<alt>060</alt>
-			</sid>
-			<sid name="VLA">
+			<sid name="VIBOK">
 				<alt>060</alt>
 			</sid>
 		</runway>
@@ -455,13 +530,16 @@
 			<sid name="AGENA">
 				<alt>060</alt>
 			</sid>
-			<sid name="CLE">
-				<alt>060</alt>
-			</sid>
 			<sid name="DALIN">
 				<alt>060</alt>
 			</sid>
+			<sid name="DIPES">
+				<alt>060</alt>
+			</sid>
 			<sid name="DUNES">
+				<alt>060</alt>
+			</sid>
+			<sid name="DUQQI">
 				<alt>060</alt>
 			</sid>
 			<sid name="GRAUS">
@@ -476,66 +554,111 @@
 			<sid name="LOTOS">
 				<alt>060</alt>
 			</sid>
+			<sid name="MAMUK">
+				<alt>060</alt>
+			</sid>
 			<sid name="MOPAS">
 				<alt>060</alt>
 			</sid>
 			<sid name="NATPI">
 				<alt>060</alt>
 			</sid>
-			<sid name="OKABI">
+			<sid name="OLOXO">
+				<alt>060</alt>
+			</sid>
+			<sid name="REBUL">
 				<alt>060</alt>
 			</sid>
 			<sid name="SENIA">
 				<alt>060</alt>
 			</sid>
-			<sid name="VERSO">
-				<alt>060</alt>
-			</sid>
-			<sid name="VLA">
+			<sid name="VIBOK">
 				<alt>060</alt>
 			</sid>
 		</runway>
 		<runway name="24R">
-			<sid name="AGENA">
+			<sid name="AGENA1P">
 				<alt>060</alt>
 			</sid>
-			<sid name="CLE">
+			<sid name="AGENA5D">
+				<alt>040</alt>
+			</sid>
+			<sid name="DALIN3P">
 				<alt>060</alt>
 			</sid>
-			<sid name="DALIN">
+			<sid name="DALIN5D">
+				<alt>040</alt>
+			</sid>
+			<sid name="DIPES1P">
 				<alt>060</alt>
 			</sid>
-			<sid name="DUNES">
+			<sid name="DIPES1D">
+				<alt>040</alt>
+			</sid>
+			<sid name="DUNES4P">
 				<alt>060</alt>
 			</sid>
-			<sid name="GRAUS">
+			<sid name="DUNES5D">
+				<alt>040</alt>
+			</sid>
+			<sid name="DUQQI1P">
 				<alt>060</alt>
 			</sid>
-			<sid name="LARPA">
+			<sid name="GRAUS3P">
 				<alt>060</alt>
 			</sid>
-			<sid name="LOBAR">
+			<sid name="GRAUS8D">
+				<alt>040</alt>
+			</sid>
+			<sid name="LARPA4P">
 				<alt>060</alt>
 			</sid>
-			<sid name="LOTOS">
+			<sid name="LARPA5D">
+				<alt>040</alt>
+			</sid>
+			<sid name="LOBAR4P">
 				<alt>060</alt>
 			</sid>
-			<sid name="MOPAS">
+			<sid name="LOBAR7D">
+				<alt>040</alt>
+			</sid>
+			<sid name="LOTOS4P">
 				<alt>060</alt>
 			</sid>
-			<sid name="NATPI">
+			<sid name="LOTOS6D">
+				<alt>040</alt>
+			</sid>
+			<sid name="MAMUK">
 				<alt>060</alt>
 			</sid>
-			<sid name="OKABI">
+			<sid name="MOPAS3P">
 				<alt>060</alt>
 			</sid>
-			<sid name="SENIA">
+			<sid name="MOPAS8D">
+				<alt>040</alt>
+			</sid>
+			<sid name="NATPI1P">
 				<alt>060</alt>
 			</sid>
-			<sid name="VERSO">
+			<sid name="NATPI2D">
+				<alt>040</alt>
+			</sid>
+			<sid name="OLOXO1P">
 				<alt>060</alt>
 			</sid>
-			<sid name="VLA">
+			<sid name="OLOXO1D">
+				<alt>040</alt>
+			</sid>
+			<sid name="REBUL">
+				<alt>060</alt>
+			</sid>
+			<sid name="SENIA4P">
+				<alt>060</alt>
+			</sid>
+			<sid name="SENIA9D">
+				<alt>040</alt>
+			</sid>
+			<sid name="VIBOK">
 				<alt>060</alt>
 			</sid>
 		</runway>
