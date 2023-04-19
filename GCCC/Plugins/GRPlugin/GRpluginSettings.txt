@@ -312,8 +312,8 @@ Window_APP_AltFilter=4000
 
 [GCRR]
 
-List_Inbound=*,2,0,580
-List_Outbound=*,2,1730,450
+List_Inbound=*,2,1350,780
+List_Outbound=*,2,1735,780
 Airport_SMR_Raw=2
 Airport_SMR_Track=2
 Airport_ModeA=2
@@ -321,9 +321,9 @@ Airport_ModeS=2
 Airport_Dep_Transfer_Height=1000
 Airport_Elevation=47
 Airport_Radius=3
-Window_APP_Rotation=63
-Window_APP=1,0,302,520,270
-Window_APP_Scale=10
+Window_APP_Rotation=243
+Window_APP=1,850,800,290,195
+Window_APP_Scale=12
 Window_APP_Extensions=0
 Window_APP_Extensions_TickWidth=0
 Window_APP_AltFilter=4000
