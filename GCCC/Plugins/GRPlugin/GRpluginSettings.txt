@@ -197,6 +197,7 @@ Window_APP=1,0,320,350,300
 Window_APP_Scale=13
 Window_APP_Extensions=0
 Window_APP_Extensions_TickWidth=0
+Window_APP_AltFilter=4000
 
 [GCGM]
 
@@ -214,6 +215,7 @@ Window_APP=1,0,302,520,270
 Window_APP_Scale=30
 Window_APP_Extensions=0
 Window_APP_Extensions_TickWidth=0
+Window_APP_AltFilter=4000
 
 [GCHI]
 
@@ -231,6 +233,7 @@ Window_APP=1,0,302,520,270
 Window_APP_Scale=22
 Window_APP_Extensions=0
 Window_APP_Extensions_TickWidth=0
+Window_APP_AltFilter=4000
 
 [GCLA]
 
@@ -248,6 +251,7 @@ Window_APP=1,0,302,520,270
 Window_APP_Scale=16
 Window_APP_Extensions=0
 Window_APP_Extensions_TickWidth=0
+Window_APP_AltFilter=4000
 
 [GCLP]
 
@@ -286,6 +290,7 @@ Window_APP=1,0,302,520,270
 Window_APP_Scale=10
 Window_APP_Extensions=0
 Window_APP_Extensions_TickWidth=0
+Window_APP_AltFilter=4000
 
 [GCTS]
 
@@ -303,11 +308,12 @@ Window_APP=1,0,350,400,280
 Window_APP_Scale=16
 Window_APP_Extensions=0
 Window_APP_Extensions_TickWidth=0
+Window_APP_AltFilter=4000
 
 [GCXO]
 
-List_Inbound=*,2,0,580
-List_Outbound=*,2,1730,450
+List_Inbound=*,2,0,600
+List_Outbound=*,2,1735,600
 Airport_SMR_Raw=2
 Airport_SMR_Track=2
 Airport_ModeA=2
@@ -315,8 +321,9 @@ Airport_ModeS=2
 Airport_Dep_Transfer_Height=1000
 Airport_Elevation=2077
 Airport_Radius=1.2
-Window_APP_Rotation=339.3
-Window_APP=1,0,302,520,270
-Window_APP_Scale=10
+Window_APP_Rotation=159.3
+Window_APP=1,0,302,520,298
+Window_APP_Scale=17
 Window_APP_Extensions=0
 Window_APP_Extensions_TickWidth=0
+Window_APP_AltFilter=5000
