@@ -201,8 +201,8 @@ Window_APP_AltFilter=4000
 
 [GCGM]
 
-List_Inbound=*,2,0,580
-List_Outbound=*,2,1730,450
+List_Inbound=*,2,0,800
+List_Outbound=*,2,1735,800
 Airport_SMR_Raw=2
 Airport_SMR_Track=2
 Airport_ModeA=2
@@ -210,7 +210,7 @@ Airport_ModeS=2
 Airport_Dep_Transfer_Height=1000
 Airport_Elevation=716
 Airport_Radius=1.2
-Window_APP_Rotation=8.9
+Window_APP_Rotation=188.9
 Window_APP=1,0,302,520,270
 Window_APP_Scale=30
 Window_APP_Extensions=0
