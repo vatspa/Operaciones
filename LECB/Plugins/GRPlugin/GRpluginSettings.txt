@@ -198,7 +198,7 @@ Label=GND:ARR:3:GS,0,0,1:AFL,0,1,30:CFL,0,1,300:ADEP,0,1
 
 [LEAL]
 
-List_Inbound=*,2,0,500
+List_Inbound=*,2,0,725
 List_Outbound=*,2,1730,610
 Airport_SMR_Raw=2
 Airport_SMR_Track=2
@@ -207,9 +207,12 @@ Airport_ModeS=2
 Airport_Dep_Transfer_Height=1000
 Airport_Elevation=142
 Airport_Radius=2
+Window_APP_Extensions=0
+Window_APP_Extensions_TickWidth=0
+Window_APP_Rotation=-10
+Window_APP=1,0,335,680,270
 Window_APP_AltFilter=7000
 System_TowerMode_AltFilter_Low=192
-
 
 [LEBL]
 
@@ -278,7 +281,7 @@ Airport_Runway_End=19:N041.54.56.524:E002.45.57.945
 
 [LEIB]
 
-List_Inbound=*,2,0,745
+List_Inbound=*,2,0,700
 List_Outbound=*,2,1730,500
 Airport_SMR_Raw=2
 Airport_SMR_Track=2
@@ -291,7 +294,6 @@ Window_APP_Extensions=0
 Window_APP_Extensions_TickWidth=0
 Window_APP_Rotation=28.4
 Window_APP=1,0,381,580,320
-Window_APP=1,0,322,520,270
 Window_APP_AltFilter=7000
 System_TowerMode_AltFilter_Low=74
 
@@ -339,7 +341,7 @@ Airport_Runway_End=19:N039.52.26.168:E004.13.15.541
 
 [LEMI]
 
-List_Inbound=*,2,0,500
+List_Inbound=*,2,0,692
 List_Outbound=*,2,1730,610
 Airport_SMR_Raw=2
 Airport_SMR_Track=2
@@ -348,6 +350,9 @@ Airport_ModeS=2
 Airport_Dep_Transfer_Height=1000
 Airport_Radius=1
 Airport_Elevation=644
+Window_APP_Extensions=0
+Window_APP_Extensions_TickWidth=0
+Window_APP_Rotation=45.4
 Window_APP_AltFilter=7700
 System_TowerMode_AltFilter_Low=700
 
@@ -373,7 +378,6 @@ Airport_Runway_Thr=06R:N039.32.28.465:E002.43.54.239
 Airport_Runway_End=06R:N039.32.28.465:E002.43.54.239
 Airport_Runway_Thr=24R:N039.33.45.040:E002.44.35.525
 Airport_Runway_End=24R:N039.33.45.040:E002.44.35.525
-
 
 [LERS]
 
@@ -410,8 +414,8 @@ System_TowerMode_AltFilter_Low=2680
 
 [LEVC]
 
-List_Inbound=*,2,0,500
-List_Outbound=*,2,1730,610
+List_Inbound=*,2,0,800
+List_Outbound=*,2,1735,670
 Airport_SMR_Raw=2
 Airport_SMR_Track=2
 Airport_ModeA=2
@@ -419,6 +423,11 @@ Airport_ModeS=2
 Airport_Dep_Transfer_Height=1000
 Airport_Elevation=240
 Airport_Radius=3
+Window_APP_Extensions=0
+Window_APP_Extensions_TickWidth=0
+Window_APP_Rotation=153.6
+Window_APP=1,1520,371,400,300
+Window_APP_Scale=9
 Window_APP_AltFilter=7300
 System_TowerMode_AltFilter_Low=290
 Airport_Runway_Thr=30:N039.29.01.032:W000.28.00.036
