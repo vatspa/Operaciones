@@ -19,5 +19,3 @@ TAGFAMILY:SACTA PLUGIN - APP/CTR
 WINDOWAREA:38.870594:2.173457:40.616702:6.307801
 PLUGIN:ESCenterlines:Display Active:1
 PLUGIN:ESCenterlines:Display_Centerlines:1
-PLUGIN:TopSky plugin:HideMapData:APP,APP_F,TWR
-PLUGIN:TopSky plugin:ShowMapData:CTR
