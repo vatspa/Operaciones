@@ -1369,7 +1369,9 @@
             },
 			{
                "direction": "EVEN",
-			   "min_fl": 245
+			   "min_fl": 195,
+			   "max_fl": 245,
+			   "airways": ["DCT ELTAN"]
             }
          ],
 		  	"LAMPA": [

@@ -3,7 +3,6 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Geo:LEBL Groundlayout GND SACTA:
 Regions:LEBL Groundlayout:polygon
 SHOWC:1
 SHOWSB:0

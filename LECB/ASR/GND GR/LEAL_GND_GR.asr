@@ -1,9 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE
+SECTORFILE:
 SECTORTITLE:
-Geo:LEAL Groundlayout GND:
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -15,8 +14,8 @@ HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:1
 DISABLEZOOMING:1
-DisplayRotation:349.80000
-TAGFAMILY:GRplugin
-WINDOWAREA:38.275230:-0.577735:38.294893:-0.531178
+DisplayRotation:169.80000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:38.270627:-0.581759:38.290452:-0.534819
 PLUGIN:Ground Radar plugin:GroundMode:LEAL
 PLUGIN:TopSky plugin:NoDraw:1
