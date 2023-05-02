@@ -827,7 +827,7 @@
 					"LFHN"]
 			}
          ],
-		  	"OKABI": [
+		  	"OLOXO": [
             {
                "direction": "EVEN",
 			   "min_fl": 195,
@@ -854,7 +854,6 @@
                "direction": "EVEN",
 			   "min_fl": 195,
 			   "max_fl": 365,
-			   "airways": ["UN861"],
 			   "destinations": ["LFAI",
 					"LFPM",
 					"LFPN",
@@ -881,8 +880,7 @@
 			{
                "direction": "EVEN",
 			   "min_fl": 195,
-			   "max_fl": 500,
-			   "airways": ["UN861"]
+			   "max_fl": 500
 			},
 			{
                "direction": "EVEN",
@@ -951,7 +949,6 @@
                "direction": "EVEN",
 			   "min_fl": 195,
 			   "max_fl": 345,
-			   "airways": ["UN861"],
 			   "destinations": ["EGFF",
 					"EGFH",
 					"EGGD",
@@ -1367,10 +1364,18 @@
 					"LFSB",
 					"EDNY"]
             },
+          {
+               "direction": "EVEN",
+			   "min_fl": 245,
+			   "max_fl": 365,
+			   "airways": ["DCT ELTAN"],
+			   "destinations": ["LS",
+					"LFSB",
+					"EDNY"]
+            },
 			{
                "direction": "EVEN",
-			   "min_fl": 195,
-			   "max_fl": 245,
+			   "min_fl": 245,
 			   "airways": ["DCT ELTAN"]
             }
          ],
@@ -1413,12 +1418,12 @@
 					"LEMI"]
             },
 			{
-               "direction": "ODD",
+            "direction": "ODD",
 			   "min_fl": 145,
 			   "airways": ["UM603"]
             },
 			{
-               "direction": "ODD",
+            "direction": "ODD",
 			   "min_fl": 95,
 			   "max_fl": 145,
 			   "airways": ["R59"]
@@ -1426,7 +1431,7 @@
          ],
 		 	"XOSTA": [
             {
-               "direction": "ODD",
+            "direction": "ODD",
 			   "min_fl": 145,
 			   "max_fl": 315,
 			   "airways": ["UM134"],
@@ -1457,7 +1462,7 @@
 		],
 		 	"EPAMA": [
             {
-               "direction": "EVEN",
+            "direction": "EVEN",
 				"min_fl": 145,
 				"max_fl": 345,
 				"airways": ["UN856"],
