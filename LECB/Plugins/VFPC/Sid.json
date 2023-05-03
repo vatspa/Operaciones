@@ -644,7 +644,7 @@
 			   "min_fl": 95,
 			   "max_fl": 145,
 			   "airways": ["A27"],
-			   "destinations": ["LEPA""LEIB","LESB","LESJ"]
+			   "destinations": ["LEPA","LEIB","LESB","LESJ"]
             },
 			{
             "direction": "ODD",
@@ -702,8 +702,8 @@
             },
             {
             "direction": "EVEN",
-			   "min_fl": 195,
-            },
+			   "min_fl": 195
+            }
          ],
 		  	"MAMUK": [
             {
@@ -732,7 +732,7 @@
 			   "max_fl": 335,
 			   "airways": ["UL110"],
 			   "destinations": ["LEAS","LEVD","LELN","LPPR","LECO","LEST","LEVX"]
-            }
+            },
             {
             "direction": "ODD",
 			   "min_fl": 145,
@@ -786,7 +786,7 @@
             "direction": "EVEN",
 				"min_fl": 95,
 				"max_fl": 660,
-				"airways": ["UN856"],
+				"airways": ["UN856"]
             },
 			{
             "direction": "EVEN",
