@@ -1401,54 +1401,61 @@
    {
       "icao": "LERS",
       "sids": {
+		 	"ARBEK": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "BCN": [
+            {
+               "direction": "ODD",
+               "airways": ["UN870","UN985","UN725"]
+            }
+         ],
+         "CRETA": [
+            {
+               "direction": "ODD"
+            }
+         ],
 		 	"DIRMU": [
             {
                "direction": "EVEN"
             }
          ],
-		  	"POSSY": [
-            {
-               "direction": "EVEN"
-            }
-         ],
-		  	"ARBEK": [
-            {
-               "direction": "EVEN"
-            }
-         ],
-		  	"BCN": [
-            {
-               "direction": "ANY"
-            }
-         ],
-		 	"RULOS": [
-            {
-               "direction": "EVEN"
-            }
-         ],
-		 	"GARBI": [
+         "EBROX": [
             {
                "direction": "ODD"
             }
          ],
-		 	"RUBOT": [
+         "GARBI": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "MLA": [
+            {
+               "direction": "ODD",
+               "destinations": ["LEZG"]
+            }
+         ],
+         "POSSY": [
             {
                "direction": "EVEN"
             }
          ],
-		 	"EBROX": [
+         "RUBOT": [
             {
-               "direction": "ODD"
+               "direction": "EVEN"
             }
          ],
-		 	"CRETA": [
+		  	"RULOS": [
             {
-               "direction": "ODD"
+               "direction": "EVEN"
             }
          ],
-			"MLA": [
+         "VIBOK": [
             {
-               "direction": "ODD"
+               "direction": "EVEN"
             }
          ]
       }
