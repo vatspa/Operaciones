@@ -173,10 +173,10 @@
 .tode programe $alt sobre $1 y comience descenso al alcanzar su TOD
 .up climb to $alt
 .u climb to $alt
-.upe ascienda a $alt
+.upe suba para $alt
 .down descend to $alt
 .d descend to $alt
-.downe descienda a $alt
+.downe descienda para $alt
 .daq Descend to $alt, QNH $altim($arr).
 .daqe Descienda a $alt, QNH $altim($arr).
 .ldown descend to $alt to be leveled over $1
