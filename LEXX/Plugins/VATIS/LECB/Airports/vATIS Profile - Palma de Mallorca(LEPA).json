@@ -1,11 +1,11 @@
 {
-  "Name": "Barcelona Control (E)",
+  "Name": "Palma de Mallorca (LEPA)",
   "Composites": [
     {
-      "Id": "3ddcc4fa-55a7-4dd3-8756-302ab61b69fd",
-      "Name": "Menorca",
-      "Identifier": "LEMH",
-      "AtisType": 0,
+      "Id": "39684b93-d47f-4224-8ef5-4e4c76e3c46d",
+      "Name": "Palma de Mallorca",
+      "Identifier": "LEPA",
+      "AtisType": 1,
       "Contractions": [
         {
           "String": "W",
@@ -52,10 +52,10 @@
           "Spoken": "NO-SIG"
         }
       ],
-      "AtisFrequency": 29150,
+      "AtisFrequency": 21775,
       "ObservationTime": {
         "Enabled": false,
-        "Time": 0
+        "Time": 1
       },
       "MagneticVariation": {
         "Enabled": false,
@@ -68,8 +68,8 @@
       "IDSEndpoint": "",
       "Presets": [
         {
-          "Name": "N",
-          "AirportConditions": "ARRIVAL RWY 01. DEPARTURE RWY 01. EXPECT ILS YANKEE APPROACH 01. ",
+          "Name": "EAST",
+          "AirportConditions": "DEPARTURE RWY 06 RIGHT.",
           "Notams": null,
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
@@ -82,11 +82,11 @@
           }
         },
         {
-          "Name": "S",
-          "AirportConditions": "ARRIVAL RWY 19. DEPARTURE RWY 19. EXPECT ILS YANKE APPROACH 19. ",
+          "Name": "WEST",
+          "AirportConditions": "DEPARTURE RWY 24 RIGHT.",
           "Notams": null,
           "ArbitraryText": null,
-          "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
+          "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "ExternalGenerator": {
             "Url": null,
             "Arrival": null,
@@ -209,7 +209,7 @@
       "Presets": [
         {
           "Name": "EAST",
-          "AirportConditions": "DEPARTURE RWY 06 RIGHT.",
+          "AirportConditions": "ARRIVAL RWY 06 LEFT. EXPECT ILS ZULU APPROACH 06 LEFT. ",
           "Notams": null,
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
@@ -223,147 +223,7 @@
         },
         {
           "Name": "WEST",
-          "AirportConditions": "DEPARTURE RWY 24 RIGHT.",
-          "Notams": null,
-          "ArbitraryText": null,
-          "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
-          "ExternalGenerator": {
-            "Url": null,
-            "Arrival": null,
-            "Departure": null,
-            "Approaches": null,
-            "Remarks": null
-          }
-        }
-      ],
-      "AirportConditionDefinitions": [],
-      "AirportConditionsBeforeFreeText": false,
-      "NotamDefinitions": [],
-      "NotamsBeforeFreeText": false,
-      "TransitionLevels": [
-        {
-          "Low": 1032,
-          "High": 1050,
-          "Altitude": 65
-        },
-        {
-          "Low": 1014,
-          "High": 1031,
-          "Altitude": 70
-        },
-        {
-          "Low": 996,
-          "High": 1013,
-          "Altitude": 75
-        },
-        {
-          "Low": 978,
-          "High": 995,
-          "Altitude": 80
-        },
-        {
-          "Low": 960,
-          "High": 977,
-          "Altitude": 85
-        },
-        {
-          "Low": 942,
-          "High": 959,
-          "Altitude": 90
-        }
-      ],
-      "UseFaaFormat": false,
-      "UseExternalAtisGenerator": false,
-      "UseNotamPrefix": false,
-      "UseTransitionLevelPrefix": false,
-      "UseMetricUnits": false,
-      "UseSurfaceWindPrefix": true,
-      "UseVisibilitySuffix": true,
-      "UseDecimalTerminology": true
-    },
-    {
-      "Id": "d89d63f8-aeaf-4fc0-91ee-930ee3635101",
-      "Name": "Palma de Mallorca",
-      "Identifier": "LEPA",
-      "AtisType": 1,
-      "Contractions": [
-        {
-          "String": "W",
-          "Spoken": "WHISKEY"
-        },
-        {
-          "String": "E",
-          "Spoken": "ECHO"
-        },
-        {
-          "String": "N",
-          "Spoken": "NOVEMBER"
-        },
-        {
-          "String": "L",
-          "Spoken": "LIMA"
-        },
-        {
-          "String": "R-NAV",
-          "Spoken": "ARE-NAV"
-        },
-        {
-          "String": "Z",
-          "Spoken": "ZULU"
-        },
-        {
-          "String": "UTC",
-          "Spoken": "YOU-T-SEE"
-        },
-        {
-          "String": "Y",
-          "Spoken": "YANKEE"
-        },
-        {
-          "String": "RWY",
-          "Spoken": "RUNWAY"
-        },
-        {
-          "String": "RWYS",
-          "Spoken": "RUNWAYS"
-        },
-        {
-          "String": "NOSIG",
-          "Spoken": "NO-SIG"
-        }
-      ],
-      "AtisFrequency": 21775,
-      "ObservationTime": {
-        "Enabled": false,
-        "Time": 1
-      },
-      "MagneticVariation": {
-        "Enabled": false,
-        "MagneticDegrees": 0
-      },
-      "AtisVoice": {
-        "UseTextToSpeech": true,
-        "Voice": "Default"
-      },
-      "IDSEndpoint": "",
-      "Presets": [
-        {
-          "Name": "EAST",
-          "AirportConditions": "DEPARTURE RWY 06 RIGHT.",
-          "Notams": null,
-          "ArbitraryText": null,
-          "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
-          "ExternalGenerator": {
-            "Url": null,
-            "Arrival": null,
-            "Departure": null,
-            "Approaches": null,
-            "Remarks": null
-          }
-        },
-        {
-          "Name": "WEST",
-          "AirportConditions": "DEPARTURE RWY 24 RIGHT.",
+          "AirportConditions": "ARRIVAL RWY 24 LEFT. EXPECT ILS ZULU APPROACH 24 LEFT. ",
           "Notams": null,
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
