@@ -1627,7 +1627,7 @@
                "min_fl": 145,
                "max_fl": 660,
                "airways": ["UM985"]
-            }
+            },
             {
                "direction": "ODD",
                "min_fl": 95,
