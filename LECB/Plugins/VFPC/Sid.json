@@ -1552,17 +1552,87 @@
          ],
          "CRETA": [
             {
-               "direction": "ODD"
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 295,
+               "destinations": ["LECU","LEGT","LEMD","LETO","LEVS","LEBB","LEBG","LEPP","LERJ","LESO","LEVT","LEXJ"],
+               "airways": ["UZ596"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 335,
+               "destinations": ["LECU","LEGT","LEMD","LETO","LEVS","LEBB","LEBG","LEPP","LERJ","LESO","LEVT","LEXJ","LECO","LEST","LEVX","LEAS","LEVD","LELN","LPPR"],
+               "airways": ["UZ596"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 660,
+               "airways": ["UZ596"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 95,
+               "max_fl": 145,
+               "airways": ["J596"]
             }
          ],
 		 	"DIRMU": [
             {
-               "direction": "EVEN"
+               "direction": "ODD",
+               "min_fl": 195,
+               "max_fl": 295,
+               "destinations": ["LECU","LEGT","LEMD","LETO","LEVS","LEBB","LEBG","LEPP","LERJ","LESO","LEVT","LEXJ"],
+               "airways": ["UN725"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 195,
+               "max_fl": 335,
+               "destinations": ["LECU","LEGT","LEMD","LETO","LEVS","LEBB","LEBG","LEPP","LERJ","LESO","LEVT","LEXJ","LECO","LEST","LEVX","LEAS","LEVD","LELN","LPPR"],
+               "airways": ["UN725"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 195,
+               "max_fl": 660,
+               "airways": ["UN725"]
             }
          ],
          "EBROX": [
             {
-               "direction": "ODD"
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 195,
+               "destinations": ["LEIB"],
+               "airways": ["UM985"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 285,
+               "destinations": ["LEVC"],
+               "airways": ["UM985"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 305,
+               "destinations": ["LEAL","LELC","LEAB","LEMI"],
+               "airways": ["UM985"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 660,
+               "airways": ["UM985"]
+            }
+            {
+               "direction": "ODD",
+               "min_fl": 95,
+               "max_fl": 145,
+               "airways": ["B28"]
             }
          ],
          "GARBI": [
@@ -1583,7 +1653,30 @@
          ],
          "POSSY": [
             {
-               "direction": "EVEN"
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 295,
+               "destinations": ["LEBB","LEBG","LEPP","LERJ","LESO","LEVT","LEXJ"],
+               "airways": ["UM601"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 335,
+               "destinations": ["LEBB","LEBG","LEPP","LERJ","LESO","LEVT","LEXJ","LECO","LEST","LEVX","LEAS","LEVD","LELN","LPPR"],
+               "airways": ["UM601"]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 145,
+               "max_fl": 660,
+               "airways": ["UM601"]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 105,
+               "max_fl": 145,
+               "airways": ["G23"]
             }
          ],
          "RUBOT": [
