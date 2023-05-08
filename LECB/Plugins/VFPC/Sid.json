@@ -259,7 +259,7 @@
             "direction": "ANY",
 			   "min_fl": 60,
 			   "max_fl": 195,
-			   "destinations": ["LEGE"],
+			   "destinations": ["LEGE"]
 			}
          ],
 			"DALIN": [
@@ -514,13 +514,13 @@
             "direction": "EVEN",
 			   "min_fl": 195,
 			   "max_fl": 325,
-			   "destinations": ["LSER","LSEZ","LSGB","LSGC","LSGE","LSGK","LSGN","LSGR","LSGS","LSGT","LSGY","LSEA","LSEC","LSEG","LSMP","LSTB","LSTO","LSTR","LSTS","LSTZ","LSGG","LSGL","LSGP","LFLI","LFHN"],
+			   "destinations": ["LSER","LSEZ","LSGB","LSGC","LSGE","LSGK","LSGN","LSGR","LSGS","LSGT","LSGY","LSEA","LSEC","LSEG","LSMP","LSTB","LSTO","LSTR","LSTS","LSTZ","LSGG","LSGL","LSGP","LFLI","LFHN"]
             },
             {
             "direction": "EVEN",
 			   "min_fl": 195,
 			   "max_fl": 345,
-			   "destinations": ["LIME","LIMP","LIPE","LIPX","LIQS","LIRQ","LSZA","LSZL","LSZS","LFSB","LFST","LSZ","LSM","EDDS","EDNY","LF","EB","EDFH","EDDR","EDLN","EDRT","EDRZ","EHBK","ELLX","ETAD","ETAR","ETSB","LFJL"],
+			   "destinations": ["LIME","LIMP","LIPE","LIPX","LIQS","LIRQ","LSZA","LSZL","LSZS","LFSB","LFST","LSZ","LSM","EDDS","EDNY","LF","EB","EDFH","EDDR","EDLN","EDRT","EDRZ","EHBK","ELLX","ETAD","ETAR","ETSB","LFJL"]
             },
             {
             "direction": "EVEN",
@@ -623,7 +623,7 @@
             "direction": "EVEN",
 			   "min_fl": 135,
 			   "max_fl": 660,
-			   "airways": ["UN608"],
+			   "airways": ["UN608"]
 			   }
 			],
 		  	"OSVAK": [
@@ -1804,7 +1804,7 @@
                "min_fl": 145,
                "max_fl": 660,
                "airways": ["UN859"]
-            }
+            },
             {
                "direction": "ODD",
                "min_fl": 95,
