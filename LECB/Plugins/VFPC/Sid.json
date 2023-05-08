@@ -438,8 +438,9 @@
             "direction": "ODD",
 				"min_fl": 145,
 				"max_fl": 285,
-				"airways": ["UM985"],
-				"destinations": ["LEVC"]
+				"destinations": ["LEVC"],
+				"airways": ["UM985"]
+				
             },
 			{
             "direction": "ODD",
@@ -447,6 +448,7 @@
 				"max_fl": 305,
 				"destinations": ["LEAL","LELC","LEAB","LEMI"],
 				"airways": ["UM985"]
+				
             },
             {
             "direction": "ODD",
