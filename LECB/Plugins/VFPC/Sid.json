@@ -440,7 +440,6 @@
 				"max_fl": 285,
 				"destinations": ["LEVC"],
 				"airways": ["UM985"]
-				
             },
 			{
             "direction": "ODD",
