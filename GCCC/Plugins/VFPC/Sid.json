@@ -83,77 +83,49 @@
          "ARACO": [
             {
                "direction": "EVEN",
-               "airways": ["DCT"]
-            },
-            {
-               "direction": "ODD",
-               "max_fl": 195,
-               "airways": [""]
-            },
+               "min_fl": 60,
+               "destinations": ["GCLA"]
+            }
+         ],
+         "KOPUD": [
             {
                "direction": "EVEN",
-               "min_fl": 195,
-               "airways": [""]
+               "min_fl": 60,
+               "destinations": ["GCFV"]
             }
          ],
          "LPC": [
-            {
-               "direction": "ODD",
-            "airways": ["DCT"]
-            },
-            {
-               "direction": "ODD",
-               "max_fl": 195,
-               "airways": [""]
-            },
-            {
+               {
                "direction": "EVEN",
-               "min_fl": 195,
-               "airways": [""]
+               "min_fl": 60,
+               "destinations": ["GCLP"]
             }
-         ],
+            ],
          "TFN": [
             {
                "direction": "EVEN",
-            "min_fl": 100,
-            "airways": ["DCT"]
-            },
-            {
-               "direction": "ODD",
-               "max_fl": 195,
-               "airways": [""]
+               "min_fl": 100,
+               "destinations": ["GCXO"]
             },
             {
                "direction": "EVEN",
-               "min_fl": 195,
-               "airways": [""]
+               "min_fl": 100,
+               "max_fl": 145,
+               "airways": ["J602"]
             },
             {
                "direction": "EVEN",
-            "min_fl": 95,
-            "max_fl": 145,
-            "airways": ["J602"]
-            },
-            {
-               "direction": "EVEN",
-            "min_fl": 145,
-            "airways": ["UN602"]
+               "min_fl": 145,
+               "max_fl": 660,
+               "airways": ["UN602"]
             }
          ],
          "TFS": [
             {
                "direction": "EVEN",
-            "airways": ["DCT"]
-            },
-            {
-               "direction": "ODD",
+               "min_fl": 100,
                "max_fl": 195,
-               "airways": [""]
-            },
-            {
-               "direction": "EVEN",
-               "min_fl": 195,
-               "airways": [""]
+               "destinations": ["GCTS","GCGM"]
             }
          ]
       }
