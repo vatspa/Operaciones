@@ -286,36 +286,51 @@
          "SARAY": [
             {
                "direction": "EVEN",
-            "min_fl": 130,
-            "airways": ["DCT", ""]
+               "min_fl": 130,
+               "airways": ["DCT", ""]
             }
          ],
          "TFN": [
             {
-               "direction": "ANY",
-            "min_fl": 110,
-            "airways": ["DCT"]
+               "direction": "ODD",
+               "min_fl": 110,
+               "destinations": ["GCXO","A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 110,
+               "max_fl": 145,
+               "airways": ["J602"]
             },
             {
                "direction": "ODD",
-               "max_fl": 195,
-               "airways": [""]
+               "min_fl": 110,
+               "max_fl": 145,
+               "airways": ["H274"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 110,
+               "max_fl": 145,
+               "airways": ["G851"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 660,
+               "airways": ["UT274"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 660,
+               "airways": ["UN728"]
             },
             {
                "direction": "EVEN",
-               "min_fl": 195,
-               "airways": [""]
-            },
-            {
-               "direction": "EVEN",
-            "min_fl": 95,
-            "max_fl": 145,
-            "airways": ["J602"]
-            },
-            {
-               "direction": "EVEN",
-            "min_fl": 145,
-            "airways": ["UN602"]
+               "min_fl": 145,
+               "max_fl": 660,
+               "airways": ["UN602"]
             }
          ],
          "TFS": [
