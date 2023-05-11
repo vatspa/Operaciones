@@ -75,17 +75,20 @@
          "SAMAR": [
             {
                "direction": "EVEN",
-               "airways": ["DCT", ""]
+               "min_fl": 195,
+               "airways": ["DCT"]
             }
          ],
          "VASTO": [
             {
                "direction": "EVEN",
-               "airways": ["DCT", ""]
+               "min_fl": 195,
+               "airways": ["DCT"]
             },
             {
                "direction": "EVEN",
                "min_fl": 195,
+               "max_fl": 460,
                "airways": ["UN858"]
             }
          ]
