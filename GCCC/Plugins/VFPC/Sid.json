@@ -61,14 +61,15 @@
          ],
          "LUNOB": [
             {
-               "direction": "EVEN",
-               "airways": ["DCT", ""]
+               "direction": "ODD",
+               "min_fl": 60
             }
          ],
          "MAPED": [
             {
-               "direction": "EVEN",
-               "airways": ["DCT", ""]
+               "direction": "ODD",
+               "min_fl": 50,
+               "destinations": ["GCRR"]
             }
          ],
          "SAMAR": [
