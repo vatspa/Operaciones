@@ -40,18 +40,23 @@
          ],
          "LORPO": [
             {
-               "direction": "EVEN",
-               "airways": ["DCT"]
-            },
-            {
-               "direction": "EVEN",
-               "max_fl": 195,
-               "airways": [""]
+               "direction": "ODD",
+               "min_fl": 95,
+               "max_fl": 145,
+               "airways": ["DCT COSTI W279"],
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
             },
             {
                "direction": "ODD",
-               "min_fl": 195,
-               "airways": [""]
+               "min_fl": 145,
+               "max_fl": 660,
+               "airways": ["DCT COSTI UQ279"],
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 70,
+               "destinations": ["GCLB","GCLP","GCTS","GCGM"]
             }
          ],
          "LUNOB": [
