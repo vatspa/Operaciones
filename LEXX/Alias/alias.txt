@@ -89,6 +89,7 @@
 .cleare Autorizado a $arr. Salida $sid. Pista $deprwy. Suba via SID a $alt. Responder $squawk.
 .vclear RWY $deprwy. QNH $altim($dep). Squawk $squawk.
 .vcleare Pista $deprwy. QNH $altim($dep). Responder $squawk.
+.cdmc Cleared to $arr. $sid departure. RWY $deprwy. Climb via SID to $alt. Squawk $squawk. Check your LIVE VDGS Panel (https://cdm.vatsimspain.es/vdgs.php?style=vdgs1&callsign=$aircraft).
 
 ;*** 06 Puesta en marcha / Retroceso ***
 .read Readback correct.
