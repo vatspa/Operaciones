@@ -4,7 +4,7 @@
 	<rate ops="40" />
 	<rateLvo ops="10" />
 	<expiredCtot time="25" />
-	<realMode mode="false" />
+	<realMode mode="true" />
 	<Rates url="https://archivos.vatsimspain.es/Operaciones/Plugins/CDM_data/rate.txt" />
 	<Taxizones url="https://archivos.vatsimspain.es/Operaciones/Plugins/CDM_data/taxizones.txt" />
 	<Ctot url="https://archivos.vatsimspain.es/Operaciones/Plugins/CDM_data/ctot.txt" />
