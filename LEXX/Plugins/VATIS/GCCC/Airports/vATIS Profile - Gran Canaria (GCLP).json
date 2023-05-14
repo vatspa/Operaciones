@@ -39,6 +39,24 @@
           "externalGenerator": {
             "enabled": false
           }
+        },
+        {
+          "id": "4a384ea4-4f1f-4bdb-9aa6-d5af77a036f1",
+          "name": "NORTH DUAL",
+          "airportConditions": "DEPARTURE RWY 03 LEFT AND 03 RIGHT. ARRIVAL RWY 03 LEFT. EXPECT ILS ZULU APPROACH RWY 03 LEFT.",
+          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "4a384ea4-4f1f-4bdb-9aa6-d5af77a036f1",
+          "name": "SOUTH DUAL",
+          "airportConditions": "DEPARTURE RWY 21 RIGHT AND 21 LEFT. ARRIVAL RWY 21 RIGHT. EXPECT ILS ZULU APPROACH RWY 21 RIGHT.",
+          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
+          "externalGenerator": {
+            "enabled": false
+          }
         }
       ],
       "contractions": [
@@ -201,6 +219,10 @@
         "clouds": {
           "identifyCeilingLayer": true,
           "convertToMetric": false,
+          "undeterminedLayerAltitude": {
+            "text": "undetermined",
+            "voice": "undetermined"
+          },
           "types": {
             "FEW": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
