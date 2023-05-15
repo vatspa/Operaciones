@@ -277,7 +277,7 @@
                "max_fl": 460,
                "destinations": ["GMAG"],
                "airways": ["DCT GLM"]
-            },
+            }
          ],
          "LARYS": [
             {
@@ -383,8 +383,15 @@
             },
             {
             "direction": "EVEN",
+            "min_fl": 095,
+            "max_fl": 660,
+            "airways": ["DCT LAVPA"]
+            },
+            {
+            "direction": "EVEN",
             "min_fl": 245,
-            "max_fl": 999
+            "max_fl": 660,
+            "airways": ["DCT"]
             }
             ],
          "COSTI": [
@@ -411,14 +418,13 @@
             {
             "direction": "EVEN",
             "min_fl": 60,
-            "max_fl": 195,
             "destinations": ["GCHI"]
             },
             {
             "direction": "EVEN",
             "min_fl": 195,
             "max_fl": 660,
-            "airways": ["UY611"]
+            "airways": ["UY611 ROSTA"]
             }
          ],
          "KONBA": [
@@ -433,22 +439,35 @@
             {
             "direction": "EVEN",
             "min_fl": 50,
-            "max_fl": 195,
             "destinations": ["GCFV"]
             }
             ],
          "KORAL": [
             {
-            "direction": "EVEN",
-            "min_fl": 195,
-            "max_fl": 460,
-            "airways": ["UN871","UG5"]
+               "direction": "EVEN",
+               "min_fl": 65,
+               "max_fl": 195,
+               "airways": ["G5"]
             },
             {
-            "direction": "ANY",
-            "min_fl": 195,
-            "max_fl": 660,
-            "airways": ["DCT AMLOK","DCT GLM"]
+               "direction": "EVEN",
+               "min_fl": 195,
+               "max_fl": 460,
+               "airways": ["UG5","UN871"]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 95,
+               "max_fl": 460,
+               "destinations": ["GMAD"],
+               "airways": ["DCT AMLOK"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 95,
+               "max_fl": 460,
+               "destinations": ["GMAG"],
+               "airways": ["DCT GLM"]
             }
          ],
          "ODEGI": [
@@ -456,38 +475,40 @@
                "direction": "EVEN",
             "min_fl": 105,
             "max_fl": 145,
-            "airways": ["A873"]
+            "airways": ["A873"],
+            "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
             },
             {
             "direction": "EVEN",
             "min_fl": 145,
             "max_fl": 660,
-            "airways": ["UN873"]
+            "airways": ["UN873"],
+            "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
             },
             {
             "direction": "EVEN",
             "min_fl": 105,
             "max_fl": 660,
-            "airways": ["UZ353"]
+            "airways": ["UZ353"],
+            "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
             }
          ],
          "RASEP": [
             {
             "direction": "ODD",
             "min_fl": 60,
-            "max_fl": 195,
             "destinations": ["GCRR"]
             }
          ],
          "REMGI": [
             {
-            "direction": "ANY",
+            "direction": "ODD",
             "min_fl": 145,
             "max_fl": 660,
             "airways": ["UN729 DEREV UN857"]
             },
             {
-            "direction": "ODD",
+            "direction": "ANY",
             "min_fl": 145,
             "max_fl": 660,
             "airways": ["UN729"]
@@ -524,7 +545,6 @@
             {
             "direction": "EVEN",
             "min_fl": 60,
-            "max_fl": 195,
             "destinations": ["GCXO"]
             }
          ],
@@ -532,8 +552,13 @@
             {
             "direction": "EVEN",
             "min_fl": 60,
-            "max_fl": 195,
-            "destinations": ["GCTS","GCGM"]
+            "destinations": ["GCTS"]
+            },
+            {
+            "direction": "EVEN",
+            "min_fl": 60,
+            "max_fl": 125,
+            "destinations": ["GCGM"]
             }
          ],
          "VASTO": [
