@@ -283,84 +283,55 @@
             {
                "direction": "ODD",
                "min_fl": 65,
-               "max_fl": 195,
-               "airways": ["G5"]
+               "destinations": ["GCRR"]
+            }
+         ],
+         "SAMAR": [
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "max_fl": 305,
+               "airways": ["DCT LIMAL"]
             },
             {
                "direction": "EVEN",
                "min_fl": 195,
                "max_fl": 460,
-               "airways": ["UG5","UN871"]
-            },
-            {
-               "direction": "EVEN",
-               "min_fl": 130,
-               "max_fl": 460,
-               "destinations": ["GCRR"],
-               "airways": ["DCT AMLOK"]
-            },
-            {
-               "direction": "ODD",
-               "min_fl": 95,
-               "max_fl": 460,
-               "destinations": ["GMAG"],
-               "airways": ["DCT GLM"]
-            },
-         ],
-         "SAMAR": [
-            {
-               "direction": "EVEN",
-            "airways": ["DCT", ""]
+               "airways": ["DCT BEXAL","DCT NEVTU"]
             }
          ],
          "SARAY": [
             {
                "direction": "EVEN",
-               "min_fl": 130,
-               "airways": ["DCT", ""]
+               "min_fl": 130
             }
          ],
          "TFN": [
             {
-               "direction": "ODD",
-               "min_fl": 110,
-               "destinations": ["GCXO","A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
-            },
-            {
                "direction": "EVEN",
-               "min_fl": 110,
+               "min_fl": 95,
                "max_fl": 145,
+               "destinations": ["GCXO","A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
                "airways": ["J602"]
             },
             {
                "direction": "ODD",
-               "min_fl": 110,
+               "min_fl": 95,
                "max_fl": 145,
-               "airways": ["H274"]
-            },
-            {
-               "direction": "ODD",
-               "min_fl": 110,
-               "max_fl": 145,
-               "airways": ["G851"]
-            },
-            {
-               "direction": "ODD",
-               "min_fl": 145,
-               "max_fl": 660,
-               "airways": ["UT274"]
-            },
-            {
-               "direction": "ODD",
-               "min_fl": 145,
-               "max_fl": 660,
-               "airways": ["UN728"]
+               "destinations": ["GCXO","A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
+               "airways": ["H274","G851"]
             },
             {
                "direction": "EVEN",
                "min_fl": 145,
                "max_fl": 660,
                "airways": ["UN602"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 660,
+               "airways": ["UT274","UN728"]
             }
          ],
          "TFS": [
@@ -374,13 +345,8 @@
             {
                "direction": "EVEN",
                "min_fl": 195,
-               "airways": ["DCT"]
-            },
-            {
-               "direction": "EVEN",
-               "min_fl": 195,
                "max_fl": 460,
-               "airways": ["UN858"]
+               "airways": ["UN858","DCT NIDEB","DCT BAROK"]
             }
          ]
       }
