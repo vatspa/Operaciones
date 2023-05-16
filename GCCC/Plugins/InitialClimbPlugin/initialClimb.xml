@@ -1,174 +1,132 @@
 <?xml version="1.0" encoding="utf-8"?>
 <initialClimb>
-    <apt icao="GCTS">
-		<runway name="07">
-			<sid name="ARACO">
-				<alt>090</alt>
+    <apt icao="GCFV">
+		<runway name="01">
+			<sid name="MAPED">
+				<alt>040</alt>
 			</sid>
-			<sid name="BIMBO">
-				<alt>200</alt>
+			<sid name="KORAL6Z">
+				<alt>100</alt>
 			</sid>
-			<sid name="LPC">
-				<alt>090</alt>
-			</sid>
-			<sid name="HIE">
-				<alt>070</alt>
-			</sid>
-			<sid name="KONBA">
-				<alt>200</alt>
-			</sid>
-			<sid name="KOPUD">
-				<alt>200</alt>
-			</sid>
-			<sid name="KORAL">
-				<alt>200</alt>
-			</sid>
-			<sid name="ODEGI">
-				<alt>090</alt>
-			</sid>
-			<sid name="RASEP">
-				<alt>200</alt>
-			</sid>
-			<sid name="REMGI">
-				<alt>090</alt>
-			</sid>
-			<sid name="SAMAR">
-				<alt>200</alt>
-			</sid>
-			<sid name="SARAY">
-				<alt>200</alt>
-			</sid>
-			<sid name="URQUI">
-				<alt>070</alt>
-			</sid>
-			<sid name="VASTO">
-				<alt>200</alt>
-			</sid>
-		</runway>
-		<runway name="25">
-			<sid name="ARACO">
-				<alt>090</alt>
-			</sid>
-			<sid name="BIMBO">
-				<alt>150</alt>
-			</sid>
-			<sid name="LPC">
-				<alt>090</alt>
-			</sid>
-			<sid name="HIE">
-				<alt>070</alt>
-			</sid>
-			<sid name="KONBA">
-				<alt>150</alt>
-			</sid>
-			<sid name="KOPUD">
-				<alt>240</alt>
-			</sid>
-			<sid name="KORAL">
-				<alt>240</alt>
-			</sid>
-			<sid name="ODEGI">
-				<alt>090</alt>
-			</sid>
-			<sid name="RASEP">
-				<alt>240</alt>
-			</sid>
-			<sid name="REMGI">
-				<alt>090</alt>
-			</sid>
-			<sid name="SAMAR">
-				<alt>240</alt>
-			</sid>
-			<sid name="SARAY">
-				<alt>240</alt>
-			</sid>
-			<sid name="URQUI">
-				<alt>090</alt>
-			</sid>
-			<sid name="VASTO">
-				<alt>240</alt>
-			</sid>
-		</runway>
-	</apt>
-	<apt icao="GCXO">
-		<runway name="12">
-			<sid name="ARACO">
-				<alt>070</alt>
-			</sid>
-			<sid name="BIMBO">
-				<alt>070</alt>
-			</sid>
-			<sid name="GDV">
-				<alt>070</alt>
-			</sid>
-			<sid name="LPC">
-				<alt>070</alt>
-			</sid>
-			<sid name="HIE">
-				<alt>070</alt>
-			</sid>
-			<sid name="KONBA">
-				<alt>070</alt>
-			</sid>
-			<sid name="KORAL">
-				<alt>070</alt>
+			<sid name="KORAL9Q">
+				<alt>120</alt>
 			</sid>
 			<sid name="LARYS">
-				<alt>070</alt>
+				<alt>040</alt>
+			</sid>
+			<sid name="LUNOB">
+				<alt>040</alt>
+			</sid>
+			<sid name="LORPO">
+				<alt>040</alt>
 			</sid>
 			<sid name="SAMAR">
-				<alt>070</alt>
-			</sid>
-			<sid name="SARAY">
-				<alt>070</alt>
-			</sid>
-			<sid name="TFS">
-				<alt>070</alt>
+				<alt>120</alt>
 			</sid>
 			<sid name="VASTO">
-				<alt>070</alt>
+				<alt>120</alt>
 			</sid>
 		</runway>
-		<runway name="30">
-			<sid name="ARACO">
-				<alt>070</alt>
+		<runway name="19">
+			<sid name="MAPED">
+				<alt>040</alt>
 			</sid>
-			<sid name="BIMBO">
-				<alt>070</alt>
+			<sid name="KORAL4Y">
+				<alt>100</alt>
 			</sid>
-			<sid name="GDV">
-				<alt>070</alt>
-			</sid>
-			<sid name="LPC">
-				<alt>070</alt>
-			</sid>
-			<sid name="HIE">
-				<alt>070</alt>
-			</sid>
-			<sid name="KONBA">
-				<alt>070</alt>
-			</sid>
-			<sid name="KORAL">
-				<alt>070</alt>
+			<sid name="KORAL7R">
+				<alt>120</alt>
 			</sid>
 			<sid name="LARYS">
-				<alt>070</alt>
+				<alt>040</alt>
+			</sid>
+			<sid name="LUNOB">
+				<alt>040</alt>
+			</sid>
+			<sid name="LORPO">
+				<alt>040</alt>
 			</sid>
 			<sid name="SAMAR">
-				<alt>070</alt>
-			</sid>
-			<sid name="SARAY">
-				<alt>070</alt>
-			</sid>
-			<sid name="TFS">
-				<alt>070</alt>
+				<alt>120</alt>
 			</sid>
 			<sid name="VASTO">
-				<alt>070</alt>
+				<alt>120</alt>
 			</sid>
 		</runway>
     </apt>
-	<apt icao="GCLP">
+	<apt icao="GCLA">
+		<runway name="18">
+			<sid name="BIMBO">
+				<alt>090</alt>
+			</sid>
+			<sid name="GDV">
+				<alt>090</alt>
+			</sid>
+			<sid name="LPC">
+				<alt>090</alt>
+			</sid>
+			<sid name="KONBA">
+				<alt>090</alt>
+			</sid>
+			<sid name="KORAL">
+				<alt>090</alt>
+			</sid>
+			<sid name="LARYS">
+				<alt>090</alt>
+			</sid>
+			<sid name="SAMAR">
+				<alt>090</alt>
+			</sid>
+			<sid name="SARAY">
+				<alt>090</alt>
+			</sid>
+			<sid name="TFN">
+				<alt>090</alt>
+			</sid>
+			<sid name="TFS">
+				<alt>090</alt>
+			</sid>
+			<sid name="VASTO">
+				<alt>090</alt>
+			</sid>
+		</runway>
+		<runway name="36">
+			<sid name="BIMBO">
+				<alt>090</alt>
+			</sid>
+			<sid name="GDV">
+				<alt>090</alt>
+			</sid>
+			<sid name="LPC">
+				<alt>090</alt>
+			</sid>
+			<sid name="KONBA">
+				<alt>090</alt>
+			</sid>
+			<sid name="KORAL">
+				<alt>090</alt>
+			</sid>
+			<sid name="LARYS">
+				<alt>090</alt>
+			</sid>
+			<sid name="SAMAR">
+				<alt>090</alt>
+			</sid>
+			<sid name="SARAY">
+				<alt>090</alt>
+			</sid>
+			<sid name="TFN">
+				<alt>090</alt>
+			</sid>
+			<sid name="TFS">
+				<alt>090</alt>
+			</sid>
+			<sid name="VASTO">
+				<alt>090</alt>
+			</sid>
+		</runway>
+    </apt>
+    <apt icao="GCLP">
 		<runway name="03L">
 			<sid name="ARACO">
 				<alt>060</alt>
@@ -436,129 +394,171 @@
 			</sid>
 		</runway>
     </apt>
-	<apt icao="GCFV">
-		<runway name="01">
-			<sid name="MAPED">
-				<alt>040</alt>
+    <apt icao="GCTS">
+		<runway name="07">
+			<sid name="ARACO">
+				<alt>090</alt>
 			</sid>
-			<sid name="KORAL6Z">
-				<alt>100</alt>
-			</sid>
-			<sid name="KORAL9Q">
-				<alt>120</alt>
-			</sid>
-			<sid name="LARYS">
-				<alt>040</alt>
-			</sid>
-			<sid name="LUNOB">
-				<alt>040</alt>
-			</sid>
-			<sid name="LORPO">
-				<alt>040</alt>
-			</sid>
-			<sid name="SAMAR">
-				<alt>120</alt>
-			</sid>
-			<sid name="VASTO">
-				<alt>120</alt>
-			</sid>
-		</runway>
-		<runway name="19">
-			<sid name="MAPED">
-				<alt>040</alt>
-			</sid>
-			<sid name="KORAL4Y">
-				<alt>100</alt>
-			</sid>
-			<sid name="KORAL7R">
-				<alt>120</alt>
-			</sid>
-			<sid name="LARYS">
-				<alt>040</alt>
-			</sid>
-			<sid name="LUNOB">
-				<alt>040</alt>
-			</sid>
-			<sid name="LORPO">
-				<alt>040</alt>
-			</sid>
-			<sid name="SAMAR">
-				<alt>120</alt>
-			</sid>
-			<sid name="VASTO">
-				<alt>120</alt>
-			</sid>
-		</runway>
-    </apt>
-	<apt icao="GCLA">
-		<runway name="18">
 			<sid name="BIMBO">
-				<alt>090</alt>
-			</sid>
-			<sid name="GDV">
-				<alt>090</alt>
+				<alt>200</alt>
 			</sid>
 			<sid name="LPC">
 				<alt>090</alt>
 			</sid>
+			<sid name="HIE">
+				<alt>070</alt>
+			</sid>
 			<sid name="KONBA">
-				<alt>090</alt>
+				<alt>200</alt>
+			</sid>
+			<sid name="KOPUD">
+				<alt>200</alt>
 			</sid>
 			<sid name="KORAL">
+				<alt>200</alt>
+			</sid>
+			<sid name="ODEGI">
 				<alt>090</alt>
 			</sid>
-			<sid name="LARYS">
+			<sid name="RASEP">
+				<alt>200</alt>
+			</sid>
+			<sid name="REMGI">
 				<alt>090</alt>
 			</sid>
 			<sid name="SAMAR">
-				<alt>090</alt>
+				<alt>200</alt>
 			</sid>
 			<sid name="SARAY">
-				<alt>090</alt>
+				<alt>200</alt>
 			</sid>
-			<sid name="TFN">
-				<alt>090</alt>
-			</sid>
-			<sid name="TFS">
-				<alt>090</alt>
+			<sid name="URQUI">
+				<alt>070</alt>
 			</sid>
 			<sid name="VASTO">
-				<alt>090</alt>
+				<alt>200</alt>
 			</sid>
 		</runway>
-		<runway name="36">
-			<sid name="BIMBO">
+		<runway name="25">
+			<sid name="ARACO">
 				<alt>090</alt>
 			</sid>
-			<sid name="GDV">
-				<alt>090</alt>
+			<sid name="BIMBO">
+				<alt>150</alt>
 			</sid>
 			<sid name="LPC">
 				<alt>090</alt>
 			</sid>
+			<sid name="HIE">
+				<alt>070</alt>
+			</sid>
 			<sid name="KONBA">
-				<alt>090</alt>
+				<alt>150</alt>
+			</sid>
+			<sid name="KOPUD">
+				<alt>240</alt>
 			</sid>
 			<sid name="KORAL">
+				<alt>240</alt>
+			</sid>
+			<sid name="ODEGI">
 				<alt>090</alt>
 			</sid>
-			<sid name="LARYS">
+			<sid name="RASEP">
+				<alt>240</alt>
+			</sid>
+			<sid name="REMGI">
 				<alt>090</alt>
 			</sid>
 			<sid name="SAMAR">
-				<alt>090</alt>
+				<alt>240</alt>
 			</sid>
 			<sid name="SARAY">
-				<alt>090</alt>
+				<alt>240</alt>
 			</sid>
-			<sid name="TFN">
-				<alt>090</alt>
-			</sid>
-			<sid name="TFS">
+			<sid name="URQUI">
 				<alt>090</alt>
 			</sid>
 			<sid name="VASTO">
-				<alt>090</alt>
+				<alt>240</alt>
+			</sid>
+		</runway>
+	</apt>
+	<apt icao="GCXO">
+		<runway name="12">
+			<sid name="ARACO">
+				<alt>070</alt>
+			</sid>
+			<sid name="BIMBO">
+				<alt>070</alt>
+			</sid>
+			<sid name="GDV">
+				<alt>070</alt>
+			</sid>
+			<sid name="LPC">
+				<alt>070</alt>
+			</sid>
+			<sid name="HIE">
+				<alt>070</alt>
+			</sid>
+			<sid name="KONBA">
+				<alt>070</alt>
+			</sid>
+			<sid name="KORAL">
+				<alt>070</alt>
+			</sid>
+			<sid name="LARYS">
+				<alt>070</alt>
+			</sid>
+			<sid name="SAMAR">
+				<alt>070</alt>
+			</sid>
+			<sid name="SARAY">
+				<alt>070</alt>
+			</sid>
+			<sid name="TFS">
+				<alt>070</alt>
+			</sid>
+			<sid name="VASTO">
+				<alt>070</alt>
+			</sid>
+		</runway>
+		<runway name="30">
+			<sid name="ARACO">
+				<alt>070</alt>
+			</sid>
+			<sid name="BIMBO">
+				<alt>070</alt>
+			</sid>
+			<sid name="GDV">
+				<alt>070</alt>
+			</sid>
+			<sid name="LPC">
+				<alt>070</alt>
+			</sid>
+			<sid name="HIE">
+				<alt>070</alt>
+			</sid>
+			<sid name="KONBA">
+				<alt>070</alt>
+			</sid>
+			<sid name="KORAL">
+				<alt>070</alt>
+			</sid>
+			<sid name="LARYS">
+				<alt>070</alt>
+			</sid>
+			<sid name="SAMAR">
+				<alt>070</alt>
+			</sid>
+			<sid name="SARAY">
+				<alt>070</alt>
+			</sid>
+			<sid name="TFS">
+				<alt>070</alt>
+			</sid>
+			<sid name="VASTO">
+				<alt>070</alt>
 			</sid>
 		</runway>
     </apt>
