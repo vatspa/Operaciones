@@ -5,7 +5,7 @@
          "KORAL": [
             {
                "direction": "EVEN",
-               "min_fl": 65,
+               "min_fl": 100,
                "max_fl": 195,
                "airways": ["G5"]
             },
@@ -17,14 +17,14 @@
             },
             {
                "direction": "EVEN",
-               "min_fl": 95,
+               "min_fl": 100,
                "max_fl": 460,
                "destinations": ["GMAD"],
                "airways": ["DCT AMLOK"]
             },
             {
                "direction": "ODD",
-               "min_fl": 95,
+               "min_fl": 100,
                "max_fl": 460,
                "destinations": ["GMAG"],
                "airways": ["DCT GLM"]
@@ -33,14 +33,14 @@
          "LARYS": [
             {
                "direction": "EVEN",
-               "min_fl": 60,
+               "min_fl": 140,
                "destinations": ["GCXO","GCLA"]
             }
          ],
          "LORPO": [
             {
                "direction": "EVEN",
-               "min_fl": 60,
+               "min_fl": 70,
                "destinations": ["GCLB","GCLP","GCTS","GCGM"]
             }
          ],
@@ -449,57 +449,68 @@
          "ODEGI": [
             {
                "direction": "EVEN",
-            "min_fl": 105,
-            "max_fl": 145,
-            "airways": ["A873"],
-            "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
+               "min_fl": 105,
+               "max_fl": 145,
+               "airways": ["A873"],
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
             },
             {
-            "direction": "EVEN",
-            "min_fl": 145,
-            "max_fl": 660,
-            "airways": ["UN873"],
-            "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
+               "direction": "EVEN",
+               "min_fl": 105,
+               "max_fl": 660,
+               "airways": ["UZ353"],
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
             },
             {
-            "direction": "EVEN",
-            "min_fl": 105,
-            "max_fl": 660,
-            "airways": ["UZ353"],
-            "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
+               "direction": "EVEN",
+               "min_fl": 145,
+               "max_fl": 660,
+               "airways": ["UN873"],
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "max_fl": 660,
+               "airways": ["UZ27"],
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
             }
          ],
          "RASEP": [
             {
-            "direction": "ODD",
-            "min_fl": 60,
-            "destinations": ["GCRR"]
+               "direction": "ODD",
+               "min_fl": 60,
+               "destinations": ["GCRR"]
             }
          ],
          "REMGI": [
             {
-            "direction": "ODD",
-            "min_fl": 145,
-            "max_fl": 660,
-            "airways": ["UN729 DEREV UN857"]
+               "direction": "ODD",
+               "min_fl": 95,
+               "max_fl": 145,
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
+               "airways": ["G851"]
             },
             {
-            "direction": "ANY",
-            "min_fl": 145,
-            "max_fl": 660,
-            "airways": ["UN729"]
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 660,
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
+               "airways": ["UN729 DEREV UN857"]
             },
             {
-            "direction": "ODD",
-            "min_fl": 95,
-            "max_fl": 145,
-            "airways": ["G851"]
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 660,
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
+               "airways": ["UN729"]
             },
             {
-            "direction": "ODD",
-            "min_fl": 145,
-            "max_fl": 660,
-            "airways": ["UN728","UN729"]
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 660,
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
+               "airways": ["UN728","UN729"]
             }
          ],
          "SAMAR": [
@@ -592,12 +603,26 @@
                "min_fl": 195,
                "max_fl": 460,
                "airways": ["UG5","UN871"]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 95,
+               "max_fl": 460,
+               "destinations": ["GMAD"],
+               "airways": ["DCT AMLOK"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 95,
+               "max_fl": 460,
+               "destinations": ["GMAG"],
+               "airways": ["DCT GLM"]
             }
          ],
          "LARYS": [
             {
                "direction": "EVEN",
-               "min_fl": 60,
+               "min_fl": 90,
                "destinations": ["GCXO","GCLA","GCHI","GCGM"]
             }
          ],
@@ -624,14 +649,16 @@
          ],
          "SOTAD": [
             {
-               "direction": "ODD"
+               "direction": "ODD",
+               "min_fl": 50
             }
          ],
          "TENDA": [
             {
                "direction": "ANY",
-               "min_fl": 90,
-               "destinations": ["GCFV"]
+               "min_fl": 50,
+               "destinations": ["GCFV"],
+               "airways": ["DCT"]
             }
          ],
          "VASTO": [
@@ -650,226 +677,224 @@
          "ARACO": [
             {
                "direction": "EVEN",
-               "airways": ["DCT"]
-            },
-            {
-               "direction": "EVEN",
-               "max_fl": 195,
-               "airways": [""]
-            },
-            {
-               "direction": "ODD",
-               "min_fl": 195,
-               "airways": [""]
+               "min_fl": 90,
+               "destinations": ["GCLA"]
             }
          ],
          "BIMBO": [
             {
                "direction": "EVEN",
-            "min_fl": 110,
-            "airways": ["DCT", "","UQ142","Q206","UN729","UZ9"]
+               "min_fl": 95,
+               "max_fl": 195,
+               "airways": ["B18","Q142"]
             },
             {
                "direction": "EVEN",
-            "min_fl": 195,
-            "max_fl": 245,
-            "airways": ["UN981","UN745"]
+               "min_fl": 95,
+               "max_fl": 660,
+               "airways": ["DCT LAVPA"]
             },
             {
                "direction": "EVEN",
-            "min_fl": 95,
-            "max_fl": 195,
-            "airways": ["B18"]
+               "min_fl": 195,
+               "max_fl": 245,
+               "airways": ["UN981","UN745","UZ9"]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "airways": ["Q206","UQ142"]
             }
          ],
          "LPC": [
             {
                "direction": "ANY",
-            "airways": ["DCT"]
-            },
-            {
-               "direction": "ODD",
-               "max_fl": 195,
-               "airways": [""]
-            },
-            {
-               "direction": "EVEN",
-               "min_fl": 195,
-               "airways": [""]
+               "min_fl": 90,
+               "destinations": ["GCLB","GCLP"]
             }
          ],
          "HIE": [
             {
-               "direction": "ANY",
-            "airways": ["DCT"]
-            },
-            {
-               "direction": "EVEN",
-               "max_fl": 195,
-               "airways": [""]
+               "direction": "ODD",
+               "min_fl": 195,
+               "max_fl": 305,
+               "airways": ["DCT ORVEK"]
             },
             {
                "direction": "ODD",
                "min_fl": 195,
-               "airways": [""]
+               "max_fl": 660,
+               "airways": ["UY611"]
             },
             {
-               "direction": "EVEN",
-            "min_fl": 195,
-            "airways": ["UY611"]
+               "direction": "ODD",
+               "min_fl": 70,
+               "destinations": ["GCHI"]
             }
          ],
          "KONBA": [
             {
                "direction": "EVEN",
-            "min_fl": 110,
-            "airways": ["DCT", ""]
-            },
-            {
-               "direction": "EVEN",
-            "min_fl": 195,
-            "airways": ["UN866"]
+               "min_fl": 195,
+               "max_fl": 460,
+               "airways": ["UN866"]
             }
          ],
          "KOPUD": [
             {
-               "direction": "EVEN",
-            "min_fl": 150,
-            "airways": ["DCT"]
-            },
-            {
                "direction": "ODD",
-               "max_fl": 195,
-               "airways": [""]
-            },
-            {
-               "direction": "EVEN",
-               "min_fl": 195,
-               "airways": [""]
+               "min_fl": 150,
+               "destinations": ["GCFV"]
             }
          ],
          "KORAL": [
             {
                "direction": "EVEN",
-            "min_fl": 150,
-            "airways": ["DCT", "","UG5"]
-            },
-            {
-               "direction": "EVEN",
-            "min_fl": 145,
-            "airways": ["UN871"]
-            }
-         ],
-         "ODEGI": [
-            {
-               "direction": "ODD",
-            "min_fl": 110,
-            "airways": ["DCT", ""]
-            },
-            {
-               "direction": "ODD",
-            "min_fl": 110,
-            "max_fl": 145,
-            "airways": ["A873"]
-            },
-            {
-               "direction": "ODD",
-            "min_fl": 110,
-            "airways": ["UZ353"]
-            },
-            {
-               "direction": "ODD",
-            "min_fl": 145,
-            "airways": ["UN873"]
-            },
-            {
-               "direction": "ODD",
-            "min_fl": 195,
-            "airways": ["UZ27"]
-            }
-         ],
-         "RASEP": [
-            {
-               "direction": "EVEN",
-            "min_fl": 150,
-            "airways": ["DCT"]
-            },
-            {
-               "direction": "ODD",
+               "min_fl": 65,
                "max_fl": 195,
-               "airways": [""]
+               "airways": ["G5"]
             },
             {
                "direction": "EVEN",
                "min_fl": 195,
-               "airways": [""]
+               "max_fl": 460,
+               "airways": ["UG5","UN871"]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 95,
+               "max_fl": 460,
+               "destinations": ["GMAD"],
+               "airways": ["DCT AMLOK"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 95,
+               "max_fl": 460,
+               "destinations": ["GMAG"],
+               "airways": ["DCT GLM"]
+            }
+         ],
+         "ODEGI": [
+            {
+               "direction": "EVEN",
+               "min_fl": 105,
+               "max_fl": 145,
+               "airways": ["A873"],
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 105,
+               "max_fl": 660,
+               "airways": ["UZ353"],
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 145,
+               "max_fl": 660,
+               "airways": ["UN873"],
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "max_fl": 660,
+               "airways": ["UZ27"],
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"]
+            }
+         ],
+         "RASEP": [
+            {
+               "direction": "ODD",
+               "min_fl": 150,
+               "destinations": ["GCRR"]
             }
          ],
          "REMGI": [
             {
                "direction": "ODD",
-            "min_fl": 100,
-            "airways": ["DCT", ""]
+               "min_fl": 95,
+               "max_fl": 145,
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
+               "airways": ["G851"]
             },
             {
                "direction": "ODD",
-            "min_fl": 100,
-            "max_fl": 145,
-            "airways": ["G851"]
+               "min_fl": 145,
+               "max_fl": 660,
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
+               "airways": ["UN729 DEREV UN857"]
             },
             {
                "direction": "ODD",
-            "min_fl": 145,
-            "airways": ["UN728","UN729"]
+               "min_fl": 145,
+               "max_fl": 660,
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
+               "airways": ["UN729"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 660,
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
+               "airways": ["UN728","UN729"]
             }
          ],
          "SAMAR": [
             {
                "direction": "EVEN",
-            "min_fl": 110,
-            "airways": ["DCT", ""]
+               "min_fl": 195,
+               "max_fl": 305,
+               "airways": ["DCT LIMAL"]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 195,
+               "max_fl": 460,
+               "airways": ["DCT BEXAL","DCT NEVTU"]
             }
          ],
          "SARAY": [
             {
                "direction": "EVEN",
-            "min_fl": 150,
-            "airways": ["DCT", ""]
-            }
+               "min_fl": 150 
+            } 
          ],
          "URQUI": [
             {
                "direction": "ODD",
-            "min_fl": 100,
-            "airways": ["DCT", ""]
+               "min_fl": 100,
+               "airways": ["DCT", ""]
             },
             {
                "direction": "ODD",
-            "min_fl": 100,
-            "max_fl": 145,
-            "airways": ["G5","H770"]
+               "min_fl": 100,
+               "max_fl": 145,
+               "airways": ["G5","H770"]
             },
             {
                "direction": "ODD",
-            "min_fl": 145,
-            "airways": ["UN871","UT770","UY611"]
+               "min_fl": 145,
+               "airways": ["UN871","UT770","UY611"]
             },
             {
                "direction": "ODD",
-            "min_fl": 195,
-            "airways": ["UY422"]
+               "min_fl": 195,
+               "airways": ["UY422"]
             }
          ],
          "VASTO": [
             {
                "direction": "EVEN",
-            "min_fl": 150,
-            "airways": ["DCT", ""]
+               "min_fl": 150,
+               "airways": ["DCT", ""]
             },
             {
                "direction": "EVEN",
-            "min_fl": 195,
-            "airways": ["UN858"]
+               "min_fl": 195,
+               "airways": ["UN858"]
             }
          ]
       }
