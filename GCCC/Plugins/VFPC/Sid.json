@@ -359,7 +359,7 @@
             },
             {
             "direction": "EVEN",
-            "min_fl": 095,
+            "min_fl": 95,
             "max_fl": 660,
             "airways": ["BIMBO DCT LAVPA"]
             },
@@ -417,7 +417,7 @@
             "min_fl": 50,
             "destinations": ["GCFV"]
             }
-            ],
+         ],
          "KORAL": [
             {
                "direction": "EVEN",
@@ -669,8 +669,8 @@
                "airways": ["VASTO UN858","VASTO DCT BAROK","VASTO DCT NIDEB"]
             }
          ]
-      },
-   }
+      }
+   },
    {
       "icao": "GCTS",
       "sids": {
