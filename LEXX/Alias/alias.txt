@@ -89,6 +89,7 @@
 .cleare Autorizado a $arr. Salida $sid. Pista $deprwy. Suba via SID a $alt. Responder $squawk.
 .vclear RWY $deprwy. QNH $altim($dep). Squawk $squawk.
 .vcleare Pista $deprwy. QNH $altim($dep). Responder $squawk.
+.cdmc Cleared to $arr. $sid departure. RWY $deprwy. Climb via SID to $alt. Squawk $squawk. Check your LIVE VDGS Panel (https://cdm.vatsimspain.es/vdgs.php?style=vdgs1&callsign=$aircraft).
 
 ;*** 06 Puesta en marcha / Retroceso ***
 .read Readback correct.
@@ -173,10 +174,10 @@
 .tode programe $alt sobre $1 y comience descenso al alcanzar su TOD
 .up climb to $alt
 .u climb to $alt
-.upe ascienda a $alt
+.upe suba para $alt
 .down descend to $alt
 .d descend to $alt
-.downe descienda a $alt
+.downe descienda para $alt
 .daq Descend to $alt, QNH $altim($arr).
 .daqe Descienda a $alt, QNH $altim($arr).
 .ldown descend to $alt to be leveled over $1
@@ -215,8 +216,8 @@
 .stare autorizado llegada $star
 
 ;*** 10 Otros ***
-.busy .msg $aircraft Hello. I am currently too busy to help you or to answer your question. Please refer to the manuals on www.vatsim.net/pilots or to www.vatspa.es or try to find another person who can help you.
-.busye .msg $aircraft Hola. Ahora mismo estoy demasiado ocupado para ayudarte. Si te sirve de ayuda consulta los manuales disponibles en www.vatsim.net/pilots o en www.vatspa.es o busca a alguien que te pueda ayudar.
+.busy .msg $aircraft Hello. I am currently too busy to help you or to answer your question. Please refer to the manuals on www.vatsim.net/pilots or to www.vatsimspain.es or try to find another person who can help you.
+.busye .msg $aircraft Hola. Ahora mismo estoy demasiado ocupado para ayudarte. Si te sirve de ayuda consulta los manuales disponibles en www.vatsim.net/pilots o en www.vatsimspain.es o busca a alguien que te pueda ayudar.
 .cr .msg $aircraft Please make a correct readback so that I see that you've understood my instructions correctly. A readback is made by repeating the instructions of the controller. 
 .cre msg $aircraft Por favor haz la colación correctamente para que pueda comprobar que hayas entendido mis instrucciones correctamente. Una colación se hace repitiendo las instrucciones dadas por el controlador.
 .po .msg $aircraft Hello, the position you are standing is already occupied by another aircraft. Please choose another one, thank you!

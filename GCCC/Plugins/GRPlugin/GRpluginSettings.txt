@@ -309,6 +309,10 @@ Window_APP_Scale=13
 Window_APP_Extensions=0
 Window_APP_Extensions_TickWidth=0
 Window_APP_AltFilter=4000
+Airport_Runway_Thr=01:N028.25.58.216:W013.51.52.206
+Airport_Runway_End=01:N028.25.58.216:W013.51.52.206
+Airport_Runway_Thr=19:N028.27.48.669:W013.51.48.541
+Airport_Runway_End=19:N028.27.48.669:W013.51.48.541
 
 [GCRR]
 
