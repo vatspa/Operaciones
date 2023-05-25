@@ -1,8 +1,8 @@
 {
-  "Id": "22eb63fb-96ca-4a52-a912-19f56d83a85c",
+  "Id": "043ec4f5-b8e1-447a-95e9-5f4214e9b228",
   "Name": "Palma de Mallorca",
   "Identifier": "LEPA",
-  "AtisType": 0,
+  "AtisType": 2,
   "Contractions": [
     {
       "String": "W",
@@ -44,15 +44,15 @@
       "String": "RWYS",
       "Spoken": "RUNWAYS"
     },
-	{
-	  "String": "NOSIG",
-	  "Spoken": "NO-SIG"
-	}
+    {
+      "String": "NOSIG",
+      "Spoken": "NO-SIG"
+    }
   ],
   "AtisFrequency": 19250,
   "ObservationTime": {
     "Enabled": false,
-    "Time": 0
+    "Time": 1
   },
   "MagneticVariation": {
     "Enabled": false,
@@ -65,8 +65,8 @@
   "IDSEndpoint": "",
   "Presets": [
     {
-      "Name": "LEPA W",
-      "AirportConditions": "DEPARTURE RWY 24 RIGHT. ARRIVAL RWY 24 LEFT. EXPECT ILS ZULU APPROACH RWY 24 LEFT.",
+      "Name": "EAST",
+      "AirportConditions": "ARRIVAL RWY 06 LEFT. EXPECT ILS ZULU APPROACH 06 LEFT. ",
       "Notams": null,
       "ArbitraryText": null,
       "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
@@ -79,11 +79,11 @@
       }
     },
     {
-      "Name": "LEPA E",
-      "AirportConditions": "DEPARTURE RWY 06 RIGHT ARRIVAL RWY 06 LEFT. EXPECT ILS APPROACH 06 LEFT. ",
+      "Name": "WEST",
+      "AirportConditions": "ARRIVAL RWY 24 LEFT. EXPECT ILS ZULU APPROACH 24 LEFT. ",
       "Notams": null,
       "ArbitraryText": null,
-      "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
+      "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
       "ExternalGenerator": {
         "Url": null,
         "Arrival": null,
@@ -99,24 +99,9 @@
   "NotamsBeforeFreeText": false,
   "TransitionLevels": [
     {
-      "Low": 942,
-      "High": 959,
-      "Altitude": 90
-    },
-    {
-      "Low": 960,
-      "High": 977,
-      "Altitude": 85
-    },
-    {
-      "Low": 978,
-      "High": 995,
-      "Altitude": 80
-    },
-    {
-      "Low": 996,
-      "High": 1013,
-      "Altitude": 75
+      "Low": 1032,
+      "High": 1050,
+      "Altitude": 65
     },
     {
       "Low": 1014,
@@ -124,9 +109,24 @@
       "Altitude": 70
     },
     {
-      "Low": 1032,
-      "High": 1050,
-      "Altitude": 65
+      "Low": 996,
+      "High": 1013,
+      "Altitude": 75
+    },
+    {
+      "Low": 978,
+      "High": 995,
+      "Altitude": 80
+    },
+    {
+      "Low": 960,
+      "High": 977,
+      "Altitude": 85
+    },
+    {
+      "Low": 942,
+      "High": 959,
+      "Altitude": 90
     }
   ],
   "UseFaaFormat": false,
