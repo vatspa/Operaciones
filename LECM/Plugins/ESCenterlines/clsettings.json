@@ -1,5 +1,13 @@
 [
 	{
+		"airport": "GEML",
+		"runway": "15"
+	},
+	{
+		"airport": "GEML",
+		"runway": "33"
+	},
+	{
 		"airport": "LEAB",
 		"runway": "09",
 		"course": 0,
