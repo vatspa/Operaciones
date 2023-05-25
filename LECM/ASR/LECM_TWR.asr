@@ -19,5 +19,4 @@ TAGFAMILY:SACTA PLUGIN - TWR
 WINDOWAREA:40.105474:-4.246615:40.733639:-2.759282
 PLUGIN:ESCenterlines:Display Active:1
 PLUGIN:ESCenterlines:Display_Centerlines:1
-PLUGIN:TopSky plugin:HideMapData:CTR,APP,APP_F
 PLUGIN:TopSky plugin:ShowMapData:TWR
