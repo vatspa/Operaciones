@@ -922,13 +922,13 @@
                "direction": "EVEN",
                "min_fl": 95,
                "max_fl": 660,
-               "airways": ["BIMBO DCT LAVPA"]
+               "airways": ["BIMBO DCT"]
             },
             {
                "direction": "EVEN",
                "min_fl": 195,
                "max_fl": 245,
-               "airways": ["BIMBO UN981","BIMBO UN745","BIMBO UZ9"]
+               "airways": ["BIMBO UN981","BIMBO UN745","BIMBO UZ9","BIMBO UN729"]
             },
             {
                "direction": "EVEN",
