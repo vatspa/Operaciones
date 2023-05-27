@@ -886,20 +886,16 @@
 		"runway": "03"
 	},
 	{
-		"airport": "LEBB",
+		"airport": "LEBA",
 		"runway": "21"
 	},
 	{
 		"airport": "LEBG",
-		"runway": "22",
-		"course": 0,
-		"fap": ""
+		"runway": "04"
 	},
 	{
 		"airport": "LEBG",
-		"runway": "04",
-		"course": 0,
-		"fap": ""
+		"runway": "22"
 	},
 	{
 		"airport": "LEBZ",
