@@ -1,11 +1,131 @@
 {
-  "Name": "Madrid Control (C)",
+  "Name": "Madrid Control (R1)",
   "Composites": [
     {
-      "Id": "19206875-ddd5-48ed-8c23-dfebe9f98145",
-      "Name": "Madrid",
-      "Identifier": "LEMD",
-      "AtisType": 1,
+      "Id": "c39ae1a4-92ac-4ac5-8c00-2b2d24eade65",
+      "Name": "Bilbao",
+      "Identifier": "LEBB",
+      "AtisType": 0,
+      "Contractions": [
+        {
+          "String": "UTC",
+          "Spoken": "YOU-T-SEE"
+        },
+        {
+          "String": "RWY",
+          "Spoken": "RUNWAY"
+        },
+        {
+          "String": "RWYS",
+          "Spoken": "RUNWAYS"
+        },
+        {
+          "String": "Y",
+          "Spoken": "YANKEE"
+        },
+        {
+          "String": "Z",
+          "Spoken": "ZULU"
+        },
+        {
+          "String": "RNAV",
+          "Spoken": "ARE-NAV"
+        }
+      ],
+      "AtisFrequency": 18825,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "WEST",
+          "AirportConditions": "DEPARTURE RWY 30. ARRIVALS EXPECT ILS ZULU APPROACH RWY 30. VISUAL OPERATIONS RWY 28.",
+          "Notams": "",
+          "ArbitraryText": null,
+          "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "EAST",
+          "AirportConditions": "DEPARTURE RWY 12. ARRIVALS EXPECT ILS ZULU APPROACH 12. VISUAL OPERATIONS RWY 10.",
+          "Notams": "",
+          "ArbitraryText": null,
+          "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 1032,
+          "High": 1050,
+          "Altitude": 65
+        },
+        {
+          "Low": 1014,
+          "High": 1031,
+          "Altitude": 70
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 75
+        },
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 80
+        },
+        {
+          "Low": 960,
+          "High": 977,
+          "Altitude": 85
+        },
+        {
+          "Low": 942,
+          "High": 959,
+          "Altitude": 90
+        }
+      ],
+      "UseFaaFormat": false,
+      "UseExternalAtisGenerator": false,
+      "UseNotamPrefix": false,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": true,
+      "UseVisibilitySuffix": true,
+      "UseDecimalTerminology": true
+    },
+    {
+      "Id": "e03ac5a0-4cd6-411d-9906-bb844981525a",
+      "Name": "Santander",
+      "Identifier": "LEXJ",
+      "AtisType": 0,
       "Contractions": [
         {
           "String": "W",
@@ -32,6 +152,10 @@
           "Spoken": "ZULU"
         },
         {
+          "String": "VOR",
+          "Spoken": "VI-OU-ARE"
+        },
+        {
           "String": "UTC",
           "Spoken": "YOU-T-SEE"
         },
@@ -48,25 +172,25 @@
           "Spoken": "RUNWAYS"
         }
       ],
-      "AtisFrequency": 30850,
+      "AtisFrequency": 27525,
       "ObservationTime": {
         "Enabled": false,
-        "Time": 1
+        "Time": 0
       },
       "MagneticVariation": {
-        "Enabled": true,
+        "Enabled": false,
         "MagneticDegrees": 0
       },
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "Default"
       },
-      "IDSEndpoint": "",
+      "IDSEndpoint": null,
       "Presets": [
         {
-          "Name": "LEMD NORTH DAY",
-          "AirportConditions": "RWY IN USE FOR DEPARTURES 36 LEFT AND 36 RIGHT.",
-          "Notams": "",
+          "Name": "EAST",
+          "AirportConditions": "DEPARTURE RWY 11. ARRIVALS EXPECT VOR APPROACH RWY 11.",
+          "Notams": null,
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "ExternalGenerator": {
@@ -78,37 +202,9 @@
           }
         },
         {
-          "Name": "LEMD NORTH NIGHT",
-          "AirportConditions": "RWY FOR DEPARTURES 36 LEFT.",
-          "Notams": "",
-          "ArbitraryText": null,
-          "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
-          "ExternalGenerator": {
-            "Url": null,
-            "Arrival": null,
-            "Departure": null,
-            "Approaches": null,
-            "Remarks": null
-          }
-        },
-        {
-          "Name": "LEMD SOUTH DAY",
-          "AirportConditions": "RWY IN USE FOR DEPARTURES 14 LEFT AND 14 RIGHT.",
-          "Notams": "",
-          "ArbitraryText": null,
-          "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
-          "ExternalGenerator": {
-            "Url": null,
-            "Arrival": null,
-            "Departure": null,
-            "Approaches": null,
-            "Remarks": null
-          }
-        },
-        {
-          "Name": "LEMD SOUTH NIGHT",
-          "AirportConditions": "RWY IN USE FOR DEPARTURES 14 LEFT.",
-          "Notams": "",
+          "Name": "WEST",
+          "AirportConditions": "DEPARTURE RWY 29. ARRIVALS EXPECT ILS Z APPROACH RWY 29.",
+          "Notams": null,
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "ExternalGenerator": {
@@ -126,50 +222,50 @@
       "NotamsBeforeFreeText": false,
       "TransitionLevels": [
         {
-          "Low": 1032,
-          "High": 1050,
-          "Altitude": 135
-        },
-        {
-          "Low": 1014,
-          "High": 1031,
-          "Altitude": 140
-        },
-        {
-          "Low": 996,
-          "High": 1013,
-          "Altitude": 145
-        },
-        {
-          "Low": 978,
-          "High": 995,
-          "Altitude": 150
+          "Low": 942,
+          "High": 959,
+          "Altitude": 90
         },
         {
           "Low": 960,
           "High": 977,
-          "Altitude": 155
+          "Altitude": 85
         },
         {
-          "Low": 942,
-          "High": 959,
-          "Altitude": 160
+          "Low": 978,
+          "High": 995,
+          "Altitude": 80
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 75
+        },
+        {
+          "Low": 1014,
+          "High": 1031,
+          "Altitude": 70
+        },
+        {
+          "Low": 1032,
+          "High": 1050,
+          "Altitude": 65
         }
       ],
       "UseFaaFormat": false,
       "UseExternalAtisGenerator": false,
       "UseNotamPrefix": false,
-      "UseTransitionLevelPrefix": false,
+      "UseTransitionLevelPrefix": true,
       "UseMetricUnits": false,
       "UseSurfaceWindPrefix": true,
       "UseVisibilitySuffix": true,
       "UseDecimalTerminology": true
     },
     {
-      "Id": "19206875-ddd5-48ed-8c98-dfebe9f98145",
-      "Name": "Madrid",
-      "Identifier": "LEMD",
-      "AtisType": 2,
+      "Id": "d8e2b615-e49c-4060-b1fb-24983e654581",
+      "Name": "Santiago",
+      "Identifier": "LEST",
+      "AtisType": 0,
       "Contractions": [
         {
           "String": "W",
@@ -196,6 +292,10 @@
           "Spoken": "ZULU"
         },
         {
+          "String": "VOR",
+          "Spoken": "VI-OU-ARE"
+        },
+        {
           "String": "UTC",
           "Spoken": "YOU-T-SEE"
         },
@@ -212,25 +312,25 @@
           "Spoken": "RUNWAYS"
         }
       ],
-      "AtisFrequency": 18250,
+      "AtisFrequency": 27750,
       "ObservationTime": {
         "Enabled": false,
-        "Time": 1
+        "Time": 0
       },
       "MagneticVariation": {
-        "Enabled": true,
+        "Enabled": false,
         "MagneticDegrees": 0
       },
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "Default"
       },
-      "IDSEndpoint": "",
+      "IDSEndpoint": null,
       "Presets": [
         {
-          "Name": "LEMD NORTH DAY",
-          "AirportConditions": "RWY IN USE FOR ARRIVALS 32 LEFT AND 32 RIGHT. EXPECT ILS ZULU 32 LEFT AND ILS ZULU 32 RIGHT. ",
-          "Notams": "",
+          "Name": "NORTH",
+          "AirportConditions": "DEPARTURE RWY 35. ARRIVALS EXPECT ILS Z APPROACH RWY 35.",
+          "Notams": null,
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "ExternalGenerator": {
@@ -242,37 +342,9 @@
           }
         },
         {
-          "Name": "LEMD NORTH NIGHT",
-          "AirportConditions": "RWY IN USE FOR ARRIVALS 32 RIGHT. EXPECT ILS ZULU 32 RIGHT. ",
-          "Notams": "",
-          "ArbitraryText": null,
-          "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
-          "ExternalGenerator": {
-            "Url": null,
-            "Arrival": null,
-            "Departure": null,
-            "Approaches": null,
-            "Remarks": null
-          }
-        },
-        {
-          "Name": "LEMD SOUTH DAY",
-          "AirportConditions": "RWY IN USE FOR ARRIVALS 18 LEFT AND 18 RIGHT. EXPECT ILS YANKEE 18 LEFT AND ILS YANKEE 18 RIGHT. ",
-          "Notams": "",
-          "ArbitraryText": null,
-          "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
-          "ExternalGenerator": {
-            "Url": null,
-            "Arrival": null,
-            "Departure": null,
-            "Approaches": null,
-            "Remarks": null
-          }
-        },
-        {
-          "Name": "LEMD SOUTH NIGHT",
-          "AirportConditions": "RWY IN USE FOR ARRIVALS 18 LEFT. EXPECT ILS YANKEE 18 LEFT. ",
-          "Notams": "",
+          "Name": "SOUTH",
+          "AirportConditions": "DEPARTURE RWY 17. ARRIVALS EXPECT ILS Z APPROACH RWY 17.",
+          "Notams": null,
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "ExternalGenerator": {
@@ -290,49 +362,49 @@
       "NotamsBeforeFreeText": false,
       "TransitionLevels": [
         {
-          "Low": 1032,
-          "High": 1050,
-          "Altitude": 135
-        },
-        {
-          "Low": 1014,
-          "High": 1031,
-          "Altitude": 140
-        },
-        {
-          "Low": 996,
-          "High": 1013,
-          "Altitude": 145
-        },
-        {
-          "Low": 978,
-          "High": 995,
-          "Altitude": 150
+          "Low": 942,
+          "High": 959,
+          "Altitude": 90
         },
         {
           "Low": 960,
           "High": 977,
-          "Altitude": 155
+          "Altitude": 85
         },
         {
-          "Low": 942,
-          "High": 959,
-          "Altitude": 160
+          "Low": 978,
+          "High": 995,
+          "Altitude": 80
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 75
+        },
+        {
+          "Low": 1014,
+          "High": 1031,
+          "Altitude": 70
+        },
+        {
+          "Low": 1032,
+          "High": 1050,
+          "Altitude": 65
         }
       ],
       "UseFaaFormat": false,
       "UseExternalAtisGenerator": false,
       "UseNotamPrefix": false,
-      "UseTransitionLevelPrefix": false,
+      "UseTransitionLevelPrefix": true,
       "UseMetricUnits": false,
       "UseSurfaceWindPrefix": true,
       "UseVisibilitySuffix": true,
       "UseDecimalTerminology": true
     },
     {
-      "Id": "2ebf3b5f-d166-4b01-9a00-346c0ac4709a",
-      "Name": "Cuatro Vientos",
-      "Identifier": "LEVS",
+      "Id": "6e69ba83-5787-434c-b0cd-8673f38b64d8",
+      "Name": "Vitoria",
+      "Identifier": "LEVT",
       "AtisType": 0,
       "Contractions": [
         {
@@ -364,6 +436,10 @@
           "Spoken": "YOU-T-SEE"
         },
         {
+          "String": "VOR",
+          "Spoken": "VI-OU-ARE"
+        },
+        {
           "String": "Y",
           "Spoken": "YANKEE"
         },
@@ -376,7 +452,7 @@
           "Spoken": "RUNWAYS"
         }
       ],
-      "AtisFrequency": 18225,
+      "AtisFrequency": 19350,
       "ObservationTime": {
         "Enabled": false,
         "Time": 0
@@ -389,11 +465,11 @@
         "UseTextToSpeech": true,
         "Voice": "Default"
       },
-      "IDSEndpoint": "",
+      "IDSEndpoint": null,
       "Presets": [
         {
-          "Name": "WEST",
-          "AirportConditions": "DEPARTURE RWY 27. ARRIVALS EXPECT VIS APPROACH RWY 27.",
+          "Name": "04",
+          "AirportConditions": "DEPARTURE RWY 04. ARRIVALS EXPECT ILS Z APPROACH RWY 04.",
           "Notams": null,
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
@@ -406,8 +482,8 @@
           }
         },
         {
-          "Name": "EAST",
-          "AirportConditions": "DEPARTURE RWY 09. ARRIVALS EXPECT VIS APPROACH RWY 09.",
+          "Name": "22",
+          "AirportConditions": "DEPARTURE RWY 22. ARRIVALS EXPECT vor APPROACH RWY 22.",
           "Notams": null,
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
@@ -426,40 +502,40 @@
       "NotamsBeforeFreeText": false,
       "TransitionLevels": [
         {
-          "Low": 1032,
-          "High": 1050,
-          "Altitude": 135
-        },
-        {
-          "Low": 1014,
-          "High": 1031,
-          "Altitude": 140
-        },
-        {
-          "Low": 996,
-          "High": 1013,
-          "Altitude": 145
-        },
-        {
-          "Low": 978,
-          "High": 995,
-          "Altitude": 150
+          "Low": 942,
+          "High": 959,
+          "Altitude": 90
         },
         {
           "Low": 960,
           "High": 977,
-          "Altitude": 155
+          "Altitude": 85
         },
         {
-          "Low": 942,
-          "High": 959,
-          "Altitude": 160
+          "Low": 978,
+          "High": 995,
+          "Altitude": 80
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 75
+        },
+        {
+          "Low": 1014,
+          "High": 1031,
+          "Altitude": 70
+        },
+        {
+          "Low": 1032,
+          "High": 1050,
+          "Altitude": 65
         }
       ],
       "UseFaaFormat": false,
       "UseExternalAtisGenerator": false,
-      "UseNotamPrefix": false,
-      "UseTransitionLevelPrefix": false,
+      "UseNotamPrefix": true,
+      "UseTransitionLevelPrefix": true,
       "UseMetricUnits": false,
       "UseSurfaceWindPrefix": true,
       "UseVisibilitySuffix": true,
