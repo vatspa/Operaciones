@@ -209,7 +209,7 @@
       "Presets": [
         {
           "Name": "EAST",
-          "AirportConditions": "DEPARTURE RWY 06 RIGHT.",
+          "AirportConditions": "ARRIVAL RWY 06 LEFT. EXPECT ILS ZULU APPROACH 06 LEFT. ",
           "Notams": null,
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
@@ -223,7 +223,7 @@
         },
         {
           "Name": "WEST",
-          "AirportConditions": "DEPARTURE RWY 24 RIGHT.",
+          "AirportConditions": "ARRIVAL RWY 24 LEFT. EXPECT ILS ZULU APPROACH 24 LEFT. ",
           "Notams": null,
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
