@@ -4,7 +4,6 @@
   "composites": [
     {
       "id": "2898dded-07e7-4f5b-9219-39d5469ac130",
-      "name": "Málaga",
       "identifier": "LEMG",
       "atisType": "Departure",
       "codeRange": {
