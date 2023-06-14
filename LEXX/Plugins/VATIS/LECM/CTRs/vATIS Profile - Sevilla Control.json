@@ -1,6 +1,7 @@
 {
-  "Name": "Sevilla Control",
-  "Composites": [
+  "name": "Sevilla Control",
+  "id": "91bb4faf-e62b-40f7-b1ca-d88cbf35ca31",
+  "composites": [
     {
       "id": "a6f53bc6-c747-462d-8596-1709654bc7a5",
       "identifier": "LEAM",

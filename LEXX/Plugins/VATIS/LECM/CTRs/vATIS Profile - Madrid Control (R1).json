@@ -1,6 +1,7 @@
 {
-  "Name": "Madrid Control (R1)",
-  "Composites": [
+  "name": "Madrid Control (R1)",
+  "id": "2a0a1544-e190-48a7-b1b6-c9bb88ea645a",
+  "composites": [
     {
       "id": "fa24ffa4-0c6c-49e6-b484-1302dd642c00",
       "identifier": "LEBB",

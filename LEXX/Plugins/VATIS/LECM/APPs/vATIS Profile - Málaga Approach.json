@@ -1,6 +1,7 @@
 {
-  "Name": "Málaga Approach",
-  "Composites": [
+  "name": "Málaga Approach",
+  "id": "6122aaa3-3e60-43e4-b47f-08a51735f621",
+  "composites": [
     {
       "id": "1084b96f-6e84-4f31-aebb-9250a58dad4e",
       "identifier": "LEMG",

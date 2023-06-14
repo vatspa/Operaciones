@@ -1,6 +1,7 @@
 {
-  "Name": "Sevilla Approach",
-  "Composites": [
+  "name": "Sevilla Approach",
+  "id": "706979be-661e-47e0-8eb6-638368e35e62",
+  "composites": [
     {
       "id": "9dadfc1b-6e9f-4077-a6c3-277357f59a6b",
       "identifier": "LEJR",

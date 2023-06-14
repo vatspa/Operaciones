@@ -1,6 +1,7 @@
 {
-  "Name": "Madrid Control (R2)",
-  "Composites": [
+  "name": "Madrid Control (R2)",
+  "id": "252999e9-ce3d-451c-9423-4b1989c96b92",
+  "composites": [
     {
       "id": "2ebf3b5f-d166-4b01-9a00-346c0ac4709a",
       "identifier": "LEVS",
