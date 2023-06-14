@@ -438,6 +438,22 @@
         {
           "string": "NOSIG",
           "spoken": "NO-SIG"
+        },
+        {
+          "string": "2W",
+          "spoken": "TWO WHISKEY"
+        },
+        {
+          "string": "2L",
+          "spoken": "TWO LIMA"
+        },
+        {
+          "string": "2N",
+          "spoken": "TWO NOVEMBER"
+        },
+        {
+          "string": "2E",
+          "spoken": "TWO ECHO"
         }
       ],
       "airportConditionDefinitions": [],
