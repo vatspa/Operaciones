@@ -44,7 +44,7 @@ ATIS2:$radioname - CPDLC [CSRA]
 ATIS3:My active sector vats.im/lexx
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECS_SM2_CTR:400:6
-ATIS2:$radioname - CPDLC [CSSM2]
+ATIS2:$radioname - CPDLC [CSM2]
 ATIS3:My active sector vats.im/lexx
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECS_NCS_CTR:400:6
