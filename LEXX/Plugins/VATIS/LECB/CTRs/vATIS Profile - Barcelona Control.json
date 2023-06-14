@@ -1,6 +1,7 @@
 {
-  "Name": "Barcelona Control",
-  "Composites": [
+  "name": "Barcelona Control",
+  "id": "6fdc05f0-9f14-4e4b-a63e-ce94ecc59436",
+  "composites": [
     {
       "id": "1a544006-89ff-4f1d-9d48-045f847e0788",
       "identifier": "LEAL",

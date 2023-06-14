@@ -1,6 +1,7 @@
 {
-  "Name": "Barcelona Control (RN)",
-  "Composites": [
+  "name": "Barcelona Control (RN)",
+  "id": "280dc4d8-9355-44d5-900a-efad15ba1066",
+  "composites": [
     {
       "id": "11ad4b0d-de36-40e5-8195-5fc0353f50de",
       "identifier": "LEBL",

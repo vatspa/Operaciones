@@ -1,6 +1,7 @@
 {
-  "Name": "Barcelona Approach",
-  "Composites": [
+  "name": "Barcelona Approach",
+  "id": "5dbdbc87-a59d-48ec-abe1-db7455eb52a9",
+  "composites": [
     {
       "id": "11ad4b0d-de36-40e5-8195-5fc0353f50de",
       "identifier": "LEBL",

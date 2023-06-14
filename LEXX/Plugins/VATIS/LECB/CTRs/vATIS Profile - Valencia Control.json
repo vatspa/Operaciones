@@ -1,6 +1,7 @@
 {
-  "Name": "Valencia Control",
-  "Composites": [
+  "name": "Valencia Control",
+  "id": "8c9d2e12-d5c8-451f-8bc1-17281336d465",
+  "composites": [
     {
       "id": "1a544006-89ff-4f1d-9d48-045f847e0788",
       "identifier": "LEAL",

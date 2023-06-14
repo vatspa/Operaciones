@@ -1,6 +1,7 @@
 {
-  "Name": "Palma Control",
-  "Composites": [
+  "name": "Palma Control",
+  "id": "0aef425f-40ba-4229-9217-af7c023806c2",
+  "composites": [
     {
       "id": "0aff9e56-c3cd-43a0-956b-4e84aee6ba20",
       "identifier": "LEIB",

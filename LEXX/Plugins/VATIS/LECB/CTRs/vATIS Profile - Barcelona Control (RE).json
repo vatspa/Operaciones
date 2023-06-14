@@ -1,6 +1,7 @@
 {
-  "Name": "Barcelona Control (RE)",
-  "Composites": [
+  "name": "Barcelona Control (RE)",
+  "id": "e44245a3-e355-4a61-aa57-0d3f962d4b1e",
+  "composites": [
     {
       "id": "e16836c5-5ee7-43f7-a3ec-becd533879e7",
       "identifier": "LEMH",
