@@ -20,7 +20,6 @@ Settings	SettingsfileTAKEOFF	\LEXX\Settings\GENERAL.txt
 Settings	SettingsfileADCS	\LEXX\Settings\GENERAL.txt
 Settings	SettingsfileTAXIIN	\LEXX\Settings\GENERAL.txt
 Settings	alias	\LEXX\Alias\alias.txt
-Settings	AtisFolder	\LEXX\ATIS\VATSPA-ATIS.txt
 Settings	airlines	\LEXX\ICAO\ICAO_Airlines.txt
 Settings	airports	\LEXX\ICAO\ICAO_Airports.txt
 Settings	aircraft	\LEXX\ICAO\ICAO_Aircraft.txt
