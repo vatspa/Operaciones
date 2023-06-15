@@ -1,10 +1,9 @@
 {
   "name": "Canarias Control (RES)",
-  "id": "ae75f580-a8cb-40fa-93ad-b2e3568efc58",
+  "id": "1af68b76-2034-424f-a7fc-dd6a5fa5d9a9",
   "composites": [
     {
-      "id": "49422df5-d93b-4eb7-8daf-95918dc900b6",
-      "name": "Fuerteventura",
+      "id": "036135dc-8f1c-4fd7-8c50-c8980d6bd959",
       "identifier": "GCFV",
       "atisType": "Combined",
       "codeRange": {
@@ -23,7 +22,7 @@
       "notamsBeforeFreeText": false,
       "presets": [
         {
-          "id": "f8616a11-c4fb-40df-89b1-3c9be69449fe",
+          "id": "52d9ea8f-d78f-45aa-a55d-997b3359031e",
           "name": "NORTH",
           "airportConditions": "DEPARTURE RWY 01. ARRIVAL RWY 01. EXPECT ILS ZULU APPROACH RWY 01.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
@@ -32,7 +31,7 @@
           }
         },
         {
-          "id": "8dac8bb4-3cf2-427b-86ab-c7622540f7cd",
+          "id": "4594ed01-b6f7-4160-b6e5-db359c04a60f",
           "name": "SOUTH",
           "airportConditions": "DEPARTURE RWY 19. ARRIVAL RWY 19. EXPECT ILS ZULU APPROACH RWY 19.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
@@ -332,8 +331,7 @@
       }
     },
     {
-      "id": "e5f8b655-bf5f-4c19-ba2f-6cc30f469550",
-      "name": "Gran Canaria",
+      "id": "3412bf65-4ab3-487d-aeef-a2da85073661",
       "identifier": "GCLP",
       "atisType": "Combined",
       "codeRange": {
@@ -679,8 +677,7 @@
       }
     },
     {
-      "id": "150252ac-5c4f-4728-a0e1-299fe62f3a92",
-      "name": "Lanzarote",
+      "id": "b25625b6-8a9e-4711-a4b3-3b2bb3fe760f",
       "identifier": "GCRR",
       "atisType": "Combined",
       "codeRange": {
@@ -699,7 +696,7 @@
       "notamsBeforeFreeText": false,
       "presets": [
         {
-          "id": "548712dc-00bd-47a8-8248-518b296d16a1",
+          "id": "a90a5b2b-52df-46f2-9dc5-372c57a6b75f",
           "name": "NORTH",
           "airportConditions": "DEPARTURE RWY 03. ARRIVAL RWY 03. EXPECT ILS ZULU APPROACH RWY 03.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
@@ -708,7 +705,7 @@
           }
         },
         {
-          "id": "64cc8b27-6a30-4bb7-be48-9f02c334d99c",
+          "id": "4c3c6709-f33f-4616-9ac7-fe0a8b355fe2",
           "name": "SOUTH",
           "airportConditions": "DEPARTURE RWY 21. ARRIVAL RWY 21. EXPECT RNP APPROACH RWY 21.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",

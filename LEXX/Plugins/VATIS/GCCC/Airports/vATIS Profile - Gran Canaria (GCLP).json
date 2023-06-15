@@ -1,10 +1,9 @@
 {
-  "name": "Gran Canaria",
-  "id": "d342a458-d98b-4715-a1a0-c650b1a37ee8",
+  "name": "Gran Canaria (GCLP)",
+  "id": "e199f3af-ca00-409c-80a4-15cd5867cd36",
   "composites": [
     {
-      "id": "e5f8b655-bf5f-4c19-ba2f-6cc30f469550",
-      "name": "Gran Canaria",
+      "id": "3412bf65-4ab3-487d-aeef-a2da85073661",
       "identifier": "GCLP",
       "atisType": "Combined",
       "codeRange": {

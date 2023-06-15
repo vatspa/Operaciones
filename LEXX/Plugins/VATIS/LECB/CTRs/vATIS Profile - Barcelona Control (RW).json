@@ -10,7 +10,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 120080000,
+      "frequency": 120075000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
@@ -358,7 +358,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 118655000,
+      "frequency": 118650000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
@@ -712,7 +712,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 121980000,
+      "frequency": 121975000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
