@@ -1,10 +1,9 @@
 {
-  "name": "Tenerife Norte",
-  "id": "f48faed8-71c8-4448-a288-12dae5459cc1",
+  "name": "Tenerife Norte (GCXO)",
+  "id": "41ab9c49-8126-4af0-a280-a394fb9b2063",
   "composites": [
     {
-      "id": "ccf9f4c3-08e9-4a7a-bfde-2d42526ff2b9",
-      "name": "Tenerife Norte",
+      "id": "e3c05d36-41a5-42aa-8a57-12c1e38f6519",
       "identifier": "GCXO",
       "atisType": "Combined",
       "codeRange": {
@@ -201,6 +200,10 @@
         "clouds": {
           "identifyCeilingLayer": true,
           "convertToMetric": false,
+          "undeterminedLayerAltitude": {
+            "text": "undetermined",
+            "voice": "undetermined"
+          },
           "types": {
             "FEW": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",

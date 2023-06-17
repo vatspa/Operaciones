@@ -1,10 +1,9 @@
 {
-  "name": "La Palma",
-  "id": "6153af05-7d5b-4dc4-86a5-4f243ea71161",
+  "name": "La Palma (GCLA)",
+  "id": "537553f8-89b2-403b-afa5-0d2d6a80b12d",
   "composites": [
     {
-      "id": "e307a4f4-a3ff-47a7-b767-5a9aac6737db",
-      "name": "La Palma",
+      "id": "04381ddc-9736-4e4c-a51e-52a897354a1d",
       "identifier": "GCLA",
       "atisType": "Combined",
       "codeRange": {
@@ -201,6 +200,10 @@
         "clouds": {
           "identifyCeilingLayer": true,
           "convertToMetric": false,
+          "undeterminedLayerAltitude": {
+            "text": "undetermined",
+            "voice": "undetermined"
+          },
           "types": {
             "FEW": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
