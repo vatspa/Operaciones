@@ -1,0 +1,81 @@
+Settings	SettingsfileSYMBOLOGY	\LEXX\Settings\SIMBOLOGY.txt
+Settings	SettingsfileVOICE	\LECB\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\LECB\Settings\LOGIN PROFILES.txt
+Settings	SettingsfileTAGS	\LEXX\Settings\TAGS.txt
+Settings	SettingsfileSIL	\LEXX\Settings\LISTS.txt
+Settings	SettingsfileSEL	\LEXX\Settings\LISTS.txt
+Settings	SettingsfileDEP	\LEXX\Settings\LISTS.txt
+Settings	SettingsfileARR	\LEXX\Settings\LISTS.txt
+Settings	SettingsfileFP	\LEXX\Settings\LISTS.txt
+Settings	SettingsfileCONFLICT	\LEXX\Settings\LISTS.txt
+Settings	SettingsfilePLUGINS	\LEXX\Settings\PLUGINS.txt
+Settings	Settingsfile	\LEXX\Settings\GENERAL.txt
+Settings	SettingsfileSCREEN	\LEXX\Settings\SCREEN.txt
+Settings	SettingsfileVCCS	\LECB\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\LEXX\Settings\LISTS.txt
+Settings	SettingsfileORIGPLANE	\LEXX\Settings\GENERAL.txt
+Settings	SettingsfileSTUP	\LEXX\Settings\GENERAL.txt
+Settings	SettingsfileTAXIOUT	\LEXX\Settings\GENERAL.txt
+Settings	SettingsfileTAKEOFF	\LEXX\Settings\GENERAL.txt
+Settings	SettingsfileADCS	\LEXX\Settings\GENERAL.txt
+Settings	SettingsfileTAXIIN	\LEXX\Settings\GENERAL.txt
+Settings	alias	\LEXX\Alias\alias.txt
+Settings	airlines	\LEXX\ICAO\ICAO_Airlines.txt
+Settings	airports	\LEXX\ICAO\ICAO_Airports.txt
+Settings	aircraft	\LEXX\ICAO\ICAO_Aircraft.txt
+Settings	airways	\LEXX\NavData\airway.txt
+Settings	airportcoords	\LEXX\NavData\icao.txt
+Plugins	Plugin0	\LEXX\Plugins\RDFPlugin\RDFPlugin.dll
+Plugins	Plugin0Display0	Ground Radar display
+Plugins	Plugin0Display1	Standard ES radar screen
+Plugins	Plugin0Display2	SMR radar display
+Plugins	Plugin1	\LEXX\Plugins\vSMR\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin1Display2	Standard ES radar screen
+Plugins	Plugin2	\LECB\Plugins\GRPlugin\GRplugin.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	SMR radar display
+Plugins	Plugin2Display2	Standard ES radar screen
+Plugins	Plugin3	\LEXX\Plugins\CCAMS\CCAMS.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	SMR radar display
+Plugins	Plugin3Display2	Standard ES radar screen
+Plugins	Plugin4	\LECB\Plugins\TopSky\TopSky.dll
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin4Display1	Ground Radar display
+Plugins	Plugin5	\LECB\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
+Plugins	Plugin6	\LECB\Plugins\VFPC\VFPC.dll
+Plugins	Plugin7	\LEXX\Plugins\CDM\CDM.dll
+Plugins	Plugin8	\LECB\Plugins\ESCenterlines\ESCenterlines.dll
+Plugins	Plugin8Display0	ES Centerlines
+Plugins	Plugin8Display1	Standard ES radar screen
+Plugins	Plugin9	\LEXX\Plugins\VCH\VCH.dll
+Plugins	Plugin9Display0	Standard ES radar screen
+Plugins	Plugin9Display1	Ground Radar display
+Plugins	Plugin10	\LEXX\Plugins\MAESTRO\MAESTRO.dll
+Plugins	Plugin10Display0	Standard ES radar screen
+Plugins	Plugin11	\LEXX\Plugins\vSACTA\SACTA.dll
+Plugins	Plugin11Display0	Standard ES radar screen
+RecentFiles	Recent1	\LECB\ASR\LECB.asr
+ASRFastKeys	1	\LECB\ASR\LECB.asr
+Sounds	Sound0	\LEXX\Sounds\handoff_request.wav
+Sounds	Sound1	\LEXX\Sounds\handoff_accept.wav
+Sounds	Sound2	\LEXX\Sounds\conflict_alert.wav
+Sounds	Sound3	\LEXX\Sounds\radio_message.wav
+Sounds	Sound4	\LEXX\Sounds\private_message.wav
+Sounds	Sound5	\LEXX\Sounds\atc_message.wav
+Sounds	Sound6	\LEXX\Sounds\broadcast_message.wav
+Sounds	Sound7	\LEXX\Sounds\landline_request.wav
+Sounds	Sound8	\LEXX\Sounds\supervisor_message.wav
+Sounds	Sound9	\LEXX\Sounds\connected.wav
+Sounds	Sound10	\LEXX\Sounds\disconnected.wav
+Sounds	Sound11	\LEXX\Sounds\ongoing_request.wav
+Sounds	Sound12	\LEXX\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\LEXX\Sounds\ongoing_refused.wav
+Sounds	Sound14	\LEXX\Sounds\ongoing_manual.wav
+Sounds	Sound15	\LEXX\Sounds\new_atis.wav
+Sounds	Sound16	\LEXX\Sounds\handoff_refused.wav
+Sounds	Sound17	\LEXX\Sounds\pointout.wav
+Sounds	Sound18	\LEXX\Sounds\startup.wav
+LastSession	server	AUTOMATIC

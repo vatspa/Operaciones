@@ -1,10 +1,9 @@
 {
-  "name": "Lanzarote",
-  "id": "88d8d5c1-82ae-45f5-a951-4cb74ac1f021",
+  "name": "Lanzarote (GCRR)",
+  "id": "bfbf49ff-66d9-4d89-86ec-8d27768daacf",
   "composites": [
     {
-      "id": "150252ac-5c4f-4728-a0e1-299fe62f3a92",
-      "name": "Lanzarote",
+      "id": "b25625b6-8a9e-4711-a4b3-3b2bb3fe760f",
       "identifier": "GCRR",
       "atisType": "Combined",
       "codeRange": {
@@ -201,6 +200,10 @@
         "clouds": {
           "identifyCeilingLayer": true,
           "convertToMetric": false,
+          "undeterminedLayerAltitude": {
+            "text": "undetermined",
+            "voice": "undetermined"
+          },
           "types": {
             "FEW": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",

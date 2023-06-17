@@ -1,10 +1,9 @@
 {
-  "name": "Fuerteventura",
-  "id": "8c1d6f0e-f9c9-415a-84c5-1b1e1ed16a57",
+  "name": "Fuerteventura (GCFV)",
+  "id": "dc353f00-9d28-414f-a385-d61d75453b85",
   "composites": [
     {
-      "id": "49422df5-d93b-4eb7-8daf-95918dc900b6",
-      "name": "Fuerteventura",
+      "id": "036135dc-8f1c-4fd7-8c50-c8980d6bd959",
       "identifier": "GCFV",
       "atisType": "Combined",
       "codeRange": {
@@ -201,6 +200,10 @@
         "clouds": {
           "identifyCeilingLayer": true,
           "convertToMetric": false,
+          "undeterminedLayerAltitude": {
+            "text": "undetermined",
+            "voice": "undetermined"
+          },
           "types": {
             "FEW": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
