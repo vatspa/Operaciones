@@ -1,40 +1,39 @@
 {
-  "name": "Palma de Mallorca Arrival (LEPA)",
-  "id": "49fc01a1-ba81-44f3-a9ec-99a291849f70",
+  "name": "Granada (LEGR)",
+  "id": "7628efdb-ad57-4470-b242-7c96e8cc78c3",
   "composites": [
     {
-      "id": "82204b6d-c480-4819-abb6-35c8c264d8ec",
-      "identifier": "LEPA",
-      "atisType": "Arrival",
+      "id": "60c4a041-e4ae-447c-b151-95f5762afe5c",
+      "identifier": "LEGR",
+      "atisType": "Combined",
       "codeRange": {
         "low": "A",
         "high": "Z"
       },
-      "frequency": 119250000,
+      "frequency": 120625000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
       },
-      "idsEndpoint": "",
       "useNotamPrefix": false,
       "useDecimalTerminology": true,
       "airportConditionsBeforeFreeText": false,
       "notamsBeforeFreeText": false,
       "presets": [
         {
-          "id": "bc3acba0-ddf8-41d4-8faa-de99891fca23",
+          "id": "f2eb4a70-7361-4ee5-b20b-b832f75234cf",
           "name": "EAST",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 06 LEFT. EXPECT ILS ZULU APPROACH RWY 06 LEFT.",
+          "airportConditions": "DEPARTURE RWY 09. ARRIVAL RWY 09. EXPECT ILS ZULU APPROACH RWY 09.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
           }
         },
         {
-          "id": "0cfbca42-44d4-41a1-ba45-b62ccbc6edf0",
+          "id": "66b83594-ea45-4113-8fe3-8a768534001e",
           "name": "WEST",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 24 LEFT. EXPECT ILS ZULU APPROACH RWY 24 LEFT.",
-          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
+          "airportConditions": "DEPARTURE RWY 27. ARRIVAL RWY 27.",
+          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
           }
@@ -80,10 +79,6 @@
         {
           "string": "RWYS",
           "spoken": "RUNWAYS"
-        },
-        {
-          "string": "NOSIG",
-          "spoken": "NO-SIG"
         }
       ],
       "airportConditionDefinitions": [],
@@ -290,34 +285,34 @@
         "transitionLevel": {
           "values": [
             {
-              "low": 1032,
-              "high": 1050,
-              "altitude": 65
-            },
-            {
-              "low": 1014,
-              "high": 1031,
-              "altitude": 70
-            },
-            {
-              "low": 996,
-              "high": 1013,
-              "altitude": 75
-            },
-            {
-              "low": 978,
-              "high": 995,
-              "altitude": 80
+              "low": 942,
+              "high": 959,
+              "altitude": 100
             },
             {
               "low": 960,
               "high": 977,
+              "altitude": 95
+            },
+            {
+              "low": 978,
+              "high": 995,
+              "altitude": 90
+            },
+            {
+              "low": 996,
+              "high": 1013,
               "altitude": 85
             },
             {
-              "low": 942,
-              "high": 959,
-              "altitude": 90
+              "low": 1014,
+              "high": 1031,
+              "altitude": 80
+            },
+            {
+              "low": 1032,
+              "high": 1050,
+              "altitude": 75
             }
           ],
           "template": {

@@ -1,40 +1,39 @@
 {
-  "name": "Palma de Mallorca Arrival (LEPA)",
-  "id": "49fc01a1-ba81-44f3-a9ec-99a291849f70",
+  "name": "Vigo (LEVX)",
+  "id": "dac70bb5-5136-47d4-93dd-cbc3320a41a8",
   "composites": [
     {
-      "id": "82204b6d-c480-4819-abb6-35c8c264d8ec",
-      "identifier": "LEPA",
-      "atisType": "Arrival",
+      "id": "e9e63084-d93d-444f-8baa-dffe75795acd",
+      "identifier": "LEVX",
+      "atisType": "Combined",
       "codeRange": {
         "low": "A",
         "high": "Z"
       },
-      "frequency": 119250000,
+      "frequency": 120825000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
       },
-      "idsEndpoint": "",
       "useNotamPrefix": false,
       "useDecimalTerminology": true,
       "airportConditionsBeforeFreeText": false,
       "notamsBeforeFreeText": false,
       "presets": [
         {
-          "id": "bc3acba0-ddf8-41d4-8faa-de99891fca23",
-          "name": "EAST",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 06 LEFT. EXPECT ILS ZULU APPROACH RWY 06 LEFT.",
+          "id": "f099547b-975c-4f40-bf43-56e92559d357",
+          "name": "NORTH",
+          "airportConditions": "DEPARTURE RWY 01. ARRIVAL RWY 01. EXPECT RNP ZULU APPROACH RWY 01.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
           }
         },
         {
-          "id": "0cfbca42-44d4-41a1-ba45-b62ccbc6edf0",
-          "name": "WEST",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 24 LEFT. EXPECT ILS ZULU APPROACH RWY 24 LEFT.",
-          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
+          "id": "aaa27326-1f9d-44aa-8edb-b0d915298251",
+          "name": "SOUTH",
+          "airportConditions": "DEPARTURE RWY 19. ARRIVAL RWY 19. EXPECT ILS ZULU APPROACH RWY 19.",
+          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
           }
@@ -80,10 +79,6 @@
         {
           "string": "RWYS",
           "spoken": "RUNWAYS"
-        },
-        {
-          "string": "NOSIG",
-          "spoken": "NO-SIG"
         }
       ],
       "airportConditionDefinitions": [],
@@ -290,24 +285,9 @@
         "transitionLevel": {
           "values": [
             {
-              "low": 1032,
-              "high": 1050,
-              "altitude": 65
-            },
-            {
-              "low": 1014,
-              "high": 1031,
-              "altitude": 70
-            },
-            {
-              "low": 996,
-              "high": 1013,
-              "altitude": 75
-            },
-            {
-              "low": 978,
-              "high": 995,
-              "altitude": 80
+              "low": 942,
+              "high": 959,
+              "altitude": 90
             },
             {
               "low": 960,
@@ -315,9 +295,24 @@
               "altitude": 85
             },
             {
-              "low": 942,
-              "high": 959,
-              "altitude": 90
+              "low": 978,
+              "high": 995,
+              "altitude": 80
+            },
+            {
+              "low": 996,
+              "high": 1013,
+              "altitude": 75
+            },
+            {
+              "low": 1014,
+              "high": 1031,
+              "altitude": 70
+            },
+            {
+              "low": 1032,
+              "high": 1050,
+              "altitude": 65
             }
           ],
           "template": {
