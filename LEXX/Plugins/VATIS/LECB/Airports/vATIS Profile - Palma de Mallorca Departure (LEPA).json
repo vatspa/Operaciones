@@ -4,7 +4,6 @@
   "composites": [
     {
       "id": "725a7e9a-7773-41a8-89dd-21825c784d29",
-      "name": "Palma de Mallorca",
       "identifier": "LEPA",
       "atisType": "Departure",
       "codeRange": {

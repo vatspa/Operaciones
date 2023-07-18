@@ -2051,7 +2051,6 @@
     },
     {
       "id": "82204b6d-c480-4819-abb6-35c8c264d8ec",
-      "name": "Palma de Mallorca",
       "identifier": "LEPA",
       "atisType": "Arrival",
       "codeRange": {
@@ -2384,7 +2383,6 @@
     },
     {
       "id": "725a7e9a-7773-41a8-89dd-21825c784d29",
-      "name": "Palma de Mallorca",
       "identifier": "LEPA",
       "atisType": "Departure",
       "codeRange": {
