@@ -1,16 +1,16 @@
 {
-  "name": "Málaga Arrival (LEMG)",
-  "id": "f2555d2e-8ee4-49f8-b780-6cd010d4dff9",
+  "name": "Reus (LERS)",
+  "id": "7c320324-50c7-4f82-a180-ca311bbc55b0",
   "composites": [
     {
-      "id": "1084b96f-6e84-4f31-aebb-9250a58dad4e",
-      "identifier": "LEMG",
-      "atisType": "Arrival",
+      "id": "d6d09597-ba8f-4df4-b602-d0ad60bba81a",
+      "identifier": "LERS",
+      "atisType": "Combined",
       "codeRange": {
         "low": "A",
         "high": "Z"
       },
-      "frequency": 120375000,
+      "frequency": 120250000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
@@ -22,47 +22,70 @@
       "notamsBeforeFreeText": false,
       "presets": [
         {
-          "id": "7bca6311-5354-4e92-9da9-ed2e2d0af40e",
-          "name": "SOUTH",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 13. EXPECT ILS ZULU APPROACH RWY 13.",
-          "notams": "",
+          "id": "e834e2a9-64ca-4471-8b72-94a494e73bab",
+          "name": "EAST",
+          "airportConditions": "DEPARTURE RWY 07. ARRIVAL RWY 07. EXPECT RNP Z APPROACH RWY 07.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
           }
         },
         {
-          "id": "37f9d68d-abdc-448a-b603-42fc5cc74eed",
-          "name": "NORTH",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 31. EXPECT ILS ZULU APPROACH RWY 31.",
-          "notams": "",
-          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
-          "externalGenerator": {
-            "enabled": false
-          }
-        },
-        {
-          "id": "67c14794-4b84-45d7-b97c-04b4479490fa",
-          "name": "SOUTH DUAL",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 12. EXPECT ILS ZULU APPROACH RWY 12.",
-          "notams": "",
-          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
-          "externalGenerator": {
-            "enabled": false
-          }
-        },
-        {
-          "id": "c87674f5-c87c-41da-9d19-728cb0350f42",
-          "name": "NORTH DUAL",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 31. EXPECT ILS ZULU APPROACH RWY 31.",
-          "notams": "",
+          "id": "74918a1f-5763-4e4f-a1bf-d200476a527a",
+          "name": "WEST",
+          "airportConditions": "DEPARTURE RWY 25. ARRIVAL RWY 25. EXPECT ILS Z APPROACH RWY 25.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
           }
         }
       ],
-      "contractions": [],
+      "contractions": [
+        {
+          "string": "W",
+          "spoken": "WHISKEY"
+        },
+        {
+          "string": "E",
+          "spoken": "ECHO"
+        },
+        {
+          "string": "N",
+          "spoken": "NOVEMBER"
+        },
+        {
+          "string": "L",
+          "spoken": "LIMA"
+        },
+        {
+          "string": "R-NAV",
+          "spoken": "ARE-NAV"
+        },
+        {
+          "string": "Z",
+          "spoken": "ZULU"
+        },
+        {
+          "string": "UTC",
+          "spoken": "YOU-T-SEE"
+        },
+        {
+          "string": "Y",
+          "spoken": "YANKEE"
+        },
+        {
+          "string": "RWY",
+          "spoken": "RUNWAY"
+        },
+        {
+          "string": "RWYS",
+          "spoken": "RUNWAYS"
+        },
+        {
+          "string": "NOSIG",
+          "spoken": "NO-SIG"
+        }
+      ],
       "airportConditionDefinitions": [],
       "notamDefinitions": [],
       "atisFormat": {
@@ -267,24 +290,9 @@
         "transitionLevel": {
           "values": [
             {
-              "low": 942,
-              "high": 959,
-              "altitude": 90
-            },
-            {
-              "low": 960,
-              "high": 977,
-              "altitude": 85
-            },
-            {
-              "low": 978,
-              "high": 995,
-              "altitude": 80
-            },
-            {
-              "low": 996,
-              "high": 1013,
-              "altitude": 75
+              "low": 1032,
+              "high": 1050,
+              "altitude": 65
             },
             {
               "low": 1014,
@@ -292,9 +300,24 @@
               "altitude": 70
             },
             {
-              "low": 1032,
-              "high": 1050,
-              "altitude": 65
+              "low": 996,
+              "high": 1013,
+              "altitude": 75
+            },
+            {
+              "low": 978,
+              "high": 995,
+              "altitude": 80
+            },
+            {
+              "low": 960,
+              "high": 977,
+              "altitude": 85
+            },
+            {
+              "low": 942,
+              "high": 959,
+              "altitude": 90
             }
           ],
           "template": {

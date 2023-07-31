@@ -1,16 +1,16 @@
 {
-  "name": "Palma de Mallorca Approach",
-  "id": "cc6bc9c2-c599-4f37-9d11-678f53aa8462",
+  "name": "Málaga Approach",
+  "id": "6122aaa3-3e60-43e4-b47f-08a51735f621",
   "composites": [
     {
-      "id": "82d4bbbd-92f7-4ac5-b23a-a3c3fe7b8d03",
-      "identifier": "LEPA",
+      "id": "1084b96f-6e84-4f31-aebb-9250a58dad4e",
+      "identifier": "LEMG",
       "atisType": "Arrival",
       "codeRange": {
         "low": "A",
         "high": "Z"
       },
-      "frequency": 119250000,
+      "frequency": 120375000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
@@ -22,70 +22,47 @@
       "notamsBeforeFreeText": false,
       "presets": [
         {
-          "id": "cd5bf0e7-c041-4aef-afac-c682d4464c7e",
-          "name": "EAST",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 06 LEFT. EXPECT ILS ZULU APPROACH RWY 06 LEFT.",
+          "id": "7bca6311-5354-4e92-9da9-ed2e2d0af40e",
+          "name": "SOUTH",
+          "airportConditions": "RWY IN USE FOR ARRIVALS 13. EXPECT ILS Z APPROACH RWY 13.",
+          "notams": "",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
           }
         },
         {
-          "id": "1c89b007-0ded-4fa7-9ee2-650530bc25d4",
-          "name": "WEST",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 24 LEFT. EXPECT ILS ZULU APPROACH RWY 24 LEFT.",
-          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
+          "id": "37f9d68d-abdc-448a-b603-42fc5cc74eed",
+          "name": "NORTH",
+          "airportConditions": "RWY IN USE FOR ARRIVALS 31. EXPECT ILS Z APPROACH RWY 31.",
+          "notams": "",
+          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "67c14794-4b84-45d7-b97c-04b4479490fa",
+          "name": "SOUTH DUAL",
+          "airportConditions": "RWY IN USE FOR ARRIVALS 12. EXPECT ILS Z APPROACH RWY 12.",
+          "notams": "",
+          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "c87674f5-c87c-41da-9d19-728cb0350f42",
+          "name": "NORTH DUAL",
+          "airportConditions": "RWY IN USE FOR ARRIVALS 31. EXPECT ILS Z APPROACH RWY 31.",
+          "notams": "",
+          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
           }
         }
       ],
-      "contractions": [
-        {
-          "string": "W",
-          "spoken": "WHISKEY"
-        },
-        {
-          "string": "E",
-          "spoken": "ECHO"
-        },
-        {
-          "string": "N",
-          "spoken": "NOVEMBER"
-        },
-        {
-          "string": "L",
-          "spoken": "LIMA"
-        },
-        {
-          "string": "R-NAV",
-          "spoken": "ARE-NAV"
-        },
-        {
-          "string": "Z",
-          "spoken": "ZULU"
-        },
-        {
-          "string": "UTC",
-          "spoken": "YOU-T-SEE"
-        },
-        {
-          "string": "Y",
-          "spoken": "YANKEE"
-        },
-        {
-          "string": "RWY",
-          "spoken": "RUNWAY"
-        },
-        {
-          "string": "RWYS",
-          "spoken": "RUNWAYS"
-        },
-        {
-          "string": "NOSIG",
-          "spoken": "NO-SIG"
-        }
-      ],
+      "contractions": [],
       "airportConditionDefinitions": [],
       "notamDefinitions": [],
       "atisFormat": {
@@ -290,24 +267,9 @@
         "transitionLevel": {
           "values": [
             {
-              "low": 1032,
-              "high": 1050,
-              "altitude": 65
-            },
-            {
-              "low": 1014,
-              "high": 1031,
-              "altitude": 70
-            },
-            {
-              "low": 996,
-              "high": 1013,
-              "altitude": 75
-            },
-            {
-              "low": 978,
-              "high": 995,
-              "altitude": 80
+              "low": 942,
+              "high": 959,
+              "altitude": 90
             },
             {
               "low": 960,
@@ -315,9 +277,24 @@
               "altitude": 85
             },
             {
-              "low": 942,
-              "high": 959,
-              "altitude": 90
+              "low": 978,
+              "high": 995,
+              "altitude": 80
+            },
+            {
+              "low": 996,
+              "high": 1013,
+              "altitude": 75
+            },
+            {
+              "low": 1014,
+              "high": 1031,
+              "altitude": 70
+            },
+            {
+              "low": 1032,
+              "high": 1050,
+              "altitude": 65
             }
           ],
           "template": {
@@ -335,15 +312,14 @@
       }
     },
     {
-      "id": "b72fe410-1790-44fe-bff5-1e00350b14ce",
-      "name": "Palma de Mallorca",
-      "identifier": "LEPA",
+      "id": "2898dded-07e7-4f5b-9219-39d5469ac130",
+      "identifier": "LEMG",
       "atisType": "Departure",
       "codeRange": {
         "low": "A",
         "high": "Z"
       },
-      "frequency": 121775000,
+      "frequency": 124475000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
@@ -355,70 +331,47 @@
       "notamsBeforeFreeText": false,
       "presets": [
         {
-          "id": "258d8f71-f37f-4e51-809c-706516c30f7c",
-          "name": "EAST",
-          "airportConditions": "RWY IN USE FOR DEPARTURES 06 RIGHT.",
+          "id": "28ad1aa4-4c8a-45e8-ba5f-008097d39134",
+          "name": "SOUTH",
+          "airportConditions": "RWY IN USE FOR DEPARTURES 13.",
+          "notams": "",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
           }
         },
         {
-          "id": "e461b206-eb74-4858-a61e-10e216bd7cd8",
-          "name": "WEST",
-          "airportConditions": "RWY IN USE FOR DEPARTURES 24 RIGHT.",
-          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
+          "id": "0a30aba2-0f02-43e6-8ba0-726f97eec37b",
+          "name": "NORTH",
+          "airportConditions": "RWY IN USE FOR DEPARTURES 31.",
+          "notams": "",
+          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "69f13329-d78a-43dd-a9b6-084c6db682e7",
+          "name": "SOUTH DUAL",
+          "airportConditions": "RWY IN USE FOR DEPARTURES 13.",
+          "notams": "",
+          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "68d42e63-d517-41d1-9af7-7a4a36fffb56",
+          "name": "NORTH DUAL",
+          "airportConditions": "RWY IN USE FOR DEPARTURES 30.",
+          "notams": "",
+          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
           }
         }
       ],
-      "contractions": [
-        {
-          "string": "W",
-          "spoken": "WHISKEY"
-        },
-        {
-          "string": "E",
-          "spoken": "ECHO"
-        },
-        {
-          "string": "N",
-          "spoken": "NOVEMBER"
-        },
-        {
-          "string": "L",
-          "spoken": "LIMA"
-        },
-        {
-          "string": "R-NAV",
-          "spoken": "ARE-NAV"
-        },
-        {
-          "string": "Z",
-          "spoken": "ZULU"
-        },
-        {
-          "string": "UTC",
-          "spoken": "YOU-T-SEE"
-        },
-        {
-          "string": "Y",
-          "spoken": "YANKEE"
-        },
-        {
-          "string": "RWY",
-          "spoken": "RUNWAY"
-        },
-        {
-          "string": "RWYS",
-          "spoken": "RUNWAYS"
-        },
-        {
-          "string": "NOSIG",
-          "spoken": "NO-SIG"
-        }
-      ],
+      "contractions": [],
       "airportConditionDefinitions": [],
       "notamDefinitions": [],
       "atisFormat": {
