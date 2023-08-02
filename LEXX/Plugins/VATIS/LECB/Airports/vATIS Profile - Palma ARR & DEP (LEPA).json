@@ -1,9 +1,9 @@
 {
-  "name": "Palma de Mallorca Approach",
-  "id": "cc6bc9c2-c599-4f37-9d11-678f53aa8462",
+  "name": "Palma ARR & DEP (LEPA)",
+  "id": "a050564c-ecc2-46c8-9115-20d66fb1d00c",
   "composites": [
     {
-      "id": "82d4bbbd-92f7-4ac5-b23a-a3c3fe7b8d03",
+      "id": "043ec4f5-b8e1-447a-95e9-5f4214e9b228",
       "identifier": "LEPA",
       "atisType": "Arrival",
       "codeRange": {
@@ -336,7 +336,6 @@
     },
     {
       "id": "b72fe410-1790-44fe-bff5-1e00350b14ce",
-      "name": "Palma de Mallorca",
       "identifier": "LEPA",
       "atisType": "Departure",
       "codeRange": {

@@ -1,16 +1,16 @@
 {
-  "name": "Palma de Mallorca Arrival (LEPA)",
-  "id": "49fc01a1-ba81-44f3-a9ec-99a291849f70",
+  "name": "Palma Departure (LEPA)",
+  "id": "ee0537a4-329f-48e5-8cb0-5a8b6424f782",
   "composites": [
     {
-      "id": "82204b6d-c480-4819-abb6-35c8c264d8ec",
+      "id": "725a7e9a-7773-41a8-89dd-21825c784d29",
       "identifier": "LEPA",
-      "atisType": "Arrival",
+      "atisType": "Departure",
       "codeRange": {
         "low": "A",
         "high": "Z"
       },
-      "frequency": 119250000,
+      "frequency": 121775000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
@@ -22,18 +22,18 @@
       "notamsBeforeFreeText": false,
       "presets": [
         {
-          "id": "bc3acba0-ddf8-41d4-8faa-de99891fca23",
+          "id": "01240351-5994-43eb-af47-9a891e2ea469",
           "name": "EAST",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 06 LEFT. EXPECT ILS Z APPROACH RWY 06 LEFT.",
+          "airportConditions": "RWY IN USE FOR DEPARTURES 06 RIGHT.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
           }
         },
         {
-          "id": "0cfbca42-44d4-41a1-ba45-b62ccbc6edf0",
+          "id": "facddec3-4a90-4c4e-8194-bca9f0be5007",
           "name": "WEST",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 24 LEFT. EXPECT ILS Z APPROACH RWY 24 LEFT.",
+          "airportConditions": "RWY IN USE FOR DEPARTURES 24 RIGHT.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
