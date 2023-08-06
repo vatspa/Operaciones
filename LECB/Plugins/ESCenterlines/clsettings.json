@@ -1179,24 +1179,6 @@
 		],
 		"cl_markers": [
 			{
-				"angle": 40,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 8.1,
-				"length": 3
-			},
-			{
-				"angle": 40,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 8.1,
-				"length": 3
-			},
-			{
 				"angle": 90,
 				"d_airport": "",
 				"d_runway": "",
@@ -1910,24 +1892,6 @@
 		],
 		"cl_markers": [
 			{
-				"angle": 40,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 5.9,
-				"length": 3
-			},
-			{
-				"angle": 40,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 5.9,
-				"length": 3
-			},
-			{
 				"angle": 90,
 				"d_airport": "",
 				"d_runway": "",
@@ -2052,24 +2016,6 @@
 			}
 		],
 		"cl_markers": [
-			{
-				"angle": 40,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 6.8,
-				"length": 3
-			},
-			{
-				"angle": 40,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 6.8,
-				"length": 3
-			},
 			{
 				"angle": 90,
 				"d_airport": "",
@@ -2472,6 +2418,10 @@
 	},
 	{
 		"airport": "LEPA",
+		"runway": "06R"
+	},
+	{
+		"airport": "LEPA",
 		"runway": "24L",
 		"course": 0,
 		"fap": "",
@@ -2614,6 +2564,10 @@
 		]
 	},
 	{
+		"airport": "LEPA",
+		"runway": "24R"
+	},
+	{
 		"airport": "LERS",
 		"runway": "07"
 	},
@@ -2632,24 +2586,6 @@
 			}
 		],
 		"cl_markers": [
-			{
-				"angle": 40,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 9.1,
-				"length": 3
-			},
-			{
-				"angle": 40,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 9.1,
-				"length": 3
-			},
 			{
 				"angle": 90,
 				"d_airport": "",
