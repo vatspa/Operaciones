@@ -1,61 +1,38 @@
 {
-  "name": "Madrid Arrival (LEMD)",
-  "id": "962797f8-ce63-4c37-ad52-8f23c95aba50",
+  "name": "Almería (LEAM)",
+  "id": "dfcf9178-99db-43d8-9cdf-86eb99873a83",
   "composites": [
     {
-      "id": "d39def6f-18ed-455f-a933-b61c063769ac",
-      "identifier": "LEMD",
-      "atisType": "Arrival",
+      "id": "a6f53bc6-c747-462d-8596-1709654bc7a5",
+      "identifier": "LEAM",
+      "atisType": "Combined",
       "codeRange": {
         "low": "A",
         "high": "Z"
       },
-      "frequency": 118250000,
+      "frequency": 119050000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
       },
-      "idsEndpoint": "",
       "useNotamPrefix": false,
       "useDecimalTerminology": true,
       "airportConditionsBeforeFreeText": false,
       "notamsBeforeFreeText": false,
       "presets": [
         {
-          "id": "a02e75f0-0920-4417-b801-2b53bbba102e",
-          "name": "LEMD NORTH DAY",
-          "airportConditions": "RUNWAYS IN USE FOR ARRIVALS 32 LEFT AND 32 RIGHT. EXPECT ILS Z APPROACH RWY 32 LEFT OR ILS Z APPROACH RWY 32 RIGHT. INDEPENDENT PARALLEL APPROACHES ARE IN FORCE.",
-          "notams": "",
+          "id": "29c54b80-b22e-4053-beed-2a9f004ed226",
+          "name": "EAST",
+          "airportConditions": "DEPARTURE RWY 07. ARRIVAL RWY 07. EXPECT RNP Z APPROACH RWY 07.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
           }
         },
         {
-          "id": "27880a66-7571-4b2a-be87-25ea274ba3d4",
-          "name": "LEMD NORTH NIGHT",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 32 RIGHT. EXPECT ILS Z APPROACH RWY 32 RIGHT.",
-          "notams": "",
-          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
-          "externalGenerator": {
-            "enabled": false
-          }
-        },
-        {
-          "id": "a6828391-3cd2-4f58-86e1-1bcd485f3cf3",
-          "name": "LEMD SOUTH DAY",
-          "airportConditions": "RUNWAYS IN USE FOR ARRIVALS 18 LEFT AND 18 RIGHT. EXPECT ILS Z APPROACH RWY 18 LEFT OR ILS Z APPROACH RWY 18 RIGHT. INDEPENDENT PARALLEL APPROACHES ARE IN FORCE.",
-          "notams": "",
-          "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
-          "externalGenerator": {
-            "enabled": false
-          }
-        },
-        {
-          "id": "bd0e7adf-20c6-4f87-9a5e-4171aad8c936",
-          "name": "LEMD SOUTH NIGHT",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 18 LEFT. EXPECT ILS Z APPROACH RWY 18 LEFT.",
-          "notams": "",
+          "id": "37f359ce-624a-4e53-a608-698e1b23d6a9",
+          "name": "WEST",
+          "airportConditions": "DEPARTURE RWY 25. ARRIVAL RWY 25. EXPECT ILS Z APPROACH RWY 25.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -116,7 +93,7 @@
         "surfaceWind": {
           "speakLeadingZero": false,
           "magneticVariation": {
-            "enabled": true,
+            "enabled": false,
             "magneticDegrees": 0
           },
           "standard": {
@@ -308,34 +285,34 @@
         "transitionLevel": {
           "values": [
             {
-              "low": 1032,
-              "high": 1050,
-              "altitude": 135
-            },
-            {
-              "low": 1014,
-              "high": 1031,
-              "altitude": 140
-            },
-            {
-              "low": 996,
-              "high": 1013,
-              "altitude": 145
-            },
-            {
-              "low": 978,
-              "high": 995,
-              "altitude": 150
+              "low": 942,
+              "high": 959,
+              "altitude": 90
             },
             {
               "low": 960,
               "high": 977,
-              "altitude": 155
+              "altitude": 85
             },
             {
-              "low": 942,
-              "high": 959,
-              "altitude": 160
+              "low": 978,
+              "high": 995,
+              "altitude": 80
+            },
+            {
+              "low": 996,
+              "high": 1013,
+              "altitude": 75
+            },
+            {
+              "low": 1014,
+              "high": 1031,
+              "altitude": 70
+            },
+            {
+              "low": 1032,
+              "high": 1050,
+              "altitude": 65
             }
           ],
           "template": {

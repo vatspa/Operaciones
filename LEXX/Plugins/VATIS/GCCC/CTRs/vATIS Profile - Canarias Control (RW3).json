@@ -24,7 +24,7 @@
         {
           "id": "cf9c03cf-c796-4ec0-8f68-38990a6bafdd",
           "name": "NORTH",
-          "airportConditions": "DEPARTURE RWY 36. ARRIVAL RWY 36. EXPECT RNP ZULU APPROACH RWY 36.",
+          "airportConditions": "DEPARTURE RWY 36. ARRIVAL RWY 36. EXPECT RNP Z APPROACH RWY 36.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -33,7 +33,7 @@
         {
           "id": "4f6264cd-9aa2-4d1f-a6c2-5cb73e407eb6",
           "name": "SOUTH",
-          "airportConditions": "DEPARTURE RWY 18. ARRIVAL RWY 18. EXPECT RNP ALPHA APPROACH RWY 18.",
+          "airportConditions": "DEPARTURE RWY 18. ARRIVAL RWY 18. EXPECT RNP A APPROACH RWY 18.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -41,6 +41,10 @@
         }
       ],
       "contractions": [
+        {
+          "string": "A",
+          "spoken": "ALPHA"
+        },
         {
           "string": "W",
           "spoken": "WHISKEY"
@@ -352,7 +356,7 @@
         {
           "id": "086750b2-79ba-4121-bea0-f5d8e294f95a",
           "name": "EAST",
-          "airportConditions": "DEPARTURE RWY 12. ARRIVAL RWY 12. EXPECT ILS ZULU APPROACH RWY 12.",
+          "airportConditions": "DEPARTURE RWY 12. ARRIVAL RWY 12. EXPECT ILS Z APPROACH RWY 12.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -361,7 +365,7 @@
         {
           "id": "6bd608b6-01db-4358-96a8-3ab7fde12b97",
           "name": "WEST",
-          "airportConditions": "DEPARTURE RWY 30. ARRIVAL RWY 30. EXPECT ILS ZULU APPROACH RWY 30.",
+          "airportConditions": "DEPARTURE RWY 30. ARRIVAL RWY 30. EXPECT ILS Z APPROACH RWY 30.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -680,7 +684,7 @@
         {
           "id": "7ad29cd8-060f-4350-b63d-98066b7cefaf",
           "name": "EAST",
-          "airportConditions": "DEPARTURE RWY 07. ARRIVAL RWY 07. EXPECT ILS ZULU APPROACH RWY 07.",
+          "airportConditions": "DEPARTURE RWY 07. ARRIVAL RWY 07. EXPECT ILS Z APPROACH RWY 07.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -689,7 +693,7 @@
         {
           "id": "96918508-a6e9-4753-9593-9e962d0a3427",
           "name": "WEST",
-          "airportConditions": "DEPARTURE RWY 25. ARRIVAL RWY 25. EXPECT ILS ZULU APPROACH RWY 25.",
+          "airportConditions": "DEPARTURE RWY 25. ARRIVAL RWY 25. EXPECT ILS Z APPROACH RWY 25.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false

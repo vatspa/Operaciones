@@ -1,38 +1,39 @@
 {
-  "name": "Almería (LEAM)",
-  "id": "dfcf9178-99db-43d8-9cdf-86eb99873a83",
+  "name": "A Coruña (LECO)",
+  "id": "8518f074-ac80-42cc-a19b-a3178f74cddc",
   "composites": [
     {
-      "id": "a6f53bc6-c747-462d-8596-1709654bc7a5",
-      "identifier": "LEAM",
+      "id": "5b561ffe-4c3b-460a-897a-c20811b071d6",
+      "identifier": "LECO",
       "atisType": "Combined",
       "codeRange": {
         "low": "A",
         "high": "Z"
       },
-      "frequency": 119050000,
+      "frequency": 129000000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
       },
+      "idsEndpoint": "",
       "useNotamPrefix": false,
       "useDecimalTerminology": true,
       "airportConditionsBeforeFreeText": false,
       "notamsBeforeFreeText": false,
       "presets": [
         {
-          "id": "29c54b80-b22e-4053-beed-2a9f004ed226",
-          "name": "EAST",
-          "airportConditions": "DEPARTURE RWY 07. ARRIVAL RWY 07. EXPECT RNP ZULU APPROACH RWY 07.",
+          "id": "9be04edd-5ac4-4315-a6cf-ae5fdb24dd32",
+          "name": "NORTH",
+          "airportConditions": "DEPARTURE RWY 03. ARRIVAL RWY 03. EXPECT RNP APPROACH RWY 03.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
           }
         },
         {
-          "id": "37f359ce-624a-4e53-a608-698e1b23d6a9",
-          "name": "WEST",
-          "airportConditions": "DEPARTURE RWY 25. ARRIVAL RWY 25. EXPECT ILS ZULU APPROACH RWY 25.",
+          "id": "aa3619b6-f537-424e-bd87-52c4d248bbce",
+          "name": "SOUTH",
+          "airportConditions": "DEPARTURE RWY 21. ARRIVAL RWY 21. EXPECT ILS Z APPROACH RWY 21.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
