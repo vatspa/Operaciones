@@ -33,7 +33,7 @@
         {
           "id": "aa3619b6-f537-424e-bd87-52c4d248bbce",
           "name": "NORTH",
-          "airportConditions": "DEPARTURE RWY 02. ARRIVAL RWY 02. EXPECT RNP Z APPROACH RWY 02.",
+          "airportConditions": "DEPARTURE RWY 02. ARRIVAL RWY 02. EXPECT VOR APPROACH RWY 02.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -279,8 +279,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
@@ -606,8 +606,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
