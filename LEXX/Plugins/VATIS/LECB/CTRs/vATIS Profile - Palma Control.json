@@ -50,10 +50,6 @@
           "spoken": "ECHO"
         },
         {
-          "string": "ILS",
-          "spoken": "I-L-S"
-        },
-        {
           "string": "N",
           "spoken": "NOVEMBER"
         },
@@ -384,10 +380,6 @@
         {
           "string": "E",
           "spoken": "ECHO"
-        },
-        {
-          "string": "ILS",
-          "spoken": "I-L-S"
         },
         {
           "string": "N",
@@ -722,10 +714,6 @@
           "spoken": "ECHO"
         },
         {
-          "string": "ILS",
-          "spoken": "I-L-S"
-        },
-        {
           "string": "N",
           "spoken": "NOVEMBER"
         },
@@ -1056,10 +1044,6 @@
         {
           "string": "E",
           "spoken": "ECHO"
-        },
-        {
-          "string": "ILS",
-          "spoken": "I-L-S"
         },
         {
           "string": "N",
