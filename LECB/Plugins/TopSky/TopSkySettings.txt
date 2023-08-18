@@ -371,6 +371,7 @@ RDF_Mode=-1
 //Maps Shortcuts
 Shortcut_Map_Target=0,LECB\VFR SECTORS
 Shortcut_Map_Target=1,LECB\TAXILINES
+Shortcut_Map_Target=2,LECB\STANDLINES
 Shortcut_Map_Target=8,LECB\LOW AIRWAY
 Shortcut_Map_Target=9,LECB\HIGH AIRWAY
 
