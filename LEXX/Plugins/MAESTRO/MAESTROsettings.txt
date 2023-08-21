@@ -1,9 +1,12 @@
 System_Version=1
+System_AutoHideCOTSwindow=1
+System_Timeline_PixPerMin=25
 System_TrueColorMode=1
 System_RateTime=30
 System_RateDisplayType=1
 System_DisplayWinds=1
 System_DisplayRates=1
+System_DisplayTracks=1
 System_LandingSpeed=160
 System_Default_Feeder_Time=15
 System_Default_Slot=2
@@ -91,6 +94,8 @@ Color_WM_Bg=80,80,80
 Color_WM_Border=88,95,99
 Color_WM_Fg=130,130,130
 Color_WM_Frame=88,95,99
+Window_COTS_Pos=0,300
+Window_MAESTRO_Pos=0,300
 
 [LEBL]
 FEEDER:NORTH/WEST:NW:LEBL:TOTKI,SLL,CLE,VLA,BL443,BL439,BL435,BL427,BL545,BL541,BL537,BL533,BL529,BL640,BL636,BL632,BL628
