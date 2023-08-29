@@ -247,10 +247,6 @@ PROFILE:LERI_TWR:50:4
 ATIS2:$radioname 
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LERS_GND:20:3
-ATIS2:$radioname
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LERS_A_TWR:50:4
 ATIS2:$radioname
 ATIS3:vats.im/lexx
