@@ -570,6 +570,18 @@
 		]
 	},
 	{
+		"airport": "LEBA",
+		"runway": "03"
+	},
+	{
+		"airport": "LEBA",
+		"runway": "21"
+	},
+	{
+		"airport": "LEBB",
+		"runway": "10"
+	},
+	{
 		"airport": "LEBB",
 		"runway": "12",
 		"course": 0,
@@ -714,6 +726,10 @@
 	},
 	{
 		"airport": "LEBB",
+		"runway": "28"
+	},
+	{
+		"airport": "LEBB",
 		"runway": "30",
 		"course": 0,
 		"fap": "",
@@ -854,22 +870,6 @@
 				"length": 0.2
 			}
 		]
-	},
-	{
-		"airport": "LEBB",
-		"runway": "10"
-	},
-	{
-		"airport": "LEBB",
-		"runway": "28"
-	},
-	{
-		"airport": "LEBA",
-		"runway": "03"
-	},
-	{
-		"airport": "LEBA",
-		"runway": "21"
 	},
 	{
 		"airport": "LEBG",
@@ -1027,383 +1027,6 @@
 		]
 	},
 	{
-		"airport": "LEBB",
-		"runway": "30",
-		"course": 0,
-		"fap": "",
-		"color": "#282828",
-		"cl_elements": [
-			{
-				"dash": 1,
-				"gap": 0,
-				"number": 20,
-				"starts_gap": true
-			}
-		],
-		"cl_markers": [
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 2,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 2,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 3,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 3,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 6,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 6,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 7,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 7,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 8,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 8,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 10,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 10,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 11,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 11,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 12,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 12,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
-			}
-		]
-	},
-	{
 		"airport": "LECO",
 		"runway": "03"
 	},
@@ -1549,6 +1172,14 @@
 				"length": 0.2
 			}
 		]
+	},
+	{
+		"airport": "LECU",
+		"runway": "09"
+	},
+	{
+		"airport": "LECU",
+		"runway": "27"
 	},
 	{
 		"airport": "LEGA",
@@ -1721,22 +1352,22 @@
 		],
 		"cl_markers": [
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 8,
+				"length": 3
 			},
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "left",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 8,
+				"length": 3
 			},
 			{
 				"angle": 90,
@@ -1762,16 +1393,7 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 3,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 3,
+				"dist_thr": 4,
 				"length": 0.2
 			},
 			{
@@ -1789,33 +1411,6 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 6,
 				"length": 0.2
 			},
@@ -1826,24 +1421,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 6,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 7,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 7,
 				"length": 0.2
 			},
 			{
@@ -1870,26 +1447,8 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
+				"length": 0.2
 			},
 			{
 				"angle": 90,
@@ -1898,24 +1457,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 11,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 11,
 				"length": 0.2
 			},
 			{
@@ -1935,176 +1476,28 @@
 				"dist_cl": 0,
 				"dist_thr": 12,
 				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
 			}
 		]
 	},
 	{
-		"airport": "LEHC",
-		"runway": "30R",
-		"course": 0,
-		"fap": ""
+		"airport": "LEGT",
+		"runway": "23"
 	},
 	{
 		"airport": "LEHC",
-		"runway": "30L",
-		"course": 0,
-		"fap": ""
+		"runway": "12L"
 	},
 	{
 		"airport": "LEHC",
-		"runway": "12R",
-		"course": 0,
-		"fap": ""
+		"runway": "12R"
 	},
 	{
 		"airport": "LEHC",
-		"runway": "12L",
-		"course": 0,
-		"fap": ""
+		"runway": "30L"
+	},
+	{
+		"airport": "LEHC",
+		"runway": "30R"
 	},
 	{
 		"airport": "LEJR",
@@ -2249,6 +1642,581 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 12,
+				"length": 0.2
+			}
+		]
+	},
+	{
+		"airport": "LELN",
+		"runway": "05"
+	},
+	{
+		"airport": "LELN",
+		"runway": "23",
+		"course": 0,
+		"fap": "",
+		"color": "#282828",
+		"cl_elements": [
+			{
+				"dash": 1,
+				"gap": 0,
+				"number": 20,
+				"starts_gap": true
+			}
+		],
+		"cl_markers": [
+			{
+				"angle": 40,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 7.6,
+				"length": 3
+			},
+			{
+				"angle": 40,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 7.6,
+				"length": 3
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 2,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 2,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 4,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 4,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 6,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 6,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 8,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 8,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 10,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 10,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 12,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 12,
+				"length": 0.2
+			}
+		]
+	},
+	{
+		"airport": "LEMD",
+		"runway": "32R",
+		"course": 0,
+		"fap": "",
+		"color": "#282828",
+		"cl_elements": [
+			{
+				"dash": 1,
+				"gap": 0,
+				"number": 12,
+				"starts_gap": true
+			}
+		],
+		"cl_markers": [
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 4,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 4,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 8,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 8,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 12,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 12,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 16,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 16,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 20,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 20,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 24,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 24,
+				"length": 0.2
+			}
+		]
+	},
+	{
+		"airport": "LEMD",
+		"runway": "32L",
+		"course": 0,
+		"fap": "",
+		"color": "#282828",
+		"cl_elements": [
+			{
+				"dash": 1,
+				"gap": 0,
+				"number": 12,
+				"starts_gap": true
+			}
+		],
+		"cl_markers": [
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 4,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 4,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 8,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 8,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 12,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 12,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 16,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 16,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 20,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 20,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 24,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 24,
+				"length": 0.2
+			}
+		]
+	},
+	{
+		"airport": "LEMD",
+		"runway": "18R",
+		"course": 0,
+		"fap": "",
+		"color": "#282828",
+		"cl_elements": [
+			{
+				"dash": 1,
+				"gap": 0,
+				"number": 16,
+				"starts_gap": true
+			}
+		],
+		"cl_markers": [
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 4,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 4,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 8,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 8,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 12,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 12,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 16,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 16,
+				"length": 0.2
+			}
+		]
+	},
+	{
+		"airport": "LEMD",
+		"runway": "18L",
+		"course": 0,
+		"fap": "",
+		"color": "#282828",
+		"cl_elements": [
+			{
+				"dash": 1,
+				"gap": 0,
+				"number": 16,
+				"starts_gap": true
+			}
+		],
+		"cl_markers": [
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 4,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 4,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 8,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 8,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 12,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 12,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "left",
+				"dist_cl": 0,
+				"dist_thr": 16,
+				"length": 0.2
+			},
+			{
+				"angle": 90,
+				"d_airport": "",
+				"d_runway": "",
+				"direction": "right",
+				"dist_cl": 0,
+				"dist_thr": 16,
 				"length": 0.2
 			}
 		]
@@ -2834,811 +2802,6 @@
 		]
 	},
 	{
-		"airport": "LELN",
-		"runway": "23",
-		"course": 0,
-		"fap": "",
-		"color": "#282828",
-		"cl_elements": [
-			{
-				"dash": 1,
-				"gap": 0,
-				"number": 20,
-				"starts_gap": true
-			}
-		],
-		"cl_markers": [
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 2,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 2,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 3,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 3,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 6,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 6,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 7,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 7,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 8,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 8,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 10,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 10,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 11,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 11,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 12,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 12,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
-			}
-		]
-	},
-	{
-		"airport": "LEMD",
-		"runway": "32R",
-		"course": 0,
-		"fap": "",
-		"color": "#282828",
-		"cl_elements": [
-			{
-				"dash": 1,
-				"gap": 0,
-				"number": 12,
-				"starts_gap": true
-			}
-		],
-		"cl_markers": [
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 8,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 8,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 12,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 12,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 24,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 24,
-				"length": 0.2
-			}
-		]
-	},
-	{
-		"airport": "LEMD",
-		"runway": "32L",
-		"course": 0,
-		"fap": "",
-		"color": "#282828",
-		"cl_elements": [
-			{
-				"dash": 1,
-				"gap": 0,
-				"number": 12,
-				"starts_gap": true
-			}
-		],
-		"cl_markers": [
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 8,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 8,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 12,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 12,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 24,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 24,
-				"length": 0.2
-			}
-		]
-	},
-	{
-		"airport": "LEMD",
-		"runway": "18R",
-		"course": 0,
-		"fap": "",
-		"color": "#282828",
-		"cl_elements": [
-			{
-				"dash": 1,
-				"gap": 0,
-				"number": 16,
-				"starts_gap": true
-			}
-		],
-		"cl_markers": [
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 8,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 8,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 12,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 12,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			}
-		]
-	},
-	{
-		"airport": "LEMD",
-		"runway": "18L",
-		"course": 0,
-		"fap": "",
-		"color": "#282828",
-		"cl_elements": [
-			{
-				"dash": 1,
-				"gap": 0,
-				"number": 16,
-				"starts_gap": true
-			}
-		],
-		"cl_markers": [
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 8,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 8,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 12,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 12,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			}
-		]
-	},
-	{
 		"airport": "LEPP",
 		"runway": "15",
 		"course": 0,
@@ -3654,22 +2817,22 @@
 		],
 		"cl_markers": [
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 10.6,
+				"length": 3
 			},
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "left",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 10.6,
+				"length": 3
 			},
 			{
 				"angle": 90,
@@ -3695,16 +2858,7 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 3,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 3,
+				"dist_thr": 4,
 				"length": 0.2
 			},
 			{
@@ -3722,33 +2876,6 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 6,
 				"length": 0.2
 			},
@@ -3759,24 +2886,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 6,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 7,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 7,
 				"length": 0.2
 			},
 			{
@@ -3803,26 +2912,8 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
+				"length": 0.2
 			},
 			{
 				"angle": 90,
@@ -3831,24 +2922,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 11,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 11,
 				"length": 0.2
 			},
 			{
@@ -3868,152 +2941,16 @@
 				"dist_cl": 0,
 				"dist_thr": 12,
 				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
 			}
 		]
+	},
+	{
+		"airport": "LEPP",
+		"runway": "33"
+	},
+	{
+		"airport": "LERJ",
+		"runway": "11"
 	},
 	{
 		"airport": "LERJ",
@@ -4031,22 +2968,22 @@
 		],
 		"cl_markers": [
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 7,
+				"length": 3
 			},
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "left",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 7,
+				"length": 3
 			},
 			{
 				"angle": 90,
@@ -4072,16 +3009,7 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 3,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 3,
+				"dist_thr": 4,
 				"length": 0.2
 			},
 			{
@@ -4099,33 +3027,6 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 6,
 				"length": 0.2
 			},
@@ -4136,24 +3037,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 6,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 7,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 7,
 				"length": 0.2
 			},
 			{
@@ -4180,26 +3063,8 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
+				"length": 0.2
 			},
 			{
 				"angle": 90,
@@ -4208,24 +3073,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 11,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 11,
 				"length": 0.2
 			},
 			{
@@ -4245,150 +3092,6 @@
 				"dist_cl": 0,
 				"dist_thr": 12,
 				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
 			}
 		]
 	},
@@ -4549,6 +3252,14 @@
 	},
 	{
 		"airport": "LESA",
+		"runway": "03"
+	},
+	{
+		"airport": "LESA",
+		"runway": "08"
+	},
+	{
+		"airport": "LESA",
 		"runway": "21",
 		"course": 0,
 		"fap": "",
@@ -4563,22 +3274,22 @@
 		],
 		"cl_markers": [
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 7.8,
+				"length": 3
 			},
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "left",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 7.8,
+				"length": 3
 			},
 			{
 				"angle": 90,
@@ -4604,16 +3315,7 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 3,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 3,
+				"dist_thr": 4,
 				"length": 0.2
 			},
 			{
@@ -4631,33 +3333,6 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 6,
 				"length": 0.2
 			},
@@ -4668,24 +3343,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 6,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 7,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 7,
 				"length": 0.2
 			},
 			{
@@ -4712,26 +3369,8 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
+				"length": 0.2
 			},
 			{
 				"angle": 90,
@@ -4740,24 +3379,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 11,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 11,
 				"length": 0.2
 			},
 			{
@@ -4777,164 +3398,20 @@
 				"dist_cl": 0,
 				"dist_thr": 12,
 				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
 			}
 		]
 	},
 	{
-		"airport": "LESO",
-		"runway": "04",
-		"course": 0,
-		"fap": ""
+		"airport": "LESA",
+		"runway": "26"
 	},
 	{
 		"airport": "LESO",
-		"runway": "22",
-		"course": 0,
-		"fap": ""
+		"runway": "04"
+	},
+	{
+		"airport": "LESO",
+		"runway": "22"
 	},
 	{
 		"airport": "LEST",
@@ -5224,15 +3701,15 @@
 	},
 	{
 		"airport": "LETL",
-		"runway": "36",
-		"course": 0,
-		"fap": ""
+		"runway": "18"
 	},
 	{
 		"airport": "LETL",
-		"runway": "18",
-		"course": 0,
-		"fap": ""
+		"runway": "36"
+	},
+	{
+		"airport": "LETO",
+		"runway": "04"
 	},
 	{
 		"airport": "LETO",
@@ -5250,22 +3727,22 @@
 		],
 		"cl_markers": [
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 6.8,
+				"length": 3
 			},
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "left",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 6.8,
+				"length": 3
 			},
 			{
 				"angle": 90,
@@ -5291,16 +3768,7 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 3,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 3,
+				"dist_thr": 4,
 				"length": 0.2
 			},
 			{
@@ -5318,33 +3786,6 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 6,
 				"length": 0.2
 			},
@@ -5355,24 +3796,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 6,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 7,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 7,
 				"length": 0.2
 			},
 			{
@@ -5399,26 +3822,8 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
+				"length": 0.2
 			},
 			{
 				"angle": 90,
@@ -5427,24 +3832,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 11,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 11,
 				"length": 0.2
 			},
 			{
@@ -5464,152 +3851,12 @@
 				"dist_cl": 0,
 				"dist_thr": 12,
 				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
 			}
 		]
+	},
+	{
+		"airport": "LEVD",
+		"runway": "05"
 	},
 	{
 		"airport": "LEVD",
@@ -5627,22 +3874,22 @@
 		],
 		"cl_markers": [
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 7.7,
+				"length": 3
 			},
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "left",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 7.7,
+				"length": 3
 			},
 			{
 				"angle": 90,
@@ -5668,16 +3915,7 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 3,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 3,
+				"dist_thr": 4,
 				"length": 0.2
 			},
 			{
@@ -5695,33 +3933,6 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 6,
 				"length": 0.2
 			},
@@ -5732,24 +3943,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 6,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 7,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 7,
 				"length": 0.2
 			},
 			{
@@ -5776,26 +3969,8 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
+				"length": 0.2
 			},
 			{
 				"angle": 90,
@@ -5804,24 +3979,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 11,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 11,
 				"length": 0.2
 			},
 			{
@@ -5841,152 +3998,16 @@
 				"dist_cl": 0,
 				"dist_thr": 12,
 				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
 			}
 		]
+	},
+	{
+		"airport": "LEVS",
+		"runway": "09"
+	},
+	{
+		"airport": "LEVS",
+		"runway": "27"
 	},
 	{
 		"airport": "LEVT",
@@ -6004,22 +4025,22 @@
 		],
 		"cl_markers": [
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 9.7,
+				"length": 3
 			},
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "left",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 9.7,
+				"length": 3
 			},
 			{
 				"angle": 90,
@@ -6045,16 +4066,7 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 3,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 3,
+				"dist_thr": 4,
 				"length": 0.2
 			},
 			{
@@ -6072,33 +4084,6 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 6,
 				"length": 0.2
 			},
@@ -6109,24 +4094,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 6,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 7,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 7,
 				"length": 0.2
 			},
 			{
@@ -6153,26 +4120,8 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
+				"length": 0.2
 			},
 			{
 				"angle": 90,
@@ -6181,24 +4130,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 11,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 11,
 				"length": 0.2
 			},
 			{
@@ -6218,152 +4149,12 @@
 				"dist_cl": 0,
 				"dist_thr": 12,
 				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
 			}
 		]
+	},
+	{
+		"airport": "LEVT",
+		"runway": "22"
 	},
 	{
 		"airport": "LEVX",
@@ -6514,6 +4305,10 @@
 	},
 	{
 		"airport": "LEXJ",
+		"runway": "11"
+	},
+	{
+		"airport": "LEXJ",
 		"runway": "29",
 		"course": 0,
 		"fap": "",
@@ -6528,22 +4323,22 @@
 		],
 		"cl_markers": [
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 11.7,
+				"length": 3
 			},
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "left",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 11.7,
+				"length": 3
 			},
 			{
 				"angle": 90,
@@ -6569,16 +4364,7 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 3,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 3,
+				"dist_thr": 4,
 				"length": 0.2
 			},
 			{
@@ -6596,33 +4382,6 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 6,
 				"length": 0.2
 			},
@@ -6633,24 +4392,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 6,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 7,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 7,
 				"length": 0.2
 			},
 			{
@@ -6677,26 +4418,8 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
+				"length": 0.2
 			},
 			{
 				"angle": 90,
@@ -6705,24 +4428,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 11,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 11,
 				"length": 0.2
 			},
 			{
@@ -6742,152 +4447,20 @@
 				"dist_cl": 0,
 				"dist_thr": 12,
 				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
 			}
 		]
+	},
+	{
+		"airport": "LEZG",
+		"runway": "12L"
+	},
+	{
+		"airport": "LEZG",
+		"runway": "12R"
+	},
+	{
+		"airport": "LEZG",
+		"runway": "30L"
 	},
 	{
 		"airport": "LEZG",
@@ -6905,22 +4478,22 @@
 		],
 		"cl_markers": [
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 8.8,
+				"length": 3
 			},
 			{
-				"angle": 90,
+				"angle": 40,
 				"d_airport": "",
 				"d_runway": "",
 				"direction": "left",
 				"dist_cl": 0,
-				"dist_thr": 1,
-				"length": 0.2
+				"dist_thr": 8.8,
+				"length": 3
 			},
 			{
 				"angle": 90,
@@ -6946,16 +4519,7 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 3,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 3,
+				"dist_thr": 4,
 				"length": 0.2
 			},
 			{
@@ -6973,33 +4537,6 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 4,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 5,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 6,
 				"length": 0.2
 			},
@@ -7010,24 +4547,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 6,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 7,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 7,
 				"length": 0.2
 			},
 			{
@@ -7054,26 +4573,8 @@
 				"d_runway": "",
 				"direction": "right",
 				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 9,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
+				"length": 0.2
 			},
 			{
 				"angle": 90,
@@ -7082,24 +4583,6 @@
 				"direction": "left",
 				"dist_cl": 0,
 				"dist_thr": 10,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 11,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 11,
 				"length": 0.2
 			},
 			{
@@ -7119,150 +4602,6 @@
 				"dist_cl": 0,
 				"dist_thr": 12,
 				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 13,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 14,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 15,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 16,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 17,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 18,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 19,
-				"length": 0.2
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "right",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
-			},
-			{
-				"angle": 90,
-				"d_airport": "",
-				"d_runway": "",
-				"direction": "left",
-				"dist_cl": 0,
-				"dist_thr": 20,
-				"length": 0.4
 			}
 		]
 	},
@@ -7559,5 +4898,5 @@
 	{
 		"airport": "LXGB",
 		"runway": "27"
-	},
+	}
 ]
