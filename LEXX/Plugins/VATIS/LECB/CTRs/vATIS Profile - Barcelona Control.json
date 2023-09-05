@@ -1075,7 +1075,7 @@
         {
           "id": "b3639323-9572-4af2-9e80-d024bee29693",
           "name": "NORTH",
-          "airportConditions": "DEPARTURE RWY 01. ARRIVAL RWY 01. EXPECT RNP Z APPROACH RWY 01.",
+          "airportConditions": "DEPARTURE RWY 01. ARRIVAL RWY 01. EXPECT VOR APPROACH RWY 01.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -2735,7 +2735,7 @@
         {
           "id": "e834e2a9-64ca-4471-8b72-94a494e73bab",
           "name": "EAST",
-          "airportConditions": "DEPARTURE RWY 07. ARRIVAL RWY 07. EXPECT RNP Z APPROACH RWY 07.",
+          "airportConditions": "DEPARTURE RWY 07. ARRIVAL RWY 07. EXPECT VOR APPROACH RWY 07.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
