@@ -370,8 +370,10 @@ RDF_Mode=-1
 
 //Maps Shortcuts
 Shortcut_Map_Target=0,LECB\VFR SECTORS
-Shortcut_Map_Target=9,LECB\HIGH AIRWAY
+Shortcut_Map_Target=1,LECB\TAXILINES
+Shortcut_Map_Target=2,LECB\STANDLINES
 Shortcut_Map_Target=8,LECB\LOW AIRWAY
+Shortcut_Map_Target=9,LECB\HIGH AIRWAY
 
 //Weather Radar Settings
 WXR_Brightness=20
@@ -595,6 +597,11 @@ Setup_ScreenLat=MJV
 Shortcut_Xfr_Target=1,PAG,PAT,PAF,PAA
 Shortcut_Xfr_Target=2,IBG,IBT,IBF,IBAN
 Setup_ScreenLat=MJV
+
+[LELL]
+Window_NOTAM=0,30,300
+Window_CPDLC_Setting=0,0,250
+Window_CPDLC_Current=0,1545,300
 
 [LEAL]
 STCA_Floor=1192

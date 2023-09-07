@@ -50,10 +50,6 @@
           "spoken": "ECHO"
         },
         {
-          "string": "ILS",
-          "spoken": "I-L-S"
-        },
-        {
           "string": "N",
           "spoken": "NOVEMBER"
         },
@@ -287,8 +283,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
@@ -386,10 +382,6 @@
           "spoken": "ECHO"
         },
         {
-          "string": "ILS",
-          "spoken": "I-L-S"
-        },
-        {
           "string": "N",
           "spoken": "NOVEMBER"
         },
@@ -623,8 +615,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
@@ -722,10 +714,6 @@
           "spoken": "ECHO"
         },
         {
-          "string": "ILS",
-          "spoken": "I-L-S"
-        },
-        {
           "string": "N",
           "spoken": "NOVEMBER"
         },
@@ -959,8 +947,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
@@ -1058,10 +1046,6 @@
           "spoken": "ECHO"
         },
         {
-          "string": "ILS",
-          "spoken": "I-L-S"
-        },
-        {
           "string": "N",
           "spoken": "NOVEMBER"
         },
@@ -1295,8 +1279,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
