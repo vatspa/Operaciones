@@ -88,6 +88,53 @@
       }
    },
    {
+      "icao": "GCGM",
+      "sids": {
+         "ARACO": [
+            {
+               "direction": "EVEN",
+               "destinations": ["GCLA"]
+            }
+         ],
+         "HIE": [
+               {
+               "direction": "EVEN",
+               "destinations": ["GCHI"]
+            }
+            ],
+         "TFS": [
+            {
+               "direction": "ODD",
+               "destinations": ["GCTS"]
+            }
+         ],
+         "KOPUD": [
+            {
+               "direction": "ODD",
+               "destinations": ["GCFV"]
+            }
+         ],
+         "LARYS": [
+            {
+               "direction": "ODD",
+               "destinations": ["GCRR"]
+            }
+         ],
+         "BOXCO": [
+            {
+               "direction": "ODD",
+               "destinations": ["GCXO"]
+            }
+         ],
+         "ESIQE": [
+            {
+               "direction": "ODD",
+               "destinations": ["GCLP"]
+            }
+         ]
+      }
+   },
+   {
       "icao": "GCHI",
       "sids": {
          "ARACO": [
@@ -674,13 +721,6 @@
    {
       "icao": "GCTS",
       "sids": {
-         "ARACO": [
-            {
-               "direction": "EVEN",
-               "min_fl": 90,
-               "destinations": ["GCLA"]
-            }
-         ],
          "BIMBO": [
             {
                "direction": "EVEN",
@@ -706,16 +746,9 @@
                "airways": ["BIMBO Q206","BIMBO UQ142"]
             }
          ],
-         "LPC": [
-            {
-               "direction": "ANY",
-               "min_fl": 90,
-               "destinations": ["GCLB","GCLP"]
-            }
-         ],
          "HIE": [
             {
-               "direction": "ODD",
+               "direction": "EVEN",
                "min_fl": 195,
                "max_fl": 305,
                "airways": ["HIE DCT ORVEK"]
@@ -727,7 +760,7 @@
                "airways": ["HIE UY611"]
             },
             {
-               "direction": "ODD",
+               "direction": "EVEN",
                "min_fl": 70,
                "destinations": ["GCHI"]
             }
@@ -738,13 +771,6 @@
                "min_fl": 195,
                "max_fl": 460,
                "airways": ["KONBA UN866"]
-            }
-         ],
-         "KOPUD": [
-            {
-               "direction": "ODD",
-               "min_fl": 150,
-               "destinations": ["GCFV"]
             }
          ],
          "KORAL": [
@@ -862,29 +888,6 @@
                "min_fl": 150 
             } 
          ],
-         "URQUI": [
-            {
-               "direction": "EVEN",
-               "min_fl": 95,
-               "max_fl": 145,
-               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
-               "airways": ["URQUI H770 LIMAL"]
-            },
-            {
-               "direction": "EVEN",
-               "min_fl": 145,
-               "max_fl": 660,
-               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
-               "airways": ["URQUI UT770 LIMAL"]
-            },
-            {
-               "direction": "EVEN",
-               "min_fl": 195,
-               "max_fl": 660,
-               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
-               "airways": ["URQUI UY422 BIPET"]
-            }
-         ],
          "VASTO": [
             {
                "direction": "EVEN",
@@ -898,7 +901,43 @@
                "max_fl": 460,
                "airways": ["VASTO UN858"]
             }
-         ]
+         ],
+         "COSSE": [
+            {
+               "destinations": ["GCXO"]
+            }
+         ],
+         "GDV": [
+            {
+               "direction": "ODD",
+               "min_fl": 150,
+               "destinations": ["GCFV"]
+            },
+            {
+               "min_fl": 150,
+               "airways": ["GDV DCT COSTI"]
+            }
+         ],
+         "MOROD": [
+            {
+               "direction": "EVEN",
+               "min_fl": 050,
+               "destinations": ["GCLA"]
+            }
+         ],
+         "PELIN": [
+            {
+               "direction": "ODD",
+               "destinations": ["GCLP","GCLB"]
+            }
+         ],
+         "TFS": [
+            {
+               "direction": "EVEN",
+               "min_fl": 070,
+               "destinations": ["GCGM"]
+            }
+         ],
       }
    },
    {
