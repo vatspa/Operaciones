@@ -28,19 +28,15 @@ Settings	airportcoords	\LEXX\NavData\icao.txt
 Plugins	Plugin0	\LEXX\Plugins\RDFPlugin\RDFPlugin.dll
 Plugins	Plugin0Display0	Ground Radar display
 Plugins	Plugin0Display1	Standard ES radar screen
-Plugins	Plugin0Display2	SMR radar display
-Plugins	Plugin1	\LEXX\Plugins\vSMR\vSMR.dll
-Plugins	Plugin1Display0	SMR radar display
-Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin1	\LECB\Plugins\GRPlugin\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin1Display2	Standard ES radar screen
-Plugins	Plugin2	\LECB\Plugins\GRPlugin\GRplugin.dll
+Plugins	Plugin2	\LEXX\Plugins\CCAMS\CCAMS.dll
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin2Display1	SMR radar display
 Plugins	Plugin2Display2	Standard ES radar screen
-Plugins	Plugin3	\LEXX\Plugins\CCAMS\CCAMS.dll
-Plugins	Plugin3Display0	Ground Radar display
-Plugins	Plugin3Display1	SMR radar display
-Plugins	Plugin3Display2	Standard ES radar screen
+Plugins	Plugin3	\LEXX\Plugins\vSACTA\SACTA.dll
+Plugins	Plugin3Display0	Standard ES radar screen
 Plugins	Plugin4	\LECB\Plugins\TopSky\TopSky.dll
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
@@ -55,7 +51,7 @@ Plugins	Plugin9Display0	Standard ES radar screen
 Plugins	Plugin9Display1	Ground Radar display
 Plugins	Plugin10	\LEXX\Plugins\MAESTRO\MAESTRO.dll
 Plugins	Plugin10Display0	Standard ES radar screen
-Plugins	Plugin11	\LEXX\Plugins\vSACTA\SACTA.dll
+Plugins	Plugin11	\LEXX\Plugins\DiscordEuroscope\DiscordEuroscope.dll
 Plugins	Plugin11Display0	Standard ES radar screen
 RecentFiles	Recent1	\LECB\ASR\LECB.asr
 ASRFastKeys	1	\LECB\ASR\LECB.asr
