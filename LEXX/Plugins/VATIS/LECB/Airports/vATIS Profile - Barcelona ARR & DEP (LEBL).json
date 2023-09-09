@@ -24,7 +24,7 @@
         {
           "id": "87484a4c-2f5a-4166-8b35-3b74ec5cca86",
           "name": "WRL",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 24 RIGHT. EXPECT ILS ZULU APPROACH RWY 24 RIGHT.",
+          "airportConditions": "RWY IN USE FOR ARRIVALS 24 RIGHT. EXPECT ILS Z APPROACH RWY 24 RIGHT.",
           "notams": "CAUTION, R-NAV APPROACH TRANSITIONS IN USE FROM INITIAL APPROACH FIX. CHECK FMS, EXPECT 2W APPROACH TRANSITIONS FOR RUNWAY 24 RIGHT. HIGH INTENSITY RUNWAY OPERATIONS IN FORCE.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
@@ -34,7 +34,7 @@
         {
           "id": "988b2a98-c4c3-4ad8-9a7b-4aa747843e5a",
           "name": "WLL",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 24 LEFT. EXPECT ILS ZULU APPROACH RWY 24 LEFT.",
+          "airportConditions": "RWY IN USE FOR ARRIVALS 24 LEFT. EXPECT ILS Z APPROACH RWY 24 LEFT.",
           "notams": "CAUTION, R-NAV APPROACH TRANSITIONS IN USE FROM INITIAL APPROACH FIX. CHECK FMS, EXPECT 2L APPROACH TRANSITIONS FOR RUNWAY 24 LEFT. HIGH INTENSITY RUNWAY OPERATIONS IN FORCE.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
@@ -44,7 +44,7 @@
         {
           "id": "fe9fb46b-8007-409d-90d5-cbdf5dc67930",
           "name": "ENR",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 02. EXPECT ILS ZULU APPROACH RWY 02.",
+          "airportConditions": "RWY IN USE FOR ARRIVALS 02. EXPECT ILS Z APPROACH RWY 02.",
           "notams": "CAUTION, R-NAV APPROACH TRANSITIONS IN USE FROM INITIAL APPROACH FIX. CHECK FMS, EXPECT 2N APPROACH TRANSITIONS FOR RUNWAY 02.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
@@ -54,7 +54,7 @@
         {
           "id": "ee2cb5d0-1dd1-4735-8ce3-715c7024b50d",
           "name": "ELR",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 06 LEFT. EXPECT ILS ZULU APPROACH RWY 06 LEFT.",
+          "airportConditions": "RWY IN USE FOR ARRIVALS 06 LEFT. EXPECT ILS Z APPROACH RWY 06 LEFT.",
           "notams": "CAUTION, R-NAV APPROACH TRANSITIONS IN USE FROM INITIAL APPROACH FIX. CHECK FMS, EXPECT 2E APPROACH TRANSITIONS FOR RUNWAY 06 LEFT. HIGH INTENSITY RUNWAY OPERATIONS IN FORCE.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
@@ -321,8 +321,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {

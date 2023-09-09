@@ -391,19 +391,23 @@ Window_APP_Extensions_TickWidth=0
 
 [LEMG]
 
-List_Inbound=*,2,0,500
-List_Outbound=*,2,1730,610
+List_Inbound=*,2,0,565
+List_Outbound=*,2,1733,565
 Airport_SMR_Raw=2
 Airport_SMR_Track=2
 Airport_ModeA=2
 Airport_ModeS=2
-Airport_Dep_Transfer_Height=2000
+Airport_Dep_Transfer_Height=1000
 Airport_Elevation=52
 Airport_Radius=2
 Airport_Runway_Thr=30:N036.40.39.145:W004.28.32.389
 Airport_Runway_End=30:N036.40.39.145:W004.28.32.389
-Window_APP_AltFilter=7100
+Window_APP=1,1252,363,360,230
 Window_APP_Rotation=317
+Window_APP_Scale=14
+Window_APP_Extensions=0
+Window_APP_Extensions_TickWidth=0
+Window_APP_AltFilter=6000
 
 [LEPP]
 

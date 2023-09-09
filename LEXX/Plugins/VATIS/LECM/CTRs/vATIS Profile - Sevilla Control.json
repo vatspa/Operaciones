@@ -23,7 +23,7 @@
         {
           "id": "f2eb4a70-7361-4ee5-b20b-b832f75234cf",
           "name": "EAST",
-          "airportConditions": "DEPARTURE RWY 09. ARRIVAL RWY 09. EXPECT ILS ZULU APPROACH RWY 09.",
+          "airportConditions": "DEPARTURE RWY 09. ARRIVAL RWY 09. EXPECT ILS Z APPROACH RWY 09.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -278,8 +278,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
@@ -350,7 +350,7 @@
         {
           "id": "29c54b80-b22e-4053-beed-2a9f004ed226",
           "name": "EAST",
-          "airportConditions": "DEPARTURE RWY 07. ARRIVAL RWY 07. EXPECT RNP ZULU APPROACH RWY 07.",
+          "airportConditions": "DEPARTURE RWY 07. ARRIVAL RWY 07.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -359,7 +359,7 @@
         {
           "id": "37f359ce-624a-4e53-a608-698e1b23d6a9",
           "name": "WEST",
-          "airportConditions": "DEPARTURE RWY 25. ARRIVAL RWY 25. EXPECT ILS ZULU APPROACH RWY 25.",
+          "airportConditions": "DEPARTURE RWY 25. ARRIVAL RWY 25. EXPECT ILS Z APPROACH RWY 25.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -605,8 +605,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
@@ -678,7 +678,7 @@
         {
           "id": "9be04edd-5ac4-4315-a6cf-ae5fdb24dd32",
           "name": "SOUTH",
-          "airportConditions": "DEPARTURE RWY 20. ARRIVAL RWY 20. EXPECT ILS ZULU APPROACH RWY 20.",
+          "airportConditions": "DEPARTURE RWY 20. ARRIVAL RWY 20. EXPECT ILS Z APPROACH RWY 20.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -687,7 +687,7 @@
         {
           "id": "aa3619b6-f537-424e-bd87-52c4d248bbce",
           "name": "NORTH",
-          "airportConditions": "DEPARTURE RWY 02. ARRIVAL RWY 02. EXPECT RNP ZULU APPROACH RWY 02.",
+          "airportConditions": "DEPARTURE RWY 02. ARRIVAL RWY 02. EXPECT VOR APPROACH RWY 02.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -933,8 +933,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
@@ -1006,7 +1006,7 @@
         {
           "id": "7bca6311-5354-4e92-9da9-ed2e2d0af40e",
           "name": "SOUTH",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 13. EXPECT ILS ZULU APPROACH RWY 13.",
+          "airportConditions": "RWY IN USE FOR ARRIVALS 13. EXPECT ILS Z APPROACH RWY 13.",
           "notams": "",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
@@ -1016,7 +1016,7 @@
         {
           "id": "37f9d68d-abdc-448a-b603-42fc5cc74eed",
           "name": "NORTH",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 31. EXPECT ILS ZULU APPROACH RWY 31.",
+          "airportConditions": "RWY IN USE FOR ARRIVALS 31. EXPECT ILS Z APPROACH RWY 31.",
           "notams": "",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
@@ -1026,7 +1026,7 @@
         {
           "id": "67c14794-4b84-45d7-b97c-04b4479490fa",
           "name": "SOUTH DUAL",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 12. EXPECT ILS ZULU APPROACH RWY 12.",
+          "airportConditions": "RWY IN USE FOR ARRIVALS 12. EXPECT ILS Z APPROACH RWY 12.",
           "notams": "",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
@@ -1036,7 +1036,7 @@
         {
           "id": "c87674f5-c87c-41da-9d19-728cb0350f42",
           "name": "NORTH DUAL",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 31. EXPECT ILS ZULU APPROACH RWY 31.",
+          "airportConditions": "RWY IN USE FOR ARRIVALS 31. EXPECT ILS Z APPROACH RWY 31.",
           "notams": "",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
@@ -1242,8 +1242,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
@@ -1551,8 +1551,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
@@ -1623,7 +1623,7 @@
         {
           "id": "29c54b80-b22e-4053-beed-2a9f004ed226",
           "name": "EAST",
-          "airportConditions": "DEPARTURE RWY 09. ARRIVAL RWY 09. EXPECT ILS ZULU APPROACH RWY 09.",
+          "airportConditions": "DEPARTURE RWY 09. ARRIVAL RWY 09. EXPECT ILS Z APPROACH RWY 09.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -1632,7 +1632,7 @@
         {
           "id": "37f359ce-624a-4e53-a608-698e1b23d6a9",
           "name": "WEST",
-          "airportConditions": "DEPARTURE RWY 27. ARRIVAL RWY 27. EXPECT ILS ZULU APPROACH RWY 27.",
+          "airportConditions": "DEPARTURE RWY 27. ARRIVAL RWY 27. EXPECT ILS Z APPROACH RWY 27.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -1878,8 +1878,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {

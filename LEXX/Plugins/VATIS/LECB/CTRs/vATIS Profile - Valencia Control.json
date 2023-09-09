@@ -24,7 +24,7 @@
         {
           "id": "e834e2a9-64ca-4471-8b72-94a494e73bab",
           "name": "EAST",
-          "airportConditions": "DEPARTURE RWY 10. ARRIVAL RWY 10. EXPECT ILS ZULU APPROACH RWY 10.",
+          "airportConditions": "DEPARTURE RWY 10. ARRIVAL RWY 10. EXPECT ILS Z APPROACH RWY 10.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -33,7 +33,7 @@
         {
           "id": "74918a1f-5763-4e4f-a1bf-d200476a527a",
           "name": "WEST",
-          "airportConditions": "DEPARTURE RWY 28. ARRIVAL RWY 28. EXPECT VOR ZULU APPROACH RWY 28.",
+          "airportConditions": "DEPARTURE RWY 28. ARRIVAL RWY 28. EXPECT VOR Z APPROACH RWY 28.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -283,8 +283,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
@@ -355,7 +355,7 @@
         {
           "id": "100f5e39-7495-459e-941d-c0ba8e514680",
           "name": "EAST",
-          "airportConditions": "DEPARTURE RWY 12. ARRIVAL RWY 12. EXPECT ILS ZULU APPROACH RWY 12.",
+          "airportConditions": "DEPARTURE RWY 12. ARRIVAL RWY 12. EXPECT ILS Z APPROACH RWY 12.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -614,8 +614,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
