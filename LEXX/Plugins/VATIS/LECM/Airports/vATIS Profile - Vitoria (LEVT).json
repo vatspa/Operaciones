@@ -23,7 +23,7 @@
         {
           "id": "a551fb34-3a2d-4ade-96ef-fd7490b41597",
           "name": "NORTH",
-          "airportConditions": "DEPARTURE RWY 04. ARRIVAL RWY 04. EXPECT ILS ZULU APPROACH RWY 04.",
+          "airportConditions": "DEPARTURE RWY 04. ARRIVAL RWY 04. EXPECT ILS Z APPROACH RWY 04.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -282,8 +282,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {

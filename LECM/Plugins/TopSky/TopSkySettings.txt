@@ -371,8 +371,10 @@ RDF_Mode=-1
 
 //Maps Shortcuts
 Shortcut_Map_Target=0,LECM\VFR SECTORS
-Shortcut_Map_Target=9,LECM\HIGH AIRWAY
+Shortcut_Map_Target=1,LECM\TAXILINES
+Shortcut_Map_Target=2,LECM\STANDLINES
 Shortcut_Map_Target=8,LECM\LOW AIRWAY
+Shortcut_Map_Target=9,LECM\HIGH AIRWAY
 
 //Weather Radar Settings
 WXR_Latitude=40

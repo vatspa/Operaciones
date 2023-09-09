@@ -279,8 +279,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
@@ -352,7 +352,7 @@
         {
           "id": "a02e75f0-0920-4417-b801-2b53bbba102e",
           "name": "LEMD NORTH DAY",
-          "airportConditions": "RUNWAYS IN USE FOR ARRIVALS 32 LEFT AND 32 RIGHT. EXPECT ILS ZULU APPROACH RWY 32 LEFT OR ILS ZULU APPROACH RWY 32 RIGHT. INDEPENDENT PARALLEL APPROACHES ARE IN FORCE.",
+          "airportConditions": "RUNWAYS IN USE FOR ARRIVALS 32 LEFT AND 32 RIGHT. EXPECT ILS Z APPROACH RWY 32 LEFT OR ILS Z APPROACH RWY 32 RIGHT. INDEPENDENT PARALLEL APPROACHES ARE IN FORCE.",
           "notams": "",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
@@ -362,7 +362,7 @@
         {
           "id": "27880a66-7571-4b2a-be87-25ea274ba3d4",
           "name": "LEMD NORTH NIGHT",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 32 RIGHT. EXPECT ILS ZULU APPROACH RWY 32 RIGHT.",
+          "airportConditions": "RWY IN USE FOR ARRIVALS 32 RIGHT. EXPECT ILS Z APPROACH RWY 32 RIGHT.",
           "notams": "",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
@@ -372,7 +372,7 @@
         {
           "id": "a6828391-3cd2-4f58-86e1-1bcd485f3cf3",
           "name": "LEMD SOUTH DAY",
-          "airportConditions": "RUNWAYS IN USE FOR ARRIVALS 18 LEFT AND 18 RIGHT. EXPECT ILS ZULU APPROACH RWY 18 LEFT OR ILS ZULU APPROACH RWY 18 RIGHT. INDEPENDENT PARALLEL APPROACHES ARE IN FORCE.",
+          "airportConditions": "RUNWAYS IN USE FOR ARRIVALS 18 LEFT AND 18 RIGHT. EXPECT ILS Z APPROACH RWY 18 LEFT OR ILS Z APPROACH RWY 18 RIGHT. INDEPENDENT PARALLEL APPROACHES ARE IN FORCE.",
           "notams": "",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
@@ -382,7 +382,7 @@
         {
           "id": "bd0e7adf-20c6-4f87-9a5e-4171aad8c936",
           "name": "LEMD SOUTH NIGHT",
-          "airportConditions": "RWY IN USE FOR ARRIVALS 18 LEFT. EXPECT ILS ZULU APPROACH RWY 18 LEFT.",
+          "airportConditions": "RWY IN USE FOR ARRIVALS 18 LEFT. EXPECT ILS Z APPROACH RWY 18 LEFT.",
           "notams": "",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
@@ -629,8 +629,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
@@ -979,8 +979,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter}",
+            "voice": "QNH {altimeter}"
           }
         },
         "transitionLevel": {
