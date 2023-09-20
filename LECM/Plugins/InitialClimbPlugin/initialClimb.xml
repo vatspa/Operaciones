@@ -3,116 +3,107 @@
     <apt icao="LEMG">
 		<runway name="13">
 			<sid name="BLN">
-				<alt>090</alt>
+				<alt>130</alt>
+			</sid>
+			<sid name="EPATA">
+				<alt>100</alt>
+			</sid>
+			<sid name="GDA">
+				<alt>100</alt>
 			</sid>
 			<sid name="INKAL">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="JRZ">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="NESDA">
-				<alt>090</alt>
-			</sid>
-			<sid name="PEKOP">
-				<alt>090</alt>
-			</sid>
-			<sid name="PEPAS">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="PIMOS">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
-			<sid name="ROLAS">
-				<alt>090</alt>
-			</sid>
-			<sid name="ROLAS">
-				<alt>090</alt>
+			<sid name="RIXUR">
+				<alt>100</alt>
 			</sid>
 			<sid name="SVL">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="ULPEP">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="VIBAS">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 		</runway>
 		<runway name="31">
 			<sid name="BLN">
-				<alt>090</alt>
+				<alt>130</alt>
+			</sid>
+			<sid name="EPATA">
+				<alt>100</alt>
+			</sid>
+			<sid name="GDA">
+				<alt>100</alt>
 			</sid>
 			<sid name="INKAL">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="JRZ">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="NESDA">
-				<alt>090</alt>
-			</sid>
-			<sid name="PEKOP">
-				<alt>090</alt>
-			</sid>
-			<sid name="PEPAS">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="PIMOS">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
-			<sid name="ROLAS">
-				<alt>090</alt>
-			</sid>
-			<sid name="ROLAS">
-				<alt>090</alt>
+			<sid name="RIXUR">
+				<alt>100</alt>
 			</sid>
 			<sid name="SVL">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="ULPEP">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="VIBAS">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 		</runway>
 		<runway name="30">
 			<sid name="BLN">
-				<alt>090</alt>
+				<alt>130</alt>
+			</sid>
+			<sid name="EPATA">
+				<alt>100</alt>
+			</sid>
+			<sid name="GDA">
+				<alt>100</alt>
 			</sid>
 			<sid name="INKAL">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="JRZ">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="NESDA">
-				<alt>090</alt>
-			</sid>
-			<sid name="PEKOP">
-				<alt>090</alt>
-			</sid>
-			<sid name="PEPAS">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="PIMOS">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
-			<sid name="ROLAS">
-				<alt>090</alt>
-			</sid>
-			<sid name="ROLAS">
-				<alt>090</alt>
+			<sid name="RIXUR">
+				<alt>100</alt>
 			</sid>
 			<sid name="SVL">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="ULPEP">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="VIBAS">
-				<alt>090</alt>
+				<alt>100</alt>
 			</sid>
 		</runway>
     </apt>
