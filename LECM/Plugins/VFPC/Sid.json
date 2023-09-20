@@ -661,48 +661,30 @@
 			   "airways": ["B28"]
             }
          ],
-			"PEPAS": [
+			"EPATA": [
             {
-               "direction": "EVEN",
-			   "min_fl": 145,
-			   "airways": ["UM445"]
+               "direction": "ODD",
+			   "min_fl": 95,
+            "max_fl": 145,   
+			   "airways": ["A301"]
             }
          ],
-		 	"ROLAS": [
+		 	"RIXUR": [
             {
                "direction": "EVEN",
 			   "min_fl": 145,
 			   "airways": ["UN851"]
             },
 			{
-               "direction": "ODD",
+               "direction": "EVEN",
 			   "min_fl": 145,
-			   "airways": ["UM192"]
+			   "airways": ["UM445"]
             },
 			{
                "direction": "EVEN",
-			   "min_fl": 105,
+			   "min_fl": 135,
 			   "max_fl": 145,
 			   "airways": ["B46"]
-            },
-			{
-               "direction": "ODD",
-			   "min_fl": 105,
-			   "max_fl": 145,
-			   "airways": ["H372"]
-            }
-         ],
-		  	"NESDA": [
-            {
-               "direction": "ODD",
-			   "min_fl": 145,
-			   "airways": ["UL112"]
-            },
-			{
-               "direction": "ODD",
-			   "min_fl": 110,
-			   "max_fl": 145,
-			   "airways": ["A44"]
             }
          ],
 		  	"ULPEP": [
@@ -729,12 +711,6 @@
 			   "min_fl": 95,
 			   "max_fl": 145,
 			   "airways": ["B95"]
-            }
-         ],
-		  	"PEKOP": [
-            {
-               "direction": "ODD",
-			   "min_fl": 100
             }
          ],
 		  	"PIMOS": [
