@@ -307,6 +307,60 @@
 			</sid>
 		</runway>
     </apt>
+	<apt icao="LEJR">
+		<runway name="02">
+			<sid name="MGA">
+				<alt>080</alt>
+			</sid>
+			<sid name="HIJ">
+				<alt>080</alt>
+			</sid>
+			<sid name="ONUBA">
+				<alt>080</alt>
+			</sid>
+			<sid name="OXACA">
+				<alt>080</alt>
+			</sid>
+			<sid name="MAR">
+				<alt>090</alt>
+			</sid>
+			<sid name="PEPAS">
+				<alt>080</alt>
+			</sid>
+			<sid name="SANTA">
+				<alt>080</alt>
+			</sid>
+			<sid name="VJF">
+				<alt>080</alt>
+			</sid>
+		</runway>
+		<runway name="20">
+			<sid name="MGA">
+				<alt>080</alt>
+			</sid>
+			<sid name="HIJ">
+				<alt>080</alt>
+			</sid>
+			<sid name="ONUBA">
+				<alt>080</alt>
+			</sid>
+			<sid name="OXACA">
+				<alt>080</alt>
+			</sid>
+			<sid name="MAR">
+				<alt>080</alt>
+			</sid>
+			<sid name="PEPAS">
+				<alt>080</alt>
+			</sid>
+			<sid name="SANTA">
+				<alt>080</alt>
+			</sid>
+			<sid name="VJF">
+				<alt>080</alt>
+			</sid>
+		</runway>
+	</apt>
 	<apt icao="LEST">
 		<runway name="17">
 			<sid name="DEMOS">
