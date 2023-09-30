@@ -51,6 +51,10 @@ PROFILE:GCLP_GCA_APP:150:5
 ATIS2:$radioname
 ATIS3:Covering GCLP below FL125 - vats.im/gccc
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:GCLP_F_APP:150:5
+ATIS2:$radioname
+ATIS3:Covering Final sector - vats.im/gccc
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:GCLP_DEL:20:2
 ATIS2:$radioname
 ATIS3:vats.im/gccc
