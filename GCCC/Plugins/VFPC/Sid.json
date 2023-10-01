@@ -379,6 +379,13 @@
             "airways": ["HIE UY611 ROSTA"]
             }
          ],
+         "LPC": [
+            {
+            "direction": "ANY",
+            "min_fl": 50,
+            "destinations": ["GCLP","GCLB"]
+            }
+         ],
          "KONBA": [
             {
             "direction": "EVEN",
@@ -517,16 +524,17 @@
             "destinations": ["GCXO"]
             }
          ],
-         "TFS": [
+         "LOMAS": [
             {
             "direction": "EVEN",
             "min_fl": 60,
             "destinations": ["GCTS"]
-            },
+            }
+         ],
+         "MOVAS": [
             {
             "direction": "EVEN",
             "min_fl": 60,
-            "max_fl": 125,
             "destinations": ["GCGM"]
             }
          ],
@@ -882,7 +890,7 @@
       "sids": {
          "ARACO": [
             {
-               "direction": "ODD",
+               "direction": "EVEN",
                "min_fl": 70,
                "destinations": ["GCLA"]
             }
@@ -946,7 +954,7 @@
          ],
          "HIE": [
             {
-               "direction": "ODD",
+               "direction": "EVEN",
                "min_fl": 195,
                "max_fl": 305,
                "airways": ["HIE DCT ORVEK"]
@@ -1026,10 +1034,10 @@
                "min_fl": 130 
             }
          ],
-         "TFS": [
+         "YEQAY": [
             {
                "direction": "ANY",
-               "min_fl": 70,
+               "min_fl": 110,
                "destinations": ["GCTS","GCGM"]
             }
          ],
