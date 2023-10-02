@@ -872,7 +872,8 @@
          ],
          "PELIN": [
             {
-               "direction": "ODD",
+               "direction": "ANY",
+               "max_fl": 080,
                "destinations": ["GCLP","GCLB"]
             }
          ],
