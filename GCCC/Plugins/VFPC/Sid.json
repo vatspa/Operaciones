@@ -866,21 +866,21 @@
          "MOROD": [
             {
                "direction": "EVEN",
-               "min_fl": 050,
+               "min_fl": 50,
                "destinations": ["GCLA"]
             }
          ],
          "PELIN": [
             {
                "direction": "ANY",
-               "max_fl": 080,
+               "max_fl": 80,
                "destinations": ["GCLP","GCLB"]
             }
          ],
          "TFS": [
             {
                "direction": "EVEN",
-               "min_fl": 070,
+               "min_fl": 70,
                "destinations": ["GCGM"]
             }
          ],
