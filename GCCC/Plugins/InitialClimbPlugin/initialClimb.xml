@@ -83,10 +83,10 @@
 			<sid name="TFN">
 				<alt>090</alt>
 			</sid>
-			<sid name="TFS">
+			<sid name="VASTO">
 				<alt>090</alt>
 			</sid>
-			<sid name="VASTO">
+			<sid name="YEQAY">
 				<alt>090</alt>
 			</sid>
 		</runway>
@@ -118,10 +118,10 @@
 			<sid name="TFN">
 				<alt>090</alt>
 			</sid>
-			<sid name="TFS">
+			<sid name="VASTO">
 				<alt>090</alt>
 			</sid>
-			<sid name="VASTO">
+			<sid name="YEQAY">
 				<alt>090</alt>
 			</sid>
 		</runway>
@@ -149,6 +149,9 @@
 			<sid name="KORAL">
 				<alt>100</alt>
 			</sid>
+			<sid name="LOMAS">
+				<alt>060</alt>
+			</sid>
 			<sid name="ODEGI">
 				<alt>060</alt>
 			</sid>
@@ -167,11 +170,11 @@
 			<sid name="TFN">
 				<alt>060</alt>
 			</sid>
-			<sid name="TFS">
-				<alt>060</alt>
-			</sid>
 			<sid name="VASTO">
 				<alt>120</alt>
+			</sid>
+			<sid name="MOVAS">
+				<alt>060</alt>
 			</sid>
 		</runway>
 		<runway name="03R">
@@ -196,6 +199,9 @@
 			<sid name="KORAL">
 				<alt>100</alt>
 			</sid>
+			<sid name="LOMAS">
+				<alt>060</alt>
+			</sid>
 			<sid name="ODEGI">
 				<alt>060</alt>
 			</sid>
@@ -214,11 +220,11 @@
 			<sid name="TFN">
 				<alt>060</alt>
 			</sid>
-			<sid name="TFS">
-				<alt>060</alt>
-			</sid>
 			<sid name="VASTO">
 				<alt>120</alt>
+			</sid>
+			<sid name="MOVAS">
+				<alt>060</alt>
 			</sid>
 		</runway>
 		<runway name="21L">
@@ -243,6 +249,9 @@
 			<sid name="KORAL">
 				<alt>060</alt>
 			</sid>
+			<sid name="LOMAS">
+				<alt>060</alt>
+			</sid>
 			<sid name="ODEGI">
 				<alt>060</alt>
 			</sid>
@@ -261,11 +270,11 @@
 			<sid name="TFN">
 				<alt>060</alt>
 			</sid>
-			<sid name="TFS">
-				<alt>060</alt>
-			</sid>
 			<sid name="VASTO">
 				<alt>120</alt>
+			</sid>
+			<sid name="MOVAS">
+				<alt>060</alt>
 			</sid>
 		</runway>
 		<runway name="21R">
@@ -290,6 +299,9 @@
 			<sid name="KORAL">
 				<alt>060</alt>
 			</sid>
+			<sid name="LOMAS">
+				<alt>060</alt>
+			</sid>
 			<sid name="ODEGI">
 				<alt>060</alt>
 			</sid>
@@ -308,11 +320,11 @@
 			<sid name="TFN">
 				<alt>060</alt>
 			</sid>
-			<sid name="TFS">
-				<alt>060</alt>
-			</sid>
 			<sid name="VASTO">
 				<alt>120</alt>
+			</sid>
+			<sid name="MOVAS">
+				<alt>060</alt>
 			</sid>
 		</runway>
     </apt>
@@ -396,88 +408,58 @@
     </apt>
     <apt icao="GCTS">
 		<runway name="07">
-			<sid name="ARACO">
-				<alt>090</alt>
-			</sid>
 			<sid name="BIMBO">
-				<alt>200</alt>
+				<alt>240</alt>
 			</sid>
-			<sid name="LPC">
-				<alt>090</alt>
+			<sid name="DESUM">
+				<alt>240</alt>
+			</sid>
+			<sid name="GDV">
+				<alt>240</alt>
 			</sid>
 			<sid name="HIE">
 				<alt>070</alt>
 			</sid>
-			<sid name="KONBA">
-				<alt>200</alt>
+			<sid name="KASAS">
+				<alt>240</alt>
 			</sid>
-			<sid name="KOPUD">
-				<alt>200</alt>
+			<sid name="KONBA">
+				<alt>240</alt>
 			</sid>
 			<sid name="KORAL">
-				<alt>200</alt>
-			</sid>
-			<sid name="ODEGI">
-				<alt>090</alt>
+				<alt>240</alt>
 			</sid>
 			<sid name="RASEP">
-				<alt>200</alt>
-			</sid>
-			<sid name="REMGI">
-				<alt>090</alt>
-			</sid>
-			<sid name="SAMAR">
-				<alt>200</alt>
-			</sid>
-			<sid name="SARAY">
-				<alt>200</alt>
-			</sid>
-			<sid name="URQUI">
-				<alt>070</alt>
+				<alt>240</alt>
 			</sid>
 			<sid name="VASTO">
-				<alt>200</alt>
+				<alt>240</alt>
 			</sid>
 		</runway>
 		<runway name="25">
-			<sid name="ARACO">
-				<alt>090</alt>
-			</sid>
 			<sid name="BIMBO">
-				<alt>150</alt>
+				<alt>240</alt>
 			</sid>
-			<sid name="LPC">
-				<alt>090</alt>
+			<sid name="DESUM">
+				<alt>240</alt>
 			</sid>
-			<sid name="HIE">
-				<alt>070</alt>
+			<sid name="GDV">
+				<alt>240</alt>
+			</sid>
+			<sid name="KASAS">
+				<alt>240</alt>
 			</sid>
 			<sid name="KONBA">
-				<alt>150</alt>
-			</sid>
-			<sid name="KOPUD">
 				<alt>240</alt>
 			</sid>
 			<sid name="KORAL">
 				<alt>240</alt>
 			</sid>
 			<sid name="ODEGI">
-				<alt>090</alt>
+				<alt>200</alt>
 			</sid>
 			<sid name="RASEP">
 				<alt>240</alt>
-			</sid>
-			<sid name="REMGI">
-				<alt>090</alt>
-			</sid>
-			<sid name="SAMAR">
-				<alt>240</alt>
-			</sid>
-			<sid name="SARAY">
-				<alt>240</alt>
-			</sid>
-			<sid name="URQUI">
-				<alt>090</alt>
 			</sid>
 			<sid name="VASTO">
 				<alt>240</alt>
@@ -516,10 +498,10 @@
 			<sid name="SARAY">
 				<alt>070</alt>
 			</sid>
-			<sid name="TFS">
+			<sid name="VASTO">
 				<alt>070</alt>
 			</sid>
-			<sid name="VASTO">
+			<sid name="YEQAY">
 				<alt>070</alt>
 			</sid>
 		</runway>
@@ -554,10 +536,10 @@
 			<sid name="SARAY">
 				<alt>070</alt>
 			</sid>
-			<sid name="TFS">
+			<sid name="VASTO">
 				<alt>070</alt>
 			</sid>
-			<sid name="VASTO">
+			<sid name="YEQAY">
 				<alt>070</alt>
 			</sid>
 		</runway>

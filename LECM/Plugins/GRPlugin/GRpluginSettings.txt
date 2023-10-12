@@ -366,13 +366,19 @@ Window_APP_AltFilter=10000
 
 [LEMD]
 
-List_Inbound=*,2,0,350
-List_Outbound=*,2,1230,640
+List_Inbound=32L,2,1253,837
+List_Inbound=32R,2,1253,697
+List_Inbound=18L,2,1253,697
+List_Inbound=18R,2,1253,837
+List_Outbound=36R,2,1023,697
+List_Outbound=36L,2,1023,837
+List_Outbound=14L,2,1023,697
+List_Outbound=14R,2,1023,837
 Airport_SMR_Raw=2
 Airport_SMR_Track=2
 Airport_ModeA=2
 Airport_ModeS=2
-Airport_Dep_Transfer_Height=1000
+Airport_Dep_Transfer_Height=3000
 Airport_Elevation=1998
 Airport_Radius=7
 Airport_Runway_Thr=32L:N040.27.20.463:W003.32.46.735
@@ -385,7 +391,7 @@ Airport_Runway_Thr=18R:N040.31.55.919:W003.34.29.478
 Airport_Runway_End=18R:N040.31.55.919:W003.34.29.478
 Window_APP_Rotation=270.2
 Window_APP_AltFilter=9000
-Window_APP=1,0,682,570,270
+Window_APP=1,0,665,585,280
 Window_APP_Extensions=0
 Window_APP_Extensions_TickWidth=0
 

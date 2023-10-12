@@ -3,8 +3,9 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Geo:LEMD Groundlayout GND:
-Regions:LEMD SMR:polygon
+Regions:LEMD SMR CONTORNO:polygon
+Regions:LEMD SMR ISLETAS:polygon
+Regions:LEMD SMR PARCHE:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -18,6 +19,6 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:270.20000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:40.458970:-3.627303:40.508471:-3.510097
+WINDOWAREA:40.466532:-3.618210:40.506133:-3.524445
 PLUGIN:Ground Radar plugin:GroundMode:LEMD
 PLUGIN:TopSky plugin:NoDraw:1
