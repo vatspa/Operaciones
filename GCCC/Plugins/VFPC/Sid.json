@@ -862,6 +862,18 @@
                "max_fl": 660,
                "airways": ["GDV UQ279"]
             }
+            {
+               "direction": "ODD",
+               "min_fl": 95,
+               "max_fl": 145,
+               "airways": ["GDV DCT COSTI W279"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 660,
+               "airways": ["GDV DCT COSTI UQ279"]
+            }
          ],
          "MOROD": [
             {
