@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <CDM>
-	<ctot option="callsign" />
 	<rate ops="40" />
 	<rateLvo ops="10" />
 	<expiredCtot time="25" />
 	<realMode mode="true" />
+	<invalidateAtTsat mode="true" />
 	<Rates url="https://archivos.vatsimspain.es/Operaciones/Plugins/CDM_data/rate.txt" />
 	<Taxizones url="https://archivos.vatsimspain.es/Operaciones/Plugins/CDM_data/taxizones.txt" />
 	<Ctot url="https://archivos.vatsimspain.es/Operaciones/Plugins/CDM_data/ctot.txt" />
@@ -15,4 +15,5 @@
 	<ftpHost host="ftp.vatsimspain.es" />
 	<ftpUser user="aman_vatspa" />
 	<ftpPassword password="Ek0TxdyF33yaxBqxRAK5" />
+	<Su_Wait mode="true" />
 </CDM>

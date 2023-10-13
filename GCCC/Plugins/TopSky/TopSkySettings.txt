@@ -366,7 +366,8 @@ CPDLC_ASP=1
 //Maps Shortcuts
 Shortcut_Map_Target=1,GCCC\TAXILINES
 Shortcut_Map_Target=2,GCCC\STANDLINES
-Shortcut_Map_Target=3,GCCC\FAUNA
+Shortcut_Map_Target=3,GCCC\ATCSMAC
+Shortcut_Map_Target=4,GCCC\FAUNA
 
 RDF_Mode=-1
 
