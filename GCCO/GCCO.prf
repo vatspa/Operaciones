@@ -57,12 +57,12 @@ Sounds	Sound16	\LEXX\Sounds\handoff_refused.wav
 Sounds	Sound17	\LEXX\Sounds\pointout.wav
 Sounds	Sound18	\LEXX\Sounds\startup.wav
 LastSession	server	SweatBox
-Settings	sector	\GCCO-GCCO-AIRAC_20231006114816-231001-0001.sct
-LastSession	realname	¡Ålvaro Ruiz
-LastSession	certificate	1495376
-LastSession	password	dxgy2Sgq2N2m
+Settings	sector	
+LastSession	realname	
+LastSession	certificate	
+LastSession	password	
 LastSession	server	AUTOMATIC
-TeamSpeakVccs	Ts3NickName	1495376
+TeamSpeakVccs	Ts3NickName	
 LastSession	atis_freq4	118000
 TeamSpeakVccs	TsVccsMiniControlX	1609
 TeamSpeakVccs	TsVccsMiniControlY	981
@@ -99,7 +99,3 @@ Plugins	Plugin1Display0	Standard ES radar screen
 Plugins	Plugin5	\LEXX\Plugins\VCH\VCH.dll
 Plugins	Plugin6	\LEXX\Plugins\vSMR\vSMR.dll
 Plugins	Plugin2Display0	SMR radar display
-RecentFiles	Recent2	\GCCO\ASR\GCCO.asr
-RecentFiles	Recent3	\GCCO\ASR\GCCO.asr
-RecentFiles	Recent4	\GCCO\ASR\GCCO.asr
-LastSession	scenario	C:\Users\aruiz\Downloads\TST_ATC_POS.txt

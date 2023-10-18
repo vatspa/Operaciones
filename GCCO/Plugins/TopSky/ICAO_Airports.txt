@@ -1,1 +1,1 @@
-..\..\..\LEXX\ICAO\ICAO_Airports.txt
+..\..\..\GCCO\ICAO\ICAO_Airports.txt
