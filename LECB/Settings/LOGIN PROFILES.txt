@@ -211,6 +211,10 @@ PROFILE:LEMH_MXX_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEMH]
 ATIS3:SFC/FL245 - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEMI_TWR:50:4
+ATIS2:$radioname
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEPA_DEL:20:2
 ATIS2:$radioname - PDC/DCL Datalink [LEPA]
 ATIS3:vats.im/lexx
