@@ -355,12 +355,6 @@
             },
             {
             "direction": "ODD",
-            "min_fl": 100,
-            "max_fl": 145,
-            "airways": ["COSTI UQ279"]
-            },
-            {
-            "direction": "ODD",
             "min_fl": 145,
             "max_fl": 660,
             "airways": ["COSTI UQ279"]
@@ -782,20 +776,6 @@
                "max_fl": 145,
                "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
                "airways": ["REMGI G851"]
-            },
-            {
-               "direction": "ODD",
-               "min_fl": 145,
-               "max_fl": 660,
-               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
-               "airways": ["REMGI UN729 DEREV UN857"]
-            },
-            {
-               "direction": "ODD",
-               "min_fl": 145,
-               "max_fl": 660,
-               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
-               "airways": ["REMGI UN729"]
             },
             {
                "direction": "ODD",
