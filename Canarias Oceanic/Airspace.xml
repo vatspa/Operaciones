@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Airspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Airways>
+    <Airway Name="UN741">
+NELSO/
+ROSTA/
+NORED/
+EDUMO/
+GAMBA/
+KENOX
+</Airway>
+    <Airway Name="UN866">
+AMDOL/
+IREDO/
+TENPA/
+USOTI/
+APASO/
+ORVEK/
+GOMER/
+BRICK/
+GURKA/
+KONBA
+</Airway>
+    <Airway Name="UN873">
+POMAT/
+CVS VOR/
+IPERA/
+ISOKA/
+LIMAL/
+UDATI/
+ODEGI/
+LOMAS/
+GDV VOR/
+SAMAR
+</Airway>
+    <Airway Name="UN857">
+TERTO/
+LZR VOR/
+DEREV/
+BIPET/
+ETIBA/
+GUNET/
+ORABI/
+BOTNO
+</Airway>
+  </Airways>
+  <Intersections>
+    <Point Name="APASO" Type="Fix">+25.000000-019.504445</Point>
+    <Point Name="URQUI" Type="Fix">+26.894445-017.039722</Point>
+    <Point Name="LIMAL" Type="Fix">+25.000000-017.625556</Point>
+    <Point Name="UDATI" Type="Fix">+26.197778-016.786389</Point>
+    <Point Name="CABOJ" Type="Fix">+26.138889-014.643889</Point>
+    <Point Name="PUCLO" Type="Fix">+25.710556-018.596111</Point>
+    <Point Name="AD" Type="Navaid" NavaidType="VOR" Frequency="116.400">-345649.100+1383128.300</Point>
+    <Point Name="ABA" Type="Navaid" NavaidType="NDB" Frequency="240.000">-345707.800+1174837.900</Point>
+  </Intersections>
+</Airspace>

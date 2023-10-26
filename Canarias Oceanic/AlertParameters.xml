@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AlertParameters>
+  <ConflictAlerts>
+    <STCA Name="TMA" LateralNM="2.1" SecondsLookahead="60" AlertPriority="1">
+      <Vertical LowerLevel="0" UpperLevel="28000" Height="600" HeightWithRVSM="600"/>
+      <Vertical LowerLevel="28001" UpperLevel="41000" Height="1600" HeightWithRVSM="600"/>
+      <Vertical LowerLevel="41001" UpperLevel="99999" Height="1600" HeightWithRVSM="1600"/>
+      <Volumes>NTAA_CTZ,NTAA_TMA,NTTB_CTZ,NTTR_CTZ,NTTH_CTZ,NTTG_CTZ,NTTO_CTZ,NTTM_CTZ,NCRG_CTLZ,NFTF_CTZ,NSFA_CTZ,NSTU_CTZ</Volumes>
+    </STCA>
+    <STCA Name="D30/30" LateralNM="30.0" SecondsLookahead="7200" AlertPriority="3">
+      <Vertical LowerLevel="055" UpperLevel="99999" Height="1900" HeightWithRVSM="900"/>
+     <Volumes>OC1,OC1a,OC2,OC3,OC3a,OC4,OC4a,OC4b,OC5,OC6,OC7,OC9</Volumes>
+    </STCA>
+    <MTCA Name="D30/30" LateralNM="30.0" SecondsLookahead="7200" AlertPriority="3">
+      <Vertical LowerLevel="055" UpperLevel="99999" Height="1900" HeightWithRVSM="900"/>
+     <Volumes>OC1,OC1a,OC2,OC3,OC3a,OC4,OC4a,OC4b,OC5,OC6,OC7,OC9</Volumes>
+    </MTCA>
+  </ConflictAlerts>
+  <EMG SSRCode="7700" AlertPriority="2"/>
+  <RCF SSRCode="7600" AlertPriority="2"/>
+  <NAV WaypointNodeRadius="14" CorridorWidth="14" AirportRadius="20" AlertPriority="3"/>
+  <POS SecondsAfterETO="180" AlertPriority="4"/>
+  <ETO SecondsDifferentFromSystem="180" AlertPriority="4"/>
+  <RA SecondsLookahead="60" AlertPriority="1"/>
+  <CLAM AltitudeDeviation="200" MinutesMaintaining="15" AlertPriority="3"/>
+  <LA Height="600" SecondsLookahead="60" AlertPriority="1"/>
+</AlertParameters>
