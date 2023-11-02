@@ -431,8 +431,12 @@ PROFILE:LEMG_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEMG]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEMG_DEP:150:5
-ATIS2:$radioname - PDC/DCL Datalink [LEMG]
+PROFILE:LEMG_W_APP:150:5
+ATIS2:$radioname 
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEMG_F_APP:150:5
+ATIS2:$radioname 
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEBZ_APP:150:5

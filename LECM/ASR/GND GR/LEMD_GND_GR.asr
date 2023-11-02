@@ -3,9 +3,9 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Regions:LEMD SMR CONTORNO:polygon
-Regions:LEMD SMR ISLETAS:polygon
-Regions:LEMD SMR PARCHE:polygon
+Regions:LEMD CONTORNO:polygon
+Regions:LEMD ISLETAS:polygon
+Regions:LEMD PARCHE:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0

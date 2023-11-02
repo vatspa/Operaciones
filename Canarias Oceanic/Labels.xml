@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Labels>
+  <Label Type="Limited" MaximumWidth="10" LabelRectangle="Default">
+    <DataLine>
+      <Item Type="LABEL_ITEM_CPROMPT" Colour="CFLHighlight" LeftClick="" MiddleClick="Label_CPrompt" RightClick=""/>
+      <Item Type="LABEL_ITEM_EMERG" Colour="Emergency" BackgroundColour="Warning" LeftClick="" MiddleClick="Label_Emerg" RightClick="" LeftPadding="2"/>
+      <Item Type="LABEL_ITEM_WARNING" Colour="Warning" P1_BackgroundColour="Emergency" LeftClick="" MiddleClick="Label_Warning" RightClick=""/>
+    </DataLine>
+    <DataLine>
+      <Item Type="LABEL_ITEM_ACID" Colour="" P1_Colour="Warning" P1_BackgroundColour="Emergency" LeftClick="Label_Move" MiddleClick="" RightClick="Label_ACID_Menu"/>
+    </DataLine>
+    <DataLine>
+      <Item Type="LABEL_ITEM_CFL" Colour="" LeftClick="" MiddleClick="" RightClick=""/>
+      <Item Type="LABEL_ITEM_OPDATA" Colour="" LeftClick="" MiddleClick="" RightClick="" LeftPadding="1"/>
+    </DataLine>
+  </Label>
+  <Label Type="Quicktag" MaximumWidth="10" LabelRectangle="Default">
+    <DataLine>
+      <Item Type="LABEL_ITEM_CPROMPT" Colour="CFLHighlight" LeftClick="" MiddleClick="Label_CPrompt" RightClick=""/>
+      <Item Type="LABEL_ITEM_EMERG" Colour="Emergency" BackgroundColour="Warning" LeftClick="" MiddleClick="Label_Emerg" RightClick="" LeftPadding="2"/>
+      <Item Type="LABEL_ITEM_WARNING" Colour="Warning" P1_BackgroundColour="Emergency" LeftClick="" MiddleClick="Label_Warning" RightClick=""/>
+    </DataLine>
+    <DataLine>
+      <Item Type="LABEL_ITEM_ACID" Colour="" P1_Colour="Warning" P1_BackgroundColour="Emergency" LeftClick="Label_Move" MiddleClick="" RightClick="Label_ACID_Menu"/>
+    </DataLine>
+    <DataLine>
+      <Item Type="LABEL_ITEM_CFL" Colour="" LeftClick="" MiddleClick="" RightClick=""/>
+      <Item Type="LABEL_ITEM_OPDATA" Colour="" LeftClick="" MiddleClick="" RightClick="" LeftPadding="1"/>
+    </DataLine>
+  </Label>
+  <Label Type="Normal" MaximumWidth="10" LabelRectangle="Default">
+    <DataLine>
+      <Item Type="LABEL_ITEM_CPROMPT" Colour="CFLHighlight" LeftClick="" MiddleClick="Label_CPrompt" RightClick=""/>
+      <Item Type="LABEL_ITEM_EMERG" Colour="Emergency" BackgroundColour="Warning" LeftClick="" MiddleClick="Label_Emerg" RightClick="" LeftPadding="2"/>
+      <Item Type="LABEL_ITEM_WARNING" Colour="Warning" P1_BackgroundColour="Emergency" LeftClick="" MiddleClick="Label_Warning" RightClick=""/>
+    </DataLine>
+    <DataLine>
+      <Item Type="LABEL_ITEM_ACID" Colour="" P1_Colour="Warning" P1_BackgroundColour="Emergency" LeftClick="Label_Move" MiddleClick="" RightClick="Label_ACID_Menu"/>
+    </DataLine>
+    <DataLine>
+      <Item Type="LABEL_ITEM_CFL" Colour="" LeftClick="" MiddleClick="" RightClick=""/>
+      <Item Type="LABEL_ITEM_OPDATA" Colour="" LeftClick="" MiddleClick="" RightClick="" LeftPadding="1"/>
+    </DataLine>
+  </Label>
+  <Label Type="Extended" MaximumWidth="10" LabelRectangle="Default">
+    <DataLine>
+      <Item Type="LABEL_ITEM_CPROMPT" Colour="CFLHighlight" LeftClick="" MiddleClick="Label_CPrompt" RightClick=""/>
+      <Item Type="LABEL_ITEM_EMERG" Colour="Emergency" BackgroundColour="Warning" LeftClick="" MiddleClick="Label_Emerg" RightClick="" LeftPadding="2"/>
+      <Item Type="LABEL_ITEM_WARNING" Colour="Warning" P1_BackgroundColour="Emergency" LeftClick="" MiddleClick="Label_Warning" RightClick=""/>
+    </DataLine>
+    <DataLine>
+      <Item Type="LABEL_ITEM_ACID" Colour="" P1_Colour="Warning" P1_BackgroundColour="Emergency" LeftClick="Label_Move" MiddleClick="" RightClick="Label_ACID_Menu"/>
+    </DataLine>
+    <DataLine>
+      <Item Type="LABEL_ITEM_CFL" Colour="" LeftClick="" MiddleClick="" RightClick=""/>
+      <Item Type="LABEL_ITEM_OPDATA" Colour="" LeftClick="" MiddleClick="" RightClick="" LeftPadding="1"/>
+    </DataLine>
+  </Label>
+</Labels>
