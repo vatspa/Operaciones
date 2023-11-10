@@ -30,31 +30,31 @@
 	</Colour>
   <Colour id="StripBackground">
 		<Use>Strip Backgrounds</Use>
-		<Name>LightGrey</Name>
-		<R>160</R>
-		<G>160</G>
-		<B>160</B>
+		<Name>White</Name>
+		<R>255</R>
+		<G>255</G>
+		<B>255</B>
 	</Colour>
   <Colour id="WindowBackgound">
 		<Use>Window Backgrounds</Use>
 		<Name>Grey</Name>
-		<R>80</R>
-		<G>80</G>
-		<B>80</B>
+		<R>90</R>
+		<G>90</G>
+		<B>90</B>
 	</Colour>
   <Colour id="Preactive">
 		<Use>Preactive Tracks and Strips</Use>
-		<Name>Red</Name>
-		<R>128</R>
+		<Name>Black</Name>
+		<R>0</R>
 		<G>0</G>
 		<B>0</B>
 	</Colour>
   <Colour id="HighlightedText">
 		<Use>LastReport</Use>
-		<Name>LightBlue</Name>
-		<R>71</R>
-		<G>131</G>
-		<B>183</B>
+    <Name>White</Name>
+    <R>255</R>
+    <G>255</G>
+    <B>255</B>
 	</Colour>
   <Colour id="CPDLCMessageBackground">
 		<Use>CPDLC Background</Use>
@@ -198,10 +198,10 @@
   </Colour>
 	<Colour id="Jurisdiction">
 		<Use>PreviousEst</Use>
-		<Name>Grey</Name>
-    <R>151</R>
-    <G>151</G>
-    <B>151</B>
+		<Name>OrangeSACTA</Name>
+    <R>162</R>
+    <G>83</G>
+    <B>38</B>
 	</Colour>
   <Colour id="GhostJurisdiction">
 		<Use>EstBackground</Use>
@@ -219,10 +219,10 @@
 	</Colour>
   <Colour id="JurisdictionIQL">
 		<Use>Flags</Use>
-		<Name>Cyan</Name>
-		<R>0</R>
-		<G>196</G>
-		<B>253</B>
+    <Name>white</Name>
+    <R>255</R>
+    <G>255</G>
+    <B>255</B>
 	</Colour>
   <Colour id="Handover">
 		<Use>HandOver</Use>
@@ -247,10 +247,10 @@
 	</Colour>
   <Colour id="NonJurisdiction">
 		<Use>Non Jurisdiction Tracks and Strips</Use>
-		<Name>Grey</Name>
-    <R>160</R>
-    <G>160</G>
-    <B>160</B>
+		<Name>OrangeSACTA</Name>
+    <R>162</R>
+    <G>83</G>
+    <B>38</B>
 	</Colour>
   <Colour id="NonJurisdictionLabel">
 		<Use>Non Jurisdiction Labels</Use>
@@ -328,69 +328,34 @@
 		<R>115</R>
 		<G>0</G>
 		<B>0</B>
-	</Colour>
-  <Colour id="UserMap">
-    <Use>Custom Maps and Text</Use>
-    <Name>Orange</Name>
-		<R>139</R>
-		<G>101</G>
-		<B>8</B>
   </Colour>
   <Colour id="Custom">
-  <Use>Special colour for my very special map</Use>
-  <Name>Coast</Name>
+    <Use>Coastiline</Use>
+    <Name>Coast</Name>
     <R>30</R>
     <G>30</G>
     <B>30</B>
   </Colour>
   <Colour id="Custom">
-  <Use>Special colour for my very special map</Use>
-  <Name>FIRBorder</Name>
+    <Use>Special colour for my very special map</Use>
+    <Name>FIRBorder</Name>
     <R>80</R>
     <G>80</G>
     <B>80</B>
   </Colour>  
   <Colour id="Custom">
-  <Use>Special colour for my very special map</Use>
-  <Name>Airways</Name>
+    <Use>Special colour for my very special map</Use>
+    <Name>Airways</Name>
     <R>50</R>
     <G>50</G>
     <B>50</B>
   </Colour>
   <Colour id="Custom">
-  <Use>Special colour for my very special map</Use>
-  <Name>FIX</Name>
+    <Use>Special colour for my very special map</Use>
+    <Name>FIX</Name>
     <R>90</R>
     <G>90</G>
     <B>90</B>
-  </Colour>
-  <Colour id="Custom">
-		<Use>Special colour for my very special map</Use>
-		<Name>SpringGreen</Name>
-		<R>0</R>
-		<G>255</G>
-		<B>127</B>
-  </Colour>  
-  <Colour id="Custom">
-		<Use>Special colour for my very special map</Use>
-		<Name>Green</Name>
-		<R>59</R>
-		<G>250</G>
-		<B>52</B>
-  </Colour>  
-  <Colour id="Custom">
-		<Use>Special colour for my very special map</Use>
-		<Name>Indigo</Name>
-		<R>83</R>
-		<G>84</G>
-		<B>228</B>
-  </Colour> 
-  <Colour id="Custom">
-		<Use>Special colour for my very special map</Use>
-		<Name>TealGreen</Name>
-		<R>0</R>
-		<G>255</G>
-		<B>102</B>
   </Colour>
   <Colour id="Custom">
     <Use>Special colour for my very special map</Use>
@@ -497,19 +462,19 @@
     <G>235</G>
     <B>0</B>
   </Colour>
-<Colour id="ListSeparator">
-        <Use>List Separator Bar</Use>
-        <Name>GreenGrey</Name>
-        <R>0</R>
-        <G>0</G>
-        <B>96</B>
-    </Colour>
-    <Colour id="ListSeparatorSelected">
-        <Use>List Separator Bar Selected</Use>
-        <Name>GreenGrey</Name>
-        <R>130</R>
-        <G>146</G>
-        <B>146</B>
+  <Colour id="ListSeparator">
+    <Use>List Separator Bar</Use>
+    <Name>Black</Name>
+    <R>0</R>
+    <G>0</G>
+    <B>0</B>
+  </Colour>
+  <Colour id="ListSeparatorSelected">
+    <Use>List Separator Bar Selected</Use>
+    <Name>Black</Name>
+    <R>0</R>
+    <G>0</G>
+    <B>0</B>
     </Colour>
   <Colour id="WindowButtonDepressed">
     <Use>Depressed Window Button Background</Use>
@@ -541,9 +506,9 @@
   </Colour> 
    <Colour id="WindowBorder">
         <Use>Window Border</Use>
-		<Name>BlueGreen</Name>
-		<R>94</R>
-		<G>158</G>
-		<B>160</B>
+		<Name>Grey</Name>
+		<R>90</R>
+		<G>90</G>
+		<B>90</B>
 	</Colour>
 </Colours>

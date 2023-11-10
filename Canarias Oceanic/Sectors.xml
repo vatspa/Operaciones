@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Sectors xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Sector FullName="Canarias Radio" Frequency="133.000" Callsign="GCCO_CTR" Name="GCCO">
+  <Sector FullName="Canarias Radio" Frequency="133.950" Callsign="GCCO_CTR" Name="CCO">
     <Volumes>GCCO_LOW_W,GCCO_LOW_E,GCCO_LOW_N,GCCO_GMMH,GCCO_GMML,GCCO_H</Volumes> 
+  </Sector>
+  <Sector FullName="Dakhla Approach" Frequency="119.500" Callsign="GMMH_APP" Name="DAA1">
+    <Volumes>DAA1</Volumes> 
+  </Sector>
+  <Sector FullName="Hassan I Approach" Frequency="127.500" Callsign="GMML_APP" Name="MMLA">
+    <Volumes>MMLA</Volumes> 
   </Sector>
 </Sectors>
