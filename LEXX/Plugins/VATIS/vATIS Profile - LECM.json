@@ -4269,7 +4269,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 120825000,
+      "frequency": 120830000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
