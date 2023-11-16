@@ -4596,7 +4596,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 119350000,
+      "frequency": 119355000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
