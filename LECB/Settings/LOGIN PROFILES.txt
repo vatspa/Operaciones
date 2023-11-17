@@ -231,7 +231,7 @@ PROFILE:LEPA_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LEPA]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEPA_N_TWR:50:4
+PROFILE:LEPA_D_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LEPA]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
