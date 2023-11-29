@@ -4282,7 +4282,7 @@
         {
           "id": "7f0e0b14-9223-4708-8af1-a73adc7494ef",
           "name": "NORTH",
-          "airportConditions": "DEPARTURE RWY 01. ARRIVAL RWY 01. EXPECT RNP Z APPROACH RWY 01.",
+          "airportConditions": "DEPARTURE RWY 01. ARRIVAL RWY 01. EXPECT RNP X APPROACH RWY 01.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
