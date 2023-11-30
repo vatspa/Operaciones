@@ -4,7 +4,7 @@
   <ProductTypes>
     <METAR url="http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=metars&amp;requestType=retrieve&amp;format=xml&amp;stationString=%ICAO&amp;hoursBeforeNow=2" xmlDataTag="raw_text" mostRecent="true" />
 	<TAF url="https://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=tafs&amp;requestType=retrieve&amp;format=xml&amp;stationString=%ICAO&amp;hoursBeforeNow=0&amp;timeType=valid&amp;mostRecent=true" xmlDataTag="raw_text" mostRecent="true"/>
-    <NOTAM url="https://dashboard.vatsimspain.es/api/notams/" xmlDataTag="raw" />
+    <NOTAM url="http://api.vateud.net/notams/%ICAO.xml" xmlDataTag="raw" />
   </ProductTypes>
   <Browsers><!--bomw0007-->
     <AIP url="https://aip.enaire.es/AIP/" />

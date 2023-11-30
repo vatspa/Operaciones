@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" CustomColourName="Airways" Name="Airways" Priority="2">
+		<Line Name="">PUCLO/APASO</Line>
+		<Line Name="">ROTUM/DKH</Line>
+		<Line Name="">DKH/LOLOS</Line>
+		<Line Name="">LOLOS/MAURI</Line>
+		<Line Name="">CABOJ/ARENA</Line>
+		<Line Name="">ARENA/KEMUL</Line>
+		<Line Name="">KEMUL/MIYEC</Line>
+		<Line Name="">MIYEC/ZRT</Line>
+		<Line Name="">LAY/COSTI</Line>
+		<Line Name="">LAY/KEMUL</Line>
+		<Line Name="">KEMUL/GUPEL</Line>
+		<Line Name="">SOLNA/LAY</Line>
+		<Line Name="">LAY/ARENA</Line>
+		<Line Name="">ARENA/CABEL</Line>
+		<Line Name="">CABEL/DKH</Line>
+		<Line Name="">ECHED/CARIM</Line>
+		<Line Name="">ORTIS/PITAB</Line>
+		<Line Name="">BIMBO/PITAB</Line>
+		<Line Name="">BIMBO/GURKA</Line>
+		<Line Name="">KONBA/KASAS</Line>
+		<Line Name="">VASTO/GDV</Line>
+		<Line Name="">KORAL/LZR</Line>
+		<Line Name="">PITAB/GOMER</Line>
+		<Line Name="">PITAB/BRICK</Line>
+		<Line Name="">GURKA/KASAS</Line>
+		<Line Name="">BRICK/TFN</Line>
+		<Line Name="">KASAS/TFN</Line>
+		<Line Name="">KASAS/GDV</Line>
+		<Line Name="">LZR/GDV</Line>
+		<Line Name="">TFN/GDV</Line>
+		<Line Name="">TFN/LOMAS</Line>
+		<Line Name="">GDV/MERAN</Line>
+		<Line Name="">GDV/URQUI</Line>
+		<Line Name="">GDV/ROTUM</Line>
+		<Line Name="">GDV/REMGI</Line>
+		<Line Name="">GDV/COSTI</Line>
+		<Line Name="">GOMER/URQUI</Line>
+		<Line Name="">TFS/URQUI</Line>
+		<Line Name="">MERAN/HIE</Line>
+		<Line Name="">HIE/URQUI</Line>
+		<Line Name="">HIE/ROSTA</Line>
+		<Line Name="">LOMAS/MERAN</Line>
+		<Line Name="">LOMAS/REMGI</Line>
+		<Line Name="">URQUI/PUCLO</Line>
+		<Line Name="">URQUI/LIMAL</Line>
+		<Line Name="">URQUI/UDATI</Line>
+		<Line Name="">URQUI/CABOJ</Line>
+		<Line Name="">ODEGI/BIPET</Line>
+		<Line Name="">ODEGI/ROTUM</Line>
+		<Line Name="">REMGI/DEREV</Line>
+		<Line Name="">REMGI/CABOJ</Line>
+		<Line Name="">UDATI/BIPET</Line>
+		<Line Name="">LAY/SOLNA</Line>
+		<Line Name="UN741">NELSO.UN741.KENOX</Line>
+		<Line Name="UN866">AMDOL.UN866.KONBA</Line>
+		<Line Name="UN873">POMAT.UN873.SAMAR</Line>
+		<Line Name="UN857">TERTO.UN857.BOTNO</Line>
+  </Map>
+  <Map Type="System" CustomColourName="FIX" Name="Fixes" Priority="1">  
+<Label HasLeader="false">
+	    <Point Name=""></Point>
+</Label> 	
+  <Symbol Type="SolidTriangle">  
+		 <Point>ORVEK</Point>
+		 <Point>PUCLO</Point>
+		 <Point>LIMAL</Point>
+		 <Point>BIPET</Point>
+		 <Point>ROTUM</Point>
+		 <Point>CABOJ</Point>
+		 <Point>COSTI</Point>
+		 <Point>ROSTA</Point>
+		 <Point>SOLNA</Point>
+		 <Point>NEXUX</Point>
+		 <Point>OSLEV</Point>
+		 <Point>PIBIL</Point>
+		 <Point>RIPOD</Point>
+		 <Point>SORAD</Point>
+		 <Point>GOBEG</Point>
+		 <Point>INSAD</Point>
+		 <Point>IXIKU</Point>
+		 <Point>KUXOV</Point>
+		 <Point>LAPTU</Point>
+		 <Point>PIXED</Point>
+		 <Point>XIGLU</Point>
+		 <Point>EDUMO</Point>
+		 <Point>TENPA</Point>
+		 <Point>IPERA</Point>
+		 <Point>GUNET</Point>
+		 <Point>NOCUT</Point>
+		 <Point>MAURI</Point>
+		 <Point>GUPEL</Point>
+		 <Point>CARIM</Point>
+		 <Point>ECHED</Point>
+		 <Point>NORED</Point>
+		 <Point>APASO</Point>
+		 <Point>USOTI</Point>
+		 <Point>ISOKA</Point>
+		 <Point>ETIBA</Point>
+		 <Point>LOLOS</Point>
+		 <Point>CABEL</Point>
+		 <Point>ARENA</Point>
+		 <Point>KEMUL</Point>
+		 <Point>MIYEC</Point>
+		 <Point>GURKA</Point>
+		 <Point>PITAB</Point>
+		 <Point>KASAS</Point>
+		 <Point>BRICK</Point>
+		 <Point>GOMER</Point>
+		 <Point>MERAN</Point>
+		 <Point>LOMAS</Point>
+		 <Point>REMGI</Point>
+		 <Point>ODEGI</Point>
+		 <Point>URQUI</Point>
+		 <Point>DEREV</Point>
+		 <Point>UDATI</Point>
+		 <Point>NELSO</Point>
+		 <Point>ORTIS</Point>
+		 <Point>BIMBO</Point>
+		 <Point>KONBA</Point>
+		 <Point>SAMAR</Point>
+		 <Point>VASTO</Point>
+		 <Point>TERTO</Point>
+		 <Point>KORAL</Point>
+	</Symbol>
+	<Symbol Type="HollowSquare">	
+		<Point Name="">LZR</Point>
+		<Point Name="">TFN</Point>
+		<Point Name="">GDV</Point>
+		<Point Name="">TFS</Point>
+		<Point Name="">DKH</Point>
+		<Point Name="">LAY</Point>
+		<Point Name="">ZRT</Point>
+		<Point Name="">PE</Point>
+	</Symbol>
+  <Symbol Type="DotFillCircle">
+		<Point>HIE</Point>	
+	</Symbol>
+  </Map>
+</Maps>	

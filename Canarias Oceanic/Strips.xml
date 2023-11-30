@@ -12,13 +12,14 @@
                     <StripLayoutLines>
                       <StripLayoutLine>
                         <StripItems>
-                          <StripSeparatorItem MinLength="2" />
+                          <StripSeparatorItem MinLength="3" />
                           <StripItem Type="Callsign" LeftClick="Strip_Extend" RightClick="Label_ACID_Menu" MaxLength="8" MinLength="8" FontSize="XtraLarge" />
+                          <StripItem Type="OtherInfo" MaxLength="1" MinLength="1" FontSize="XtraLarge" />
                         </StripItems>
                       </StripLayoutLine>
                       <StripLayoutLine>
                         <StripItems>
-                          <StripItem Type="AircraftType" MaxLength="3" MinLength="3" FontSize="XtraSmall" />
+                          <StripItem Type="AircraftType" LeftClick="Strip_Extend" RightClick="Label_ACID_Menu" MaxLength="4" MinLength="4" FontSize="XtraSmall" />
                           <StripSeparatorItem MinLength="2" />
                           <StripItem Type="WakeTurbCategory" FontSize="XtraSmall" />
                           <StripSeparatorItem MinLength="1" />
@@ -57,9 +58,23 @@
                       </StripLayoutLine>
                     </StripLayoutLines>
                   </StripLayoutSection>
-                  <StripLayoutSection FlowDirection="Horizontal" Border="Vertical"> <Colours BackColour="StripBackground"/>
+                  <StripLayoutSection FlowDirection="Horizontal" Border="Vertical"> <Colours BackColour="GhostJurisdiction"/>
                     <StripLayoutSubsections>
-                      <StripLayoutSection FlowDirection="Horizontal" Border="Vertical"> <Colours BorderColour="StripText" Colour="StripText" BackColour="StripBackground"/>
+                      <StripLayoutSection FlowDirection="Horizontal">
+                        <StripLayoutLines>
+                          <StripLayoutLine LineSpan="2">
+                            <StripItems>
+                              <StripItem Type="Point" LeftClick="Strip_Point" MiddleClick="Strip_MPR_Arm" RightClick="Strip_Point_Expand" PointIndex="0" MaxLength="6" MinLength="6" > <Colours Colour="Jurisdiction"/> </StripItem>
+                            </StripItems>
+                          </StripLayoutLine>
+                          <StripLayoutLine>
+                            <StripItems>
+                              <StripItem Type="ETOP" LeftClick="Strip_ETO" PointIndex="0" MinLength="4"> <Colours Colour="Jurisdiction"/> </StripItem>
+                            </StripItems>
+                          </StripLayoutLine>
+                        </StripLayoutLines>
+                      </StripLayoutSection>
+                      <StripLayoutSection FlowDirection="Horizontal" Border="Vertical"> <Colours BorderColour="StripText" Colour="StripBackground" BackColour="HighlightedText"/>
                         <StripLayoutLines>
                           <StripLayoutLine LineSpan="2">
                             <StripItems>
