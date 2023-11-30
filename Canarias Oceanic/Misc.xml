@@ -3,8 +3,4 @@
   <RVSMBand Lower="29000" Upper="41000" />
   <Transition Altitude="6000" />
   <RVSMStatus FAAEquipment="L, W, Z" ICAOEquipment="W" />
-  <ADSBStatus FAAEquipment="I, L, G, Z" ICAOEquipment="L, E, B1, B2" Remark="ADSB" />
-  <LATCValues>6, 7, 8, 9, 10, 11, 13, 14, 15, 17, 18, 30, 50, 100</LATCValues>
-  <FilterGroundTracks></FilterGroundTracks>
-  <PDCAirports></PDCAirports>
 </Misc>

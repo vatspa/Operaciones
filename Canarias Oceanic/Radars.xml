@@ -1,51 +1,58 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Radars>
-  <Radar Name="FVAD" Type="SSR_ModeS" Elevation="39" MaxRange="150">
-    <Lat>+28.443792</Lat>
-    <Long>-013.861095</Long>
+  <Radar Name="Fuerteventura AD" Type="SSR_ModeS" Elevation="70" MaxRange="220">
+    <Lat>+28.443760</Lat>
+    <Long>-013.861080</Long>
   </Radar>
-  <Radar Name="LPAD" Type="SSR_ModeS" Elevation="164" MaxRange="200">
-    <Lat>+27.924681</Lat>
-    <Long>-015.395895</Long>
+  <Radar Name="Gran Canaria AD" Type="PRI" Elevation="170" MaxRange="60">
+    <Lat>+27.924690</Lat>
+    <Long>-015.395800</Long>
   </Radar>
-  <Radar Name="LAAD" Type="SSR_ModeS" Elevation="164" MaxRange="200">
+  <Radar Name="Gran Canaria AD" Type="SSR_ModeS" Elevation="170" MaxRange="200">
+    <Lat>+27.924690</Lat>
+    <Long>-015.395800</Long>
+  </Radar>
+  <Radar Name="Isla de la Palma" Type="SSR_ModeS" Elevation="330" MaxRange="250">
     <Lat>+28.619242</Lat>
     <Long>-017.759872</Long>
   </Radar>
-  <Radar Name="RRAD" Type="SSR_ModeS" Elevation="164" MaxRange="200">
-    <Lat>+02.002378</Lat>
-    <Long>+025.960000</Long>
+  <Radar Name="Lanzarote" Type="SSR_ModeS" Elevation="2220" MaxRange="250">
+    <Lat>+29.120380</Lat>
+    <Long>-013.520370</Long>
   </Radar>
-  <Radar Name="PDC" Type="SSR_ModeS" Elevation="164" MaxRange="200">
-    <Lat>+29.120003</Lat>
-    <Long>-013.520833</Long>
+  <Radar Name="Peñas del Cache" Type="SSR_ModeC" Elevation="2220" MaxRange="195">
+    <Lat>+29.120380</Lat>
+    <Long>-013.520370</Long>
   </Radar>
-  <Radar Name="PS" Type="SSR_ModeS" Elevation="164" MaxRange="200">
-    <Lat>+33.084322</Lat>
-    <Long>-016.322525</Long>
+  <Radar Name="Pozo de las Nieves" Type="SSR_ModeC" Elevation="6450" MaxRange="195">
+    <Lat>+27.963158</Lat>
+    <Long>-015.571528</Long>
   </Radar>
-  <Radar Name="PDLN" Type="SSR_ModeS" Elevation="164" MaxRange="200">
-    <Lat>+27.963075</Lat>
-    <Long>-015.571592</Long>
+  <Radar Name="Tenerife Sur AD" Type="PRI" Elevation="320" MaxRange="60">
+    <Lat>+28.046556</Lat>
+    <Long>-016.586236</Long>
   </Radar>
   <Radar Name="TABORNO" Type="SSR_ModeS" Elevation="164" MaxRange="200">
     <Lat>+28.536264</Lat>
     <Long>-016.269461</Long>
   </Radar>
-  <Radar Name="TSAD" Type="SSR_ModeS" Elevation="164" MaxRange="200">
+  <Radar Name="Tenerife Sur AD" Type="SSR_ModeS" Elevation="320" MaxRange="200">
     <Lat>+28.046556</Lat>
     <Long>-016.586236</Long>
   </Radar>
-  <Radar Name="ADSC1" Type="ADSB" Elevation="1000" MaxRange="500">
-    <Lat>+23.759167</Lat>
-    <Long>-019.601945</Long>
-  </Radar>	
-  <Radar Name="ADSC2" Type="ADSB" Elevation="1000" MaxRange="500">
-    <Lat>+28.402222</Lat>
-    <Long>-023.106389</Long>
-  </Radar> 
-  <Radar Name="ADSC3" Type="ADSB" Elevation="1000" MaxRange="500">
-    <Lat>+24.054445</Lat>
-    <Long>-012.764722</Long>
+  <Radar Name="Tenerife Sur AD" Type="SSR_ModeS" Elevation="320" MaxRange="200">
+    <Lat>+28.046556</Lat>
+    <Long>-016.586236</Long>
   </Radar>
-</Radars>
+  <Radar Name="Porto Santo" Type="SSR_ModeS" Elevation="1600" MaxRange="200">
+    <Lat>+33.084322</Lat>
+    <Long>-016.322525</Long>
+  </Radar>
+  <Radar Name="Espargos (fictional)" Type="ADSB" Elevation="60" MaxRange="200">
+    <Lat>+16.799680</Lat>
+    <Long>-016.322525</Long>
+  </Radar>
+  <Radar Name="Ribeira Grande (fictional)" Type="ADSB" Elevation="60" MaxRange="200">
+    <Lat>+17.202690</Lat>
+    <Long>-022.900370</Long>
+  </Radar>

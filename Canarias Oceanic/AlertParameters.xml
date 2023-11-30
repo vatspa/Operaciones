@@ -2,18 +2,18 @@
 <AlertParameters>
   <ConflictAlerts>
     <STCA Name="TMA" LateralNM="2.1" SecondsLookahead="60" AlertPriority="1">
-      <Vertical LowerLevel="0" UpperLevel="28000" Height="600" HeightWithRVSM="600"/>
-      <Vertical LowerLevel="28001" UpperLevel="41000" Height="1600" HeightWithRVSM="600"/>
-      <Vertical LowerLevel="41001" UpperLevel="99999" Height="1600" HeightWithRVSM="1600"/>
-      <Volumes>NTAA_CTZ,NTAA_TMA,NTTB_CTZ,NTTR_CTZ,NTTH_CTZ,NTTG_CTZ,NTTO_CTZ,NTTM_CTZ,NCRG_CTLZ,NFTF_CTZ,NSFA_CTZ,NSTU_CTZ</Volumes>
+      <Vertical LowerLevel="0" UpperLevel="28999" Height="600" HeightWithRVSM="600"/>
+      <Vertical LowerLevel="29000" UpperLevel="41000" Height="1600" HeightWithRVSM="600"/>
+      <Vertical LowerLevel="41001" UpperLevel="66000" Height="1600" HeightWithRVSM="1600"/>
+      <Volumes>GCCO_LOW_W,GCCO_LOW_E,GCCO_LOW_N,GCCO_GMMH,GCCO_GMML,GCCO_H</Volumes>
     </STCA>
     <STCA Name="D30/30" LateralNM="30.0" SecondsLookahead="7200" AlertPriority="3">
-      <Vertical LowerLevel="055" UpperLevel="99999" Height="1900" HeightWithRVSM="900"/>
+      <Vertical LowerLevel="055" UpperLevel="66000" Height="1900" HeightWithRVSM="900"/>
      <Volumes>OC1,OC1a,OC2,OC3,OC3a,OC4,OC4a,OC4b,OC5,OC6,OC7,OC9</Volumes>
     </STCA>
     <MTCA Name="D30/30" LateralNM="30.0" SecondsLookahead="7200" AlertPriority="3">
-      <Vertical LowerLevel="055" UpperLevel="99999" Height="1900" HeightWithRVSM="900"/>
-     <Volumes>OC1,OC1a,OC2,OC3,OC3a,OC4,OC4a,OC4b,OC5,OC6,OC7,OC9</Volumes>
+      <Vertical LowerLevel="055" UpperLevel="66000" Height="1900" HeightWithRVSM="900"/>
+     <Volumes>GCCO_LOW_W,GCCO_LOW_E,GCCO_LOW_N,GCCO_GMMH,GCCO_GMML,GCCO_H</Volumes>
     </MTCA>
   </ConflictAlerts>
   <EMG SSRCode="7700" AlertPriority="2"/>

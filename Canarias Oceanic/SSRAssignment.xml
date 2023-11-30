@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <SSRAssignment>
-<!-- Code "Bins" define available codes and their assigned Regex rules. 
-		Priority is applied by the order they appear in this file. -->
-		
-  <!-- Excluded Codes are never assigned -->
   <Bin>
 	<Codes Start="1400" End="1417"/>	
   </Bin>
