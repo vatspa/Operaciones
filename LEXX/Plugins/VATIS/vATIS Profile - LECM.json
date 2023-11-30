@@ -10,7 +10,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 129000000,
+      "frequency": 129005000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
@@ -992,7 +992,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 118825000,
+      "frequency": 118830000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
@@ -1306,7 +1306,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 118225000,
+      "frequency": 118230000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
@@ -1962,7 +1962,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 118250000,
+      "frequency": 118255000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
@@ -2312,7 +2312,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 130850000,
+      "frequency": 130855000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
@@ -2662,7 +2662,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 120375000,
+      "frequency": 120380000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
@@ -2971,7 +2971,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 124475000,
+      "frequency": 124480000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
@@ -3611,7 +3611,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 127750000,
+      "frequency": 127755000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
@@ -4269,7 +4269,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 120825000,
+      "frequency": 120830000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"
@@ -4282,7 +4282,7 @@
         {
           "id": "7f0e0b14-9223-4708-8af1-a73adc7494ef",
           "name": "NORTH",
-          "airportConditions": "DEPARTURE RWY 01. ARRIVAL RWY 01. EXPECT RNP Z APPROACH RWY 01.",
+          "airportConditions": "DEPARTURE RWY 01. ARRIVAL RWY 01. EXPECT RNP X APPROACH RWY 01.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -4596,7 +4596,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 119350000,
+      "frequency": 119355000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "Default"

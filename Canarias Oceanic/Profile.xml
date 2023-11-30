@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Profile Name="Canarias Oceanic" FullName="Canarias Oceanic (GCCO)">
-	<Version AIRAC="2311" Revision="1" PublishDate="20231102" UpdateURL="" />
+	<Version AIRAC="2312" Revision="1" PublishDate="20231125" UpdateURL="" />
 	<Servers>
 		<VATSIMStatus url="https://status.vatsim.net/" />
 		<GRIB url="" />

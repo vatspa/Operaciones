@@ -121,7 +121,7 @@
          "LPC": [
                {
                "direction": "ODD",
-               "min_fl": 60,
+               "min_fl": 60
             }
             ],
          "TFN": [
@@ -782,6 +782,20 @@
                "min_fl": 145,
                "max_fl": 660,
                "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
+               "airways": ["REMGI UN729 DEREV UN857"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 660,
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
+               "airways": ["REMGI UN729"]
+            },
+            {
+               "direction": "ODD",
+               "min_fl": 145,
+               "max_fl": 660,
+               "destinations": ["A","B","C","D","F","G","H","I","J","K","M","N","O","P","Q","R","S","T","V","W","X","Y","Z"],
                "airways": ["REMGI UN728","REMGI UN729"]
             }
          ],
@@ -810,7 +824,7 @@
                "direction": "EVEN",
                "min_fl": 195,
                "max_fl": 460,
-               "airways": ["VASTO DCT NIDEB", "VASTO DCT BAROK"]
+               "airways": ["VASTO DCT NIDEB","VASTO DCT BAROK"]
             },
             {
                "direction": "EVEN",
@@ -841,7 +855,7 @@
                "min_fl": 145,
                "max_fl": 660,
                "airways": ["GDV UQ279"]
-            }
+            },
             {
                "direction": "ODD",
                "min_fl": 95,
@@ -875,7 +889,7 @@
                "min_fl": 70,
                "destinations": ["GCGM"]
             }
-         ],
+         ]
       }
    },
    {

@@ -7,7 +7,7 @@ System_State_Taxi_Out=TAX
 System_State_LineUp=L/U
 System_State_Depa=DEP
 System_State_Parked=******
-System_SchengenArea=BI,EB,ED,EE,EF,EH,EK,EL,EN,EP,ES,ET,EV,EY,GC,LE,LF,LG,LH,LI,LJ,LK,LM,LO,LP,LS,LZ
+System_SchengenArea=BI,EB,ED,EE,EF,EH,EK,EL,EN,EP,ES,ET,EV,EY,GC,LE,LF,LG,LH,LI,LJ,LK,LM,LO,LP,LS,LZ,LD
 
 AppPath=GCFV:01:N028.26.30.74:W013.51.50.84:006:R:37:3:0.6:0.6
 AppPath=GCFV:19:N028.27.33.73:W013.51.48.76:186:L:83:3.5:0.6:0.6
