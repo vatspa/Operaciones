@@ -1,0 +1,118 @@
+Settings	SettingsfileSYMBOLOGY	\LEXX\Settings\SIMBOLOGY.txt
+Settings	SettingsfileVOICE	\LECB\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\LECB\Settings\LOGIN PROFILES.txt
+Settings	SettingsfileTAGS	\LEXX\Settings\TAGS.txt
+Settings	SettingsfileSIL	\LEXX\Settings\LISTS.txt
+Settings	SettingsfileSEL	\LEXX\Settings\LISTS.txt
+Settings	SettingsfileDEP	\LEXX\Settings\LISTS.txt
+Settings	SettingsfileARR	\LEXX\Settings\LISTS.txt
+Settings	SettingsfileFP	\LEXX\Settings\LISTS.txt
+Settings	SettingsfileCONFLICT	\LEXX\Settings\LISTS.txt
+Settings	SettingsfilePLUGINS	\LEXX\Settings\PLUGINS.txt
+Settings	Settingsfile	\LEXX\Settings\GENERAL.txt
+Settings	SettingsfileSCREEN	\LEXX\Settings\SCREEN.txt
+Settings	SettingsfileVCCS	\LECB\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\LEXX\Settings\LISTS.txt
+Settings	SettingsfileORIGPLANE	\LEXX\Settings\GENERAL.txt
+Settings	SettingsfileSTUP	\LEXX\Settings\GENERAL.txt
+Settings	SettingsfileTAXIOUT	\LEXX\Settings\GENERAL.txt
+Settings	SettingsfileTAKEOFF	\LEXX\Settings\GENERAL.txt
+Settings	SettingsfileADCS	\LEXX\Settings\GENERAL.txt
+Settings	SettingsfileTAXIIN	\LEXX\Settings\GENERAL.txt
+Settings	alias	\LEXX\Alias\alias.txt
+Settings	airlines	\LEXX\ICAO\ICAO_Airlines.txt
+Settings	airports	\LEXX\ICAO\ICAO_Airports.txt
+Settings	aircraft	\LEXX\ICAO\ICAO_Aircraft.txt
+Settings	airways	\LEXX\NavData\airway.txt
+Settings	airportcoords	\LEXX\NavData\icao.txt
+Plugins	Plugin0	\LEXX\Plugins\RDFPlugin\RDFPlugin.dll
+Plugins	Plugin0Display0	Ground Radar display
+Plugins	Plugin0Display1	Standard ES radar screen
+Plugins	Plugin1	\LECB\Plugins\GRPlugin\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1Display2	Standard ES radar screen
+Plugins	Plugin2	\LEXX\Plugins\CCAMS\CCAMS.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	SMR radar display
+Plugins	Plugin2Display2	Standard ES radar screen
+Plugins	Plugin3	\LEXX\Plugins\vSACTA\SACTA.dll
+Plugins	Plugin3Display0	Standard ES radar screen
+Plugins	Plugin4	\LECB\Plugins\TopSky25b7\TopSky.dll
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin4Display1	Ground Radar display
+Plugins	Plugin5	\LECB\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
+Plugins	Plugin6	\LECB\Plugins\VFPC\VFPC.dll
+Plugins	Plugin7	\LEXX\Plugins\CDM\CDM.dll
+Plugins	Plugin8	\LECB\Plugins\ESCenterlines\ESCenterlines.dll
+Plugins	Plugin8Display0	ES Centerlines
+Plugins	Plugin8Display1	Standard ES radar screen
+Plugins	Plugin9	\LEXX\Plugins\VCH\VCH.dll
+Plugins	Plugin9Display0	Standard ES radar screen
+Plugins	Plugin9Display1	Ground Radar display
+Plugins	Plugin10	\LEXX\Plugins\MAESTRO\MAESTRO.dll
+Plugins	Plugin10Display0	Standard ES radar screen
+Plugins	Plugin11	\LEXX\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin11Display0	Standard ES radar screen
+RecentFiles	Recent1	\LECB\ASR\LECB.asr
+ASRFastKeys	1	\LECB\ASR\LECB.asr
+Sounds	Sound0	\LEXX\Sounds\handoff_request.wav
+Sounds	Sound1	\LEXX\Sounds\handoff_accept.wav
+Sounds	Sound2	\LEXX\Sounds\conflict_alert.wav
+Sounds	Sound3	\LEXX\Sounds\radio_message.wav
+Sounds	Sound4	\LEXX\Sounds\private_message.wav
+Sounds	Sound5	\LEXX\Sounds\atc_message.wav
+Sounds	Sound6	\LEXX\Sounds\broadcast_message.wav
+Sounds	Sound7	\LEXX\Sounds\landline_request.wav
+Sounds	Sound8	\LEXX\Sounds\supervisor_message.wav
+Sounds	Sound9	\LEXX\Sounds\connected.wav
+Sounds	Sound10	\LEXX\Sounds\disconnected.wav
+Sounds	Sound11	\LEXX\Sounds\ongoing_request.wav
+Sounds	Sound12	\LEXX\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\LEXX\Sounds\ongoing_refused.wav
+Sounds	Sound14	\LEXX\Sounds\ongoing_manual.wav
+Sounds	Sound16	\LEXX\Sounds\handoff_refused.wav
+Sounds	Sound17	\LEXX\Sounds\pointout.wav
+Sounds	Sound18	\LEXX\Sounds\startup.wav
+LastSession	server	SweatBox
+Settings	sector	\LECB-LECB-AIRAC_20231130165525-231201-0001.sct
+LastSession	realname	Toni Monner
+LastSession	certificate	1206448
+LastSession	password	931606
+LastSession	server	AUTOMATIC
+TeamSpeakVccs	Ts3NickName	1206448
+LastSession	atis_freq4	118000
+LastSession	connecttype	2
+LastSession	callsign	LECB_CTR
+LastSession	facility	6
+LastSession	rating	4
+LastSession	tovatsim	1
+LastSession	range	400
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+LastSession	scenario	C:\Users\tonim\Documents\Operaciones\Sweatbox\TST_ATC_POS.txt
+RecentFiles	Recent2	\LECB\ASR\GND GR\LEPA_GND_GR.asr
+RecentFiles	Recent3	\LECB\ASR\GND GR\LEIB_GND_GR.asr
+RecentFiles	Recent4	\LECB\ASR\GND GR\LEMH_GND_GR.asr
+RecentFiles	Recent5	\LECB\ASR\GND GR\LEBL_GND_GR.asr
+RecentFiles	Recent6	\LECB\ASR\GND GR\LEGE_GND_GR.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+ASRFastKeys	2	\LECB\ASR\GND GR\LEPA_GND_GR.asr
+ASRFastKeys	3	\LECB\ASR\GND GR\LEIB_GND_GR.asr
+ASRFastKeys	4	\LECB\ASR\GND GR\LEMH_GND_GR.asr
+TeamSpeakVccs	Ts3G2APtt	2752512
+TeamSpeakVccs	Ts3G2GPtt	2752512
+TeamSpeakVccs	PlaybackMode	Direct Sound
+TeamSpeakVccs	PlaybackDevice	Realtek Digital Output (Realtek USB Audio)
+TeamSpeakVccs	CaptureMode	Direct Sound
+TeamSpeakVccs	CaptureDevice	Headset Microphone (CORSAIR VIRTUOSO Wireless Gaming Headset)
+TeamSpeakVccs	Ts3DialogLeft	0
+TeamSpeakVccs	Ts3DialogTop	0
+TeamSpeakVccs	Ts3DialogRight	750
+TeamSpeakVccs	Ts3DialogBottom	600
+RecentFiles	Recent7	C:\Users\tonim\Documents\Operaciones\LEIB_GND_GR.asr
+TeamSpeakVccs	TsVccsMiniControlX	1310
+TeamSpeakVccs	TsVccsMiniControlY	24
+LastSession	atis2	$radioname - CPDLC [CBRA]
+LastSession	atis3	My active sector vats.im/lexx
+LastSession	atis4	charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
