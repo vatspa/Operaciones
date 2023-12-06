@@ -13,7 +13,7 @@
       "frequency": 129005000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default"
+        "voice": "AU Female"
       },
       "idsEndpoint": "",
       "useNotamPrefix": false,
@@ -341,7 +341,7 @@
       "frequency": 119050000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default"
+        "voice": "AU Female"
       },
       "useNotamPrefix": false,
       "useDecimalTerminology": true,
@@ -668,7 +668,7 @@
       "frequency": 120625000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default"
+        "voice": "AU Female"
       },
       "useNotamPrefix": false,
       "useDecimalTerminology": true,
@@ -995,7 +995,7 @@
       "frequency": 118830000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default"
+        "voice": "UK Male"
       },
       "idsEndpoint": "",
       "useNotamPrefix": false,
@@ -1309,7 +1309,7 @@
       "frequency": 118230000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default"
+        "voice": "AU Female"
       },
       "idsEndpoint": "",
       "useNotamPrefix": false,
@@ -1637,7 +1637,7 @@
       "frequency": 125650000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default"
+        "voice": "AU Female"
       },
       "idsEndpoint": "",
       "useNotamPrefix": false,
@@ -1965,7 +1965,7 @@
       "frequency": 118255000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default"
+        "voice": "AU Female"
       },
       "idsEndpoint": "",
       "useNotamPrefix": false,
@@ -2315,7 +2315,7 @@
       "frequency": 130855000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default"
+        "voice": "UK Male"
       },
       "idsEndpoint": "",
       "useNotamPrefix": false,
@@ -2665,7 +2665,7 @@
       "frequency": 120380000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default"
+        "voice": "AU Female"
       },
       "idsEndpoint": "",
       "useNotamPrefix": false,
@@ -2974,7 +2974,7 @@
       "frequency": 124480000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default"
+        "voice": "UK Male"
       },
       "idsEndpoint": "",
       "useNotamPrefix": false,
@@ -3283,7 +3283,7 @@
       "frequency": 127525000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default"
+        "voice": "AU Female"
       },
       "useNotamPrefix": false,
       "useDecimalTerminology": true,
@@ -3614,7 +3614,7 @@
       "frequency": 127755000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default"
+        "voice": "UK Male"
       },
       "useNotamPrefix": false,
       "useDecimalTerminology": true,
@@ -3945,7 +3945,7 @@
       "frequency": 118175000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default"
+        "voice": "AU Female"
       },
       "useNotamPrefix": false,
       "useDecimalTerminology": true,
@@ -4272,7 +4272,7 @@
       "frequency": 120830000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default"
+        "voice": "AU Female"
       },
       "useNotamPrefix": false,
       "useDecimalTerminology": true,
@@ -4599,7 +4599,7 @@
       "frequency": 119355000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default"
+        "voice": "AU Female"
       },
       "useNotamPrefix": true,
       "useDecimalTerminology": true,
