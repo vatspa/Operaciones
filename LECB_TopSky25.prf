@@ -1,6 +1,6 @@
 Settings	SettingsfileSYMBOLOGY	\LEXX\Settings\SIMBOLOGY.txt
-Settings	SettingsfileVOICE	\GCCC\Settings\VoiceChannels.txt
-Settings	SettingsfilePROFILE	\GCCC\Settings\LOGIN PROFILES.txt
+Settings	SettingsfileVOICE	\LECB\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\LECB\Settings\LOGIN PROFILES.txt
 Settings	SettingsfileTAGS	\LEXX\Settings\TAGS.txt
 Settings	SettingsfileSIL	\LEXX\Settings\LISTS.txt
 Settings	SettingsfileSEL	\LEXX\Settings\LISTS.txt
@@ -11,7 +11,7 @@ Settings	SettingsfileCONFLICT	\LEXX\Settings\LISTS.txt
 Settings	SettingsfilePLUGINS	\LEXX\Settings\PLUGINS.txt
 Settings	Settingsfile	\LEXX\Settings\GENERAL.txt
 Settings	SettingsfileSCREEN	\LEXX\Settings\SCREEN.txt
-Settings	SettingsfileVCCS	\GCCC\Settings\VCCS.txt
+Settings	SettingsfileVCCS	\LECB\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\LEXX\Settings\LISTS.txt
 Settings	SettingsfileORIGPLANE	\LEXX\Settings\GENERAL.txt
 Settings	SettingsfileSTUP	\LEXX\Settings\GENERAL.txt
@@ -28,7 +28,7 @@ Settings	airportcoords	\LEXX\NavData\icao.txt
 Plugins	Plugin0	\LEXX\Plugins\RDFPlugin\RDFPlugin.dll
 Plugins	Plugin0Display0	Ground Radar display
 Plugins	Plugin0Display1	Standard ES radar screen
-Plugins	Plugin1	\GCCC\Plugins\GRPlugin\GRplugin.dll
+Plugins	Plugin1	\LECB\Plugins\GRPlugin\GRplugin.dll
 Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin1Display2	Standard ES radar screen
 Plugins	Plugin2	\LEXX\Plugins\CCAMS\CCAMS.dll
@@ -37,13 +37,13 @@ Plugins	Plugin2Display1	SMR radar display
 Plugins	Plugin2Display2	Standard ES radar screen
 Plugins	Plugin3	\LEXX\Plugins\vSACTA\SACTA.dll
 Plugins	Plugin3Display0	Standard ES radar screen
-Plugins	Plugin4	\GCCC\Plugins\TopSky25b7\TopSky.dll
+Plugins	Plugin4	\LECB\Plugins\TopSky25b7\TopSky.dll
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
-Plugins	Plugin5	\GCCC\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
-Plugins	Plugin6	\GCCC\Plugins\VFPC\VFPC.dll
+Plugins	Plugin5	\LECB\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
+Plugins	Plugin6	\LECB\Plugins\VFPC\VFPC.dll
 Plugins	Plugin7	\LEXX\Plugins\CDM\CDM.dll
-Plugins	Plugin8	\GCCC\Plugins\ESCenterlines\ESCenterlines.dll
+Plugins	Plugin8	\LECB\Plugins\ESCenterlines\ESCenterlines.dll
 Plugins	Plugin8Display0	ES Centerlines
 Plugins	Plugin8Display1	Standard ES radar screen
 Plugins	Plugin9	\LEXX\Plugins\VCH\VCH.dll
@@ -53,8 +53,8 @@ Plugins	Plugin10	\LEXX\Plugins\MAESTRO\MAESTRO.dll
 Plugins	Plugin10Display0	Standard ES radar screen
 Plugins	Plugin11	\LEXX\Plugins\DiscordEuroscope\DiscordEuroscope.dll
 Plugins	Plugin11Display0	Standard ES radar screen
-RecentFiles	Recent1	
-ASRFastKeys	1	
+RecentFiles	Recent1	\LECB\ASR\LECB.asr
+ASRFastKeys	1	\LECB\ASR\LECB.asr
 Sounds	Sound0	\LEXX\Sounds\handoff_request.wav
 Sounds	Sound1	\LEXX\Sounds\handoff_accept.wav
 Sounds	Sound2	\LEXX\Sounds\conflict_alert.wav
