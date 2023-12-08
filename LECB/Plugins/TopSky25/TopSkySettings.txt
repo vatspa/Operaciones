@@ -137,6 +137,7 @@ Color_Weather_Map=200,200,100
 Airspace_NOTAM_Add=LPPC,LECM,LECB,GCCC,LFMM,LFBB,DAAA
 HTTP_NOTAM_Server=https://www.notams.faa.gov/
 HTTP_NOTAM_Page_Prefix=dinsQueryWeb/queryRetrievalMapAction.do?reportType=Raw&retrieveLocId=
+HTTP_AUP_URL=https://lara.vatsim.pt/api/areas/LE/
 
 Malrt_Misap=MISSAPP
 Malrt_Inbound_EST=EST
