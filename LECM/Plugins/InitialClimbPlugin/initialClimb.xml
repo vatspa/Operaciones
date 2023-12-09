@@ -3,7 +3,7 @@
     <apt icao="LEMG">
 		<runway name="13">
 			<sid name="BLN">
-				<alt>130</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="EPATA">
 				<alt>100</alt>
@@ -38,7 +38,7 @@
 		</runway>
 		<runway name="31">
 			<sid name="BLN">
-				<alt>130</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="EPATA">
 				<alt>100</alt>
@@ -73,7 +73,7 @@
 		</runway>
 		<runway name="30">
 			<sid name="BLN">
-				<alt>130</alt>
+				<alt>100</alt>
 			</sid>
 			<sid name="EPATA">
 				<alt>100</alt>
