@@ -37,7 +37,7 @@ Plugins	Plugin2Display1	SMR radar display
 Plugins	Plugin2Display2	Standard ES radar screen
 Plugins	Plugin3	\LEXX\Plugins\vSACTA\SACTA.dll
 Plugins	Plugin3Display0	Standard ES radar screen
-Plugins	Plugin4	\LECB\Plugins\TopSky25b7\TopSky.dll
+Plugins	Plugin4	\LECB\Plugins\TopSky25\TopSky.dll
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
 Plugins	Plugin5	\LECB\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
