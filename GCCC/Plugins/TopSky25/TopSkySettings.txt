@@ -5,6 +5,7 @@ System_GUI_Scale_Menus=1
 System_GUI_Scale_Screen=1
 System_GUI_Scale_Tracks=1
 System_GUI_Scale_Windows=1
+System_UseAUP=1
 
 CPDLC_PlaySound=1
 CPDLC_PDC_PlaySound=1
@@ -134,9 +135,10 @@ Color_WM_Fg=180,184,181
 Color_WM_Frame=88,95,99
 Color_Weather_Map=200,200,100
 
-Airspace_NOTAM_Add=LPPC,LECM,LECB,GCCC,LFMM,LFBB,DAAA
+Airspace_NOTAM_Add=LPPC,GCCC,DAAA
 HTTP_NOTAM_Server=https://www.notams.faa.gov/
 HTTP_NOTAM_Page_Prefix=dinsQueryWeb/queryRetrievalMapAction.do?reportType=Raw&retrieveLocId=
+HTTP_AUP_URL=https://lara.vatsim.pt/api/areas/GC/
 
 Malrt_Misap=MISSAPP
 Malrt_Inbound_EST=EST
@@ -145,7 +147,7 @@ Malrt_Irregular=IRR
 Window_HoldList_MaxListItems=20
 
 Airspace_No_DUPE_Codes=7000,2000,1000,1200,2200
-Airspace_SIGMET_Areas=LPPC,LECM,LECB,GCCC,LFMM,LFBB,DAAA
+Airspace_SIGMET_Areas=LPPC,GCCC,DAAA
 AIW=1
 AIW_Type=1
 AIW_FlightRules=2
