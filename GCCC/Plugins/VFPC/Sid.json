@@ -522,6 +522,7 @@
             {
             "direction": "EVEN",
             "min_fl": 60,
+            "max_fl": 105,
             "destinations": ["GCTS"]
             }
          ],
@@ -879,7 +880,7 @@
          "PELIN": [
             {
                "direction": "ANY",
-               "max_fl": 80,
+               "max_fl": 105,
                "destinations": ["GCLP","GCLB"]
             }
          ],

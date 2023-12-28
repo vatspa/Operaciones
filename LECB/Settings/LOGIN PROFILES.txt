@@ -120,7 +120,7 @@ ATIS2:$radioname - PDC/DCL Datalink [LEBL]
 ATIS3:Covering North sector - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEBL_F_APP:150:5
-ATIS2:$radioname - PDC/DCL Datalink [LEBL]
+ATIS2:$radioname
 ATIS3:Covering Final sector - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECH_TWR:50:4
@@ -240,7 +240,7 @@ ATIS2:$radioname - PDC/DCL Datalink [LEPA]
 ATIS3:Covering East sector - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEPA_F_APP:150:5
-ATIS2:$radioname - PDC/DCL Datalink [LEPA]
+ATIS2:$radioname
 ATIS3:Covering Final sector - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LERI_TWR:50:4

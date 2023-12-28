@@ -451,7 +451,7 @@ PROFILE:LESA_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LESA]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEST_APP:150:5
+PROFILE:LECG_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LECG]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
