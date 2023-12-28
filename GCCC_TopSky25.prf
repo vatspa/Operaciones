@@ -70,6 +70,7 @@ Sounds	Sound11	\LEXX\Sounds\ongoing_request.wav
 Sounds	Sound12	\LEXX\Sounds\ongoing_accepted.wav
 Sounds	Sound13	\LEXX\Sounds\ongoing_refused.wav
 Sounds	Sound14	\LEXX\Sounds\ongoing_manual.wav
+Sounds	Sound15	\LEXX\Sounds\new_atis.wav
 Sounds	Sound16	\LEXX\Sounds\handoff_refused.wav
 Sounds	Sound17	\LEXX\Sounds\pointout.wav
 Sounds	Sound18	\LEXX\Sounds\startup.wav
