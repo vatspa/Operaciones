@@ -11,7 +11,7 @@ CPDLC_PlaySound=1
 CPDLC_PDC_PlaySound=1
 CPDLC_AutoAcceptLogon=0
 
-CPDLC_Default=0
+CPDLC_Default=1
 CPDLC_MinLevel=245
 CPDLC_Transfer=1
 CPDLC_VCI_UM_Type=1
@@ -20,15 +20,15 @@ CPDLC_DCT=1
 CPDLC_AHDG=1
 CPDLC_ASP=1
 CPDLC_AutoAcceptLogon=1
-CPDLC_AutoAcceptLogon_Time=60
+CPDLC_AutoAcceptLogon_Time=20
 CPDLC_Server=http://www.hoppie.nl/
 CPDLC_MiniServer=localhost
 CPDLC_Page=acars/system/connect.html
 CPDLC_PlaySound=1
-CPDLC_PDC_Auto=0
-CPDLC_PDC_Auto_NPT=1
+CPDLC_PDC_Auto=1
+CPDLC_PDC_Auto_NPT=0
 CPDLC_PDC_Auto_SID_AcceptType=1
-CPDLC_PDC_Auto_Startup=-1
+CPDLC_PDC_Auto_Startup=0
 CPDLC_PDC_PlaySound=1
 CPDLC_PDC_Timeout_Controller=300
 CPDLC_PDC_Timeout_Pilot=300
@@ -290,9 +290,6 @@ MTCD_Filter_Dep=3
 MTCD_Potential_Pred_Risk=1
 MTCD_DeAcknowledge=1
 
-Divergence_CLAM=1
-Divergence_RAM=1
-
 System_TrueColorMode=1
 System_UseReportedGS=1
 System_ASP_IasMach=27500
@@ -431,8 +428,8 @@ Divergence_CLAM_MinState=2
 Divergence_CLAM_Uncontrolled=0
 Divergence_CLAM_VFR=0
 Divergence_CLAM_DelayTime=60
-Divergence_CLAM_MinCFL=100
-Divergence_Inhibit_ActiveAreas=0
+Divergence_CLAM_MinCFL=10
+Divergence_Inhibit_ActiveAreas=1
 Divergence_RAM=1
 Divergence_RAM_MinState=2
 Divergence_RAM_Uncontrolled=0
@@ -450,7 +447,21 @@ RwyAppLines_Markers=10
 RwyAppLines_MarkerSpacing=2
 RwyAppLines_Auto=0
 
-SAP_Floor=2400
+SAP_Floor=0
+SAP=1
+SAP_AHDG=1
+SAP_PreActive=1
+SAP_RAM=1
+SAP_Risks=1
+SAP_Risks_Label=1
+SAP_Risks_Window=1
+SAP_Buffer_Lat_L_IFR=1
+SAP_Buffer_Lat_L_VFR=1
+SAP_Buffer_Lat_SepLevel=9500
+SAP_Buffer_Lat_U=1
+SAP_Buffer_Vert_L_IFR=700
+SAP_Buffer_Vert_L_VFR=300
+SAP_Buffer_Vert_U=1700
 
 Equip_RVSM=W
 
@@ -521,6 +532,24 @@ Window_NOTAM=0,30,300
 Setup_ScreenLat=LEPA
 Setup_LoadView=CB
 
+[LECB_CCC_CTR]
+WXR_Latitude=41
+WXR_Longitude=3
+WXR_Latitude_Max=42.6
+WXR_Latitude_Min=39.8
+WXR_Longitude_Max=4.3
+WXR_Longitude_Min=1.5
+HTTP_GRIB_Latitude_Max=43
+HTTP_GRIB_Latitude_Min=39
+HTTP_GRIB_Longitude_Max=5
+HTTP_GRIB_Longitude_Min=1
+WXR_Zoom=6
+Window_CPDLC_Current=3,1545,0
+Window_CPDLC_Setting=3,0,250
+Window_NOTAM=0,30,300
+Setup_ScreenLat=XAMUR
+Setup_LoadView=CCC
+
 [LECB_RE_CTR]
 WXR_Latitude=39.4
 WXR_Longitude=3.4
@@ -534,7 +563,6 @@ HTTP_GRIB_Longitude_Max=5
 HTTP_GRIB_Longitude_Min=1
 WXR_Zoom=5
 Setup_ScreenLat=LEBL
-CPDLC_Default=1
 Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,250
 Window_NOTAM=0,30,300
@@ -554,7 +582,6 @@ HTTP_GRIB_Longitude_Max=5
 HTTP_GRIB_Longitude_Min=-1
 WXR_Zoom=6
 Setup_ScreenLat=LEBL
-CPDLC_Default=1
 Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,250
 Window_NOTAM=0,30,300
@@ -588,7 +615,6 @@ HTTP_GRIB_Longitude_Max=5
 HTTP_GRIB_Longitude_Min=-1
 WXR_Zoom=6
 Setup_ScreenLat=LEBL
-CPDLC_Default=0
 Window_CPDLC_Current=3,1545,300
 Window_CPDLC_Setting=3,0,250
 Window_NOTAM=0,30,300
@@ -614,7 +640,6 @@ HTTP_GRIB_Longitude_Max=5
 HTTP_GRIB_Longitude_Min=0
 WXR_Zoom=6
 Setup_ScreenLat=MJV
-CPDLC_Default=0
 Window_CPDLC_Current=3,1560,0
 Window_CPDLC_Setting=3,0,600
 Window_NOTAM=0,30,300
@@ -633,6 +658,9 @@ HTTP_GRIB_Latitude_Min=40
 HTTP_GRIB_Longitude_Max=4
 HTTP_GRIB_Longitude_Min=0
 WXR_Zoom=7
+Window_CPDLC_Current=0,1545,0
+Window_CPDLC_Setting=0,0,250
+Window_NOTAM=0,30,300
 Setup_ScreenLat=LEBL
 Setup_LoadView=BLA
 Airspace_AOR_Airports=LEBL,LEGE,LELL,LEDA,LESU,LERS
@@ -649,6 +677,9 @@ HTTP_GRIB_Latitude_Min=40
 HTTP_GRIB_Longitude_Max=4
 HTTP_GRIB_Longitude_Min=0
 WXR_Zoom=7
+Window_CPDLC_Current=0,1545,0
+Window_CPDLC_Setting=0,0,250
+Window_NOTAM=0,30,300
 Setup_ScreenLat=LEBL
 Setup_LoadView=BLA
 Airspace_AOR_Airports=LEBL,LEGE,LELL,LEDA,LESU,LERS
@@ -665,6 +696,9 @@ HTTP_GRIB_Latitude_Min=40
 HTTP_GRIB_Longitude_Max=4
 HTTP_GRIB_Longitude_Min=0
 WXR_Zoom=7
+Window_CPDLC_Current=0,1545,0
+Window_CPDLC_Setting=0,0,250
+Window_NOTAM=0,30,300
 Setup_ScreenLat=LEBL
 Setup_LoadView=BLA
 Airspace_AOR_Airports=LEBL,LEGE,LELL,LEDA,LESU,LERS
@@ -682,6 +716,9 @@ HTTP_GRIB_Longitude_Max=4
 HTTP_GRIB_Longitude_Min=0
 WXR_Zoom=7
 Setup_ScreenLat=LEBL
+Window_CPDLC_Current=3,1545,0
+Window_CPDLC_Setting=3,0,500
+Window_NOTAM=0,30,300
 Setup_LoadView=BLA
 Airspace_AOR_Airports=LEBL,LEGE,LELL,LEDA,LESU,LERS
 
@@ -698,7 +735,7 @@ HTTP_GRIB_Longitude_Max=3
 HTTP_GRIB_Longitude_Min=1
 WXR_Zoom=8
 Setup_ScreenLat=LEBL
-Window_CPDLC_Current=0,1545,300
+Window_CPDLC_Current=0,1545,0
 Window_CPDLC_Setting=0,0,250
 Window_NOTAM=0,30,300
 Setup_LoadView=BLF
@@ -718,8 +755,8 @@ HTTP_GRIB_Longitude_Min=1
 WXR_Zoom=7
 Setup_ScreenLat=LEPA
 Window_NOTAM=0,30,300
-Window_CPDLC_Setting=3,0,250
-Window_CPDLC_Current=3,1545,300
+Window_CPDLC_Setting=3,0,500
+Window_CPDLC_Current=3,1545,0
 Setup_LoadView=PAA
 
 [LEPA_E_APP]
@@ -734,6 +771,9 @@ HTTP_GRIB_Latitude_Min=39
 HTTP_GRIB_Longitude_Max=4
 HTTP_GRIB_Longitude_Min=2
 WXR_Zoom=7
+Window_NOTAM=0,30,300
+Window_CPDLC_Setting=0,0,250
+Window_CPDLC_Current=0,1545,0
 Setup_ScreenLat=LEPA
 Setup_LoadView=PAA
 
@@ -750,7 +790,7 @@ HTTP_GRIB_Longitude_Max=4
 HTTP_GRIB_Longitude_Min=1
 WXR_Zoom=8
 Setup_ScreenLat=LEPA
-Window_CPDLC_Current=0,1545,300
+Window_CPDLC_Current=0,1545,0
 Window_CPDLC_Setting=0,0,250
 Window_NOTAM=0,30,300
 Setup_LoadView=PAF
@@ -786,7 +826,6 @@ WXR_Zoom=8
 Setup_ScreenLat=LEBL
 
 [LEIB_DEL]
-Shortcut_Xfr_Target=1,IBT,IBG
 Setup_ScreenLat=LEIB
 
 [LEIB_GND]
@@ -802,15 +841,15 @@ Setup_LoadView=IBA
 [LEIB_IXX_APP]
 Window_NOTAM=0,30,300
 Window_CPDLC_Setting=3,0,250
-Window_CPDLC_Current=3,1545,300
+Window_CPDLC_Current=3,1545,0
 Setup_ScreenLat=LEIB
 Airspace_AOR_Airports=LEIB
 Setup_LoadView=IBA
 
 [LEIB_IXN_APP]
 Window_NOTAM=0,30,300
-Window_CPDLC_Setting=3,0,250
-Window_CPDLC_Current=3,1545,300
+Window_CPDLC_Setting=0,0,250
+Window_CPDLC_Current=0,1545,0
 Setup_ScreenLat=LEIB
 Airspace_AOR_Airports=LEIB
 Setup_LoadView=IBA
@@ -833,7 +872,7 @@ Setup_ScreenLat=LEPA
 [LELL]
 Window_NOTAM=0,30,300
 Window_CPDLC_Setting=0,0,250
-Window_CPDLC_Current=0,1545,300
+Window_CPDLC_Current=0,1545,0
 Setup_ScreenLat=LELL
 
 [LEDA_TWR]
