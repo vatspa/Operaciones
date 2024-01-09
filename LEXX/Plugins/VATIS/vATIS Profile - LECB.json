@@ -1062,7 +1062,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 128750000,
+      "frequency": 128755000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "AU Female"
@@ -1393,7 +1393,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 119800000,
+      "frequency": 119805000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "UK Male"
@@ -1725,7 +1725,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 129150000,
+      "frequency": 129155000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "AU Female"
