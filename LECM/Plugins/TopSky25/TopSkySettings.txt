@@ -486,6 +486,8 @@ Shortcut_TSA=0x4D
 
 RDF_Mode=-1
 
+Window_ASM=1,0,250
+
 //Maps Shortcuts
 Shortcut_Map_Target=0,LECM\VFR SECTORS
 Shortcut_Map_Target=1,LECM\TAXILINES
