@@ -1,5 +1,5 @@
 [DCL]
-DCL:*:SID:<adep> PDC <number> . . . . . CLD <hour><min> <day><month3><year2>. <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> ALT <cfl> SQUAWK <assr>. REPORT READY FOR STARTUP ON <startup_own>.
+DCL:*:SID:<callsign> CLRD TO <ades> OFF <drwy> VIA <sid> ALT <cfl> SQUAWK <assr>. <startup_own>.
 
 [FREETEXT]
 FREETEXT:UNICOM:MONITOR UNICOM 122.800
