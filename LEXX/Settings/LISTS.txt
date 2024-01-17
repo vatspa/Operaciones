@@ -1,7 +1,7 @@
 SIL
 m_Visible:1
-m_X:1591
-m_Y:801
+m_X:1601
+m_Y:360
 m_LineNumber:10
 m_Resizable:1
 m_OrderingColumn:8
@@ -63,7 +63,7 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:46
+m_Y:45
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:25
@@ -116,8 +116,8 @@ m_Column:STAND:6:0:2:1:0:1:Ground Radar plugin:Ground Radar plugin::1:0.0
 m_Column:ACC:7:0:59:8:0:0::::1:0.0
 END
 FP
-m_Visible:1
-m_X:1651
+m_Visible:0
+m_X:1268
 m_Y:564
 m_LineNumber:0
 m_Resizable:1
