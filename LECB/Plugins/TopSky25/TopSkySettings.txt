@@ -17,6 +17,7 @@ CPDLC_AHDG=1
 CPDLC_ASP=1
 CPDLC_AutoAcceptLogon=1
 CPDLC_AutoAcceptLogon_Time=20
+CPDLC_FSM_CLD_Header=<adep> PDC <number> . . . . . CLD <hour><min> <year2><month2><day> @<callsign>@
 CPDLC_Server=http://www.hoppie.nl/
 CPDLC_MiniServer=localhost
 CPDLC_Page=acars/system/connect.html
@@ -39,8 +40,7 @@ Airspace_AOR_Positions=LEAL,LEBL,LECH,LEDA,LEGE,LEIB,LELC,LELL,LEMH,LEMI,LEPA,LE
 Airspace_ModeS_Code=1000
 Airspace_C_Flag=LEAL,LEBL,LECH,LEDA,LEGE,LEIB,LELC,LEMH,LEMI,LEPA,LERS,LEVC,LESU
 Airspace_C_No_Flag=LELL
-Airspace_P_Flag=LEBL,LEIB,LESU
-Airspace_P_No_Flag=LEAL,LECH,LEDA,LEGE,LELC,LELL,LEMH,LEMI,LEPA,LERS,LEVC
+Airspace_P_Flag=LEBL,LEIB,LESU,LEPA
 AMAN_Airports=LEBL,LEIB,LEMH,LEPA,LERS,LEVC
 AMAN_URL=..\..\..\LEXX\Plugins\MAESTRO\MAESTRO_sequence_data.json
 AMAN_LoadInterval=5
@@ -101,7 +101,7 @@ Color_Global_Menu_Highlight=1,165,219
 Color_Heading_Vector=170,231,197
 
 Color_Info_Coord=1,255,255
-Color_Information=40,210,40
+Color_Information=170,100,40
 Color_Information_FL=244,204,0
 Color_Informed=175,125,175
 Color_Map_1=80,95,95
@@ -125,7 +125,7 @@ Color_Proposition_In=128,255,255
 Color_Proposition_Out=255,128,192
 
 Color_QDM=244,204,0
-Color_Runway=116,200,71
+Color_Runway=40,40,200
 Color_Rwy_App_Line_Inuse=40,40,40
 Color_Rwy_App_Line_Not_Inuse=100,0,0
 Color_Rwy_Locked=41,210,41
@@ -136,7 +136,7 @@ Color_SEP_Tool_2=255,153,184
 Color_SEP_Tool_3=255,209,143
 Color_SEP_Tool_4=197,64,212
 Color_SEP_Tool_5=140,140,255
-Color_Sid_Star_Allocation=14,170,14
+Color_Sid_Star_Allocation=255,255,255
 Color_Suite_Highlight=0,220,255
 Color_SMW_Level_Band=24,209,114
 Color_SMW_Overflight=254,152,1
@@ -169,8 +169,6 @@ Color_Weather_Map=200,200,100
 HTTP_NOTAM_Server=https://www.notams.faa.gov/
 HTTP_NOTAM_Page_Prefix=dinsQueryWeb/queryRetrievalMapAction.do?reportType=Raw&retrieveLocId=
 HTTP_AUP_URL=https://lara.vatsim.pt/api/areas/LE/
-HTTP_SIGMET_Server=http://aviationweather.gov/
-HTTP_SIGMET_Page=6443
 
 Malrt_Inbound_EST=INB EST
 Malrt_Irregular=IRREG.
@@ -181,7 +179,7 @@ Window_HoldList_MaxListItems=20
 
 Airspace_NOTAM_Add=LECB
 Airspace_No_DUPE_Codes=7000,2000,1000,1200,2200
-Airspace_SIGMET_Areas=LECB
+Airspace_SIGMET_Areas=LECB,LECM,LFMM,DAAA
 AIW=1
 AIW_Type=1
 AIW_FlightRules=2
@@ -312,10 +310,10 @@ Label_CompCsCaps=1
 Label_Coord_RJC_Time=300
 Label_COP_MaxChars=3
 Label_DAPs=1
-Label_DAPs_Prefix=$
+Label_DAPs_Prefix=i
 Label_Extended_MaxChars=45
 Label_FCOP_MaxChars=2
-Label_Field18_Flag_Items=STS/,newbie,NEWBIE,Newbie,beginner,MSFS,msfs,newbe,RMK/,NOVATO,novato,Novato
+Label_Field18_Flag_Items=STS/,newbie,NEWBIE,Newbie,beginner,MSFS,msfs,newbe,NOVATO,novato,Novato
 Label_FTextCaps=1
 Label_FText_MaxChars_List=7
 Label_GS_Digits=2
@@ -385,30 +383,30 @@ System_RefreshInterval_AHDG/QDM=10
 System_UseMouseWheel=1
 System_TransferConfirmation=0
 System_UseILScat=1
-System_MagModel_Year=2024
-System_MagModel_Type=2
+System_MagModel_Year=0
+System_MagModel_Type=0
 System_MagModel_Model=0
 System_RepHdg_Correction=0
 System_UseTSAborderHighlightColor=1
 System_UseScreenLat=1
 System_UseAcceptedCoordColor=1
-System_UseSidStarAllocationColor=0
+System_UseSidStarAllocationColor=1
 Vector_Label_Position=10
 Vector_AHDG_Font=EuroScope
 Vector_AHDG_FontSize=11
 Vector_AHDG_FontStyle=0,0,0,0
 Vector_AHDG_Label_Dir=1
-Vector_AHDG_Label_Dist=1
+Vector_AHDG_Label_Dist=2
 Vector_AHDG_Label_Time=1
 Vector_AHDG_RhumbLine=1
 Vector_AHDG_True=0
 Vector_QDM_AA_Label_Dir=1
 Vector_QDM_AA_Label_Dir2=0
-Vector_QDM_AA_Label_Dist=1
+Vector_QDM_AA_Label_Dist=2
 Vector_QDM_Airports=1
 Vector_QDM_AP_Label_Dir=1
 Vector_QDM_AP_Label_Dir2=0
-Vector_QDM_AP_Label_Dist=1
+Vector_QDM_AP_Label_Dist=2
 Vector_QDM_AP_Label_Time=1
 Vector_QDM_Fixes=1
 Vector_QDM_Font=EuroScope
@@ -416,13 +414,13 @@ Vector_QDM_FontSize=11
 Vector_QDM_FontStyle=0,0,0,0
 Vector_QDM_Label_Dir=1
 Vector_QDM_Label_Dir2=0
-Vector_QDM_Label_Dist=1
+Vector_QDM_Label_Dist=2
 Vector_QDM_Label_Time=1
 Vector_QDM_MaxNumber=99
 Vector_QDM_NDBs=1
 Vector_QDM_PP_Label_Dir=1
-Vector_QDM_PP_Label_Dir2=0
-Vector_QDM_PP_Label_Dist=1
+Vector_QDM_PP_Label_Dir2=1
+Vector_QDM_PP_Label_Dist=2
 Vector_QDM_RhumbLine=1
 Vector_QDM_True=0
 Vector_QDM_VORs=1
@@ -444,13 +442,15 @@ Vector_MinSep_VertSep_Separation=1800
 Vector_MinSep_VertSep_ShowStart=1
 Vector_MinSep_Width=1
 
-Equip_UseCodes=1
+Equip_UseCodes=3
 Track_HistoryDots=5
 Track_PredictionLine=0
-Window_PDC_SetASSR=0
-Window_DCL_SetASSR=0
-Window_DCL_SetCFL=0
-Window_PDC_SetCFL=0
+Window_PDC_SetASSR=1
+Window_DCL_SetASSR=1
+Window_DCL_SetCFL=1
+Window_PDC_SetCFL=1
+Window_WxMsgs_MetarRefreshInterval=600
+Window_WxMsgs_TafRefreshInterval=600
 Maps_Font=Lucida Sans Unicode
 Maps_FontSize=12
 Maps_FontStyle=0,0,0,0
@@ -523,7 +523,7 @@ FlightLeg_Label_Time=1
 FlightLeg_Label_Point=1
 FlightLeg_Label_DIST=1
 FlightLeg_Label_RFL=1
-FlightLeg_Label_SCFL=1
+FlightLeg_Label_SCFL=0
 FlightLeg_LineWidth=0
 FlightLeg_Potential_Predicted=1
 FlightLeg_Potential_Risk=1
@@ -534,17 +534,19 @@ Menu_MaxListItems=12
 
 Shortcut_AHDG_NoFixes_Combo=0x00
 Shortcut_RadarMenu_Combo=0x00
-Shortcut_TSA_Combo=0x12
-Shortcut_TSA=0x4D
+Shortcut_TSA_Combo=0x00
+Shortcut_TSA=0x00
 
 RDF_Mode=-1
 
-Window_ASM=1,0,250
+Window_ASM=1,0,250,550,200
+Window_RawVideoControl=0,550
 
 //Maps Shortcuts
 Shortcut_Map_Target=0,LECB\VFR SECTORS
 Shortcut_Map_Target=1,LECB\TAXILINES
 Shortcut_Map_Target=2,LECB\STANDLINES
+Shortcut_Map_Target=3,LECB\HOLDS
 Shortcut_Map_Target=8,LECB\LOW AIRWAY
 Shortcut_Map_Target=9,LECB\HIGH AIRWAY
 
@@ -699,8 +701,8 @@ Window_CPDLC_Setting=3,0,250
 Window_NOTAM=0,30,300
 Setup_ScreenLat=URIAS
 Setup_LoadView=LLI
+Airspace_AOR_Airports=LEAL,LECH,LELC,LEMI,LEVC
 Window_ASM=0,0,250
-CPDLC_Default=0
 
 [LECP_CTR]
 WXR_Latitude=39.5
@@ -721,7 +723,6 @@ Window_NOTAM=0,30,300
 Airspace_AOR_Airports=LEIB,LEMH,LEPA
 Setup_LoadView=CP
 Window_ASM=0,0,250
-CPDLC_Default=1
 
 [LEAL_APP]
 WXR_Latitude=37.9
@@ -742,7 +743,6 @@ Setup_ScreenLat=LEAL
 Setup_LoadView=ALA
 Airspace_AOR_Airports=LEAL,LELC,LEMI,LERI
 Window_ASM=0,0,250
-CPDLC_Default=0
 
 [LEAL_DEP]
 WXR_Latitude=37.9
@@ -763,7 +763,6 @@ Setup_ScreenLat=LEAL
 Setup_LoadView=ALA
 Airspace_AOR_Airports=LEAL,LELC,LEMI,LERI
 Window_ASM=0,0,250
-CPDLC_Default=0
 
 [LEAL_TWR]
 WXR_Latitude=38.3
@@ -1045,72 +1044,17 @@ Setup_LoadView=BLF
 Airspace_AOR_Airports=LEBL
 Window_ASM=0,0,250
 
-[LEPA_APP]
-WXR_Latitude=40
-WXR_Longitude=2.6
-WXR_Latitude_Max=41
-WXR_Latitude_Min=39
-WXR_Longitude_Max=4
-WXR_Longitude_Min=1
-HTTP_GRIB_Latitude_Max=41
-HTTP_GRIB_Latitude_Min=39
-HTTP_GRIB_Longitude_Max=4
-HTTP_GRIB_Longitude_Min=1
-WXR_Zoom=7
-Setup_ScreenLat=LEPA
-Window_NOTAM=0,30,300
-Window_CPDLC_Setting=3,0,500
-Window_CPDLC_Current=3,1545,0
-Setup_LoadView=PAA
-Window_ASM=0,0,250
-
-[LEPA_E_APP]
-WXR_Latitude=39.9
-WXR_Longitude=3
-WXR_Latitude_Max=40.6
-WXR_Latitude_Min=39.1
-WXR_Longitude_Max=3.8
-WXR_Longitude_Min=2.1
-HTTP_GRIB_Latitude_Max=41
-HTTP_GRIB_Latitude_Min=39
-HTTP_GRIB_Longitude_Max=4
-HTTP_GRIB_Longitude_Min=2
-WXR_Zoom=7
-Window_NOTAM=0,30,300
-Window_CPDLC_Setting=0,0,250
-Window_CPDLC_Current=0,1545,0
-Setup_ScreenLat=LEPA
-Setup_LoadView=PAA
-Window_ASM=0,0,250
-
-[LEPA_F_APP]
-WXR_Latitude=39.5
-WXR_Longitude=2.6
-WXR_Latitude_Max=40
-WXR_Latitude_Min=39
-WXR_Longitude_Max=4
-WXR_Longitude_Min=1
-HTTP_GRIB_Latitude_Max=40
-HTTP_GRIB_Latitude_Min=39
-HTTP_GRIB_Longitude_Max=4
-HTTP_GRIB_Longitude_Min=1
-WXR_Zoom=8
-Setup_ScreenLat=LEPA
-Window_CPDLC_Current=0,1545,0
-Window_CPDLC_Setting=0,0,250
-Window_NOTAM=0,30,300
-Setup_LoadView=PAF
-Window_ASM=0,0,250
-
 [LEIB_DEL]
 Setup_ScreenLat=LEIB
 Window_ASM=0,0,250
 Setup_LoadView=IBG
+Airspace_AOR_Airports=LEIB
 
 [LEIB_GND]
 Setup_ScreenLat=LEIB
 Window_ASM=0,0,250
 Setup_LoadView=IBG
+Airspace_AOR_Airports=LEIB
 
 [LEIB_TWR]
 Setup_ScreenLat=LEIB
@@ -1119,11 +1063,13 @@ Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,250
 Window_NOTAM=0,30,300
 Setup_LoadView=IBT
+Airspace_AOR_Airports=LEIB
 CPDLC_Default=0
 
 [LEIB_APP]
 Setup_ScreenLat=LEIB
 Setup_LoadView=IBA
+Airspace_AOR_Airports=LEIB
 Window_ASM=0,0,250
 
 [LEIB_IXX_APP]
@@ -1144,30 +1090,95 @@ Airspace_AOR_Airports=LEIB
 Setup_LoadView=IBA
 Window_ASM=0,0,250
 
+[LEPA_APP]
+WXR_Latitude=40
+WXR_Longitude=2.6
+WXR_Latitude_Max=41
+WXR_Latitude_Min=39
+WXR_Longitude_Max=4
+WXR_Longitude_Min=1
+HTTP_GRIB_Latitude_Max=41
+HTTP_GRIB_Latitude_Min=39
+HTTP_GRIB_Longitude_Max=4
+HTTP_GRIB_Longitude_Min=1
+WXR_Zoom=7
+Setup_ScreenLat=LEPA
+Window_NOTAM=0,30,300
+Window_CPDLC_Setting=3,0,500
+Window_CPDLC_Current=3,1545,0
+Setup_LoadView=PAA
+Airspace_AOR_Airports=LEPA
+Window_ASM=0,0,250
+
+[LEPA_E_APP]
+WXR_Latitude=39.9
+WXR_Longitude=3
+WXR_Latitude_Max=40.6
+WXR_Latitude_Min=39.1
+WXR_Longitude_Max=3.8
+WXR_Longitude_Min=2.1
+HTTP_GRIB_Latitude_Max=41
+HTTP_GRIB_Latitude_Min=39
+HTTP_GRIB_Longitude_Max=4
+HTTP_GRIB_Longitude_Min=2
+WXR_Zoom=7
+Window_NOTAM=0,30,300
+Window_CPDLC_Setting=0,0,250
+Window_CPDLC_Current=0,1545,0
+Setup_ScreenLat=LEPA
+Setup_LoadView=PAA
+Airspace_AOR_Airports=LEPA
+Window_ASM=0,0,250
+
+[LEPA_F_APP]
+WXR_Latitude=39.5
+WXR_Longitude=2.6
+WXR_Latitude_Max=40
+WXR_Latitude_Min=39
+WXR_Longitude_Max=4
+WXR_Longitude_Min=1
+HTTP_GRIB_Latitude_Max=40
+HTTP_GRIB_Latitude_Min=39
+HTTP_GRIB_Longitude_Max=4
+HTTP_GRIB_Longitude_Min=1
+WXR_Zoom=8
+Setup_ScreenLat=LEPA
+Window_CPDLC_Current=0,1545,0
+Window_CPDLC_Setting=0,0,250
+Window_NOTAM=0,30,300
+Setup_LoadView=PAF
+Airspace_AOR_Airports=LEPA
+Window_ASM=0,0,250
+
 [LEPA_DEL]
 Setup_ScreenLat=LEPA
 Window_ASM=0,0,250
 Setup_LoadView=PAG
+Airspace_AOR_Airports=LEPA
 
 [LEPA_GND]
 Setup_ScreenLat=LEPA
 Window_ASM=0,0,250
 Setup_LoadView=PAG
+Airspace_AOR_Airports=LEPA
 
 [LEPA_N_GND]
 Setup_ScreenLat=LEPA
 Window_ASM=0,0,250
 Setup_LoadView=PAG
+Airspace_AOR_Airports=LEPA
 
 [LEPA_D_TWR]
 Setup_ScreenLat=LEPA
 Window_ASM=0,0,250
 Setup_LoadView=PAT
+Airspace_AOR_Airports=LEPA
 
 [LEPA_TWR]
 Setup_ScreenLat=LEPA
 Window_ASM=0,0,250
 Setup_LoadView=PAT
+Airspace_AOR_Airports=LEPA
 
 [LELL]
 Window_NOTAM=0,30,300
@@ -1175,11 +1186,35 @@ Window_CPDLC_Setting=0,0,250
 Window_CPDLC_Current=0,1545,0
 Setup_ScreenLat=LELL
 Window_ASM=0,0,250
+Setup_LoadView=LLT
+Airspace_AOR_Airports=LELL
 
 [LEDA_TWR]
+Window_NOTAM=0,30,300
+Window_CPDLC_Setting=0,0,250
+Window_CPDLC_Current=0,1545,0
 Setup_ScreenLat=LEDA
 Window_ASM=0,0,250
 Setup_LoadView=DAT
+Airspace_AOR_Airports=LEDA
+
+[LERS_TWR]
+Window_NOTAM=0,30,300
+Window_CPDLC_Setting=0,0,250
+Window_CPDLC_Current=0,1545,0
+Setup_ScreenLat=LERS
+Window_ASM=0,0,250
+Setup_LoadView=RST
+Airspace_AOR_Airports=LERS
+
+[LERS_A_TWR]
+Window_NOTAM=0,30,300
+Window_CPDLC_Setting=0,0,250
+Window_CPDLC_Current=0,1545,0
+Setup_ScreenLat=LERS
+Window_ASM=0,0,250
+Setup_LoadView=RST
+Airspace_AOR_Airports=LERS
 
 [LEVC_TWR]
 Setup_ScreenLat=LEVC
@@ -1187,6 +1222,7 @@ Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,250
 Window_NOTAM=0,30,300
 Window_ASM=0,0,250
+Airspace_AOR_Airports=LEVC
 
 [LEAL]
 STCA_Floor=1192
