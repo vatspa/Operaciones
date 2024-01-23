@@ -383,6 +383,27 @@ WXR_Gain=100
 WXR_Zoom=4
 WXR_ImageSize=512
 
+[GCCC_R6_CTR]
+Window_CPDLC_Setting=3,0,500
+Window_CPDLC_Current=3,1545,0
+Window_NOTAM=0,0,510
+WXR_Latitude=28
+WXR_Longitude=-16.5
+WXR_Latitude_Max=32
+WXR_Latitude_Min=24.5
+WXR_Longitude_Max=-12
+WXR_Longitude_Min=-21
+WXR_Zoom=5
+HTTP_GRIB_Latitude_Max=32
+HTTP_GRIB_Latitude_Min=25
+HTTP_GRIB_Longitude_Max=-12
+HTTP_GRIB_Longitude_Min=-21
+Setup_ScreenLat=GCLG
+Setup_LoadView=R6
+Window_NOTAM=0,30,300
+Window_ASM=0,0,250
+STCA_Floor=3077
+
 [CTR]
 Window_CPDLC_Setting=1,1,250
 Window_CPDLC_Current=1,1545,300
