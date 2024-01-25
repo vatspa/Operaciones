@@ -542,6 +542,7 @@ RDF_Mode=-1
 
 Window_ASM=1,0,250,550,200
 Window_RawVideoControl=0,550
+Window_NOTAM=0,30,300
 
 //Maps Shortcuts
 Shortcut_Map_Target=1,GCCC\TAXILINES
@@ -568,14 +569,12 @@ HTTP_GRIB_Latitude_Min=18
 HTTP_GRIB_Longitude_Max=-8
 HTTP_GRIB_Longitude_Min=-27
 WXR_Zoom=4
-Window_CPDLC_Current=0,1551,365
 Window_ASM=0
 Setup_LoadView=CCO
 
 [GCCC_R6_CTR]
 Window_CPDLC_Setting=3,0,500
 Window_CPDLC_Current=3,1545,0
-Window_NOTAM=0,0,510
 WXR_Latitude=28
 WXR_Longitude=-16.5
 WXR_Latitude_Max=32
@@ -589,14 +588,12 @@ HTTP_GRIB_Longitude_Max=-12
 HTTP_GRIB_Longitude_Min=-21
 Setup_ScreenLat=GCLG
 Setup_LoadView=R6
-Window_NOTAM=0,30,300
 Window_ASM=0,0,250
 STCA_Floor=3077
 
 [GCCC_RES_CTR]
 Window_CPDLC_Setting=3,0,500
 Window_CPDLC_Current=3,1545,0
-Window_NOTAM=0,0,510
 WXR_Latitude=28
 WXR_Longitude=-16.5
 WXR_Latitude_Max=30.5
@@ -616,7 +613,6 @@ STCA_Floor=1083
 [GCCC_RW3_CTR]
 Window_CPDLC_Setting=3,0,500
 Window_CPDLC_Current=3,1545,0
-Window_NOTAM=0,0,510
 WXR_Latitude=28
 WXR_Longitude=-16.5
 WXR_Latitude_Max=32
@@ -636,7 +632,6 @@ STCA_Floor=3077
 [GCCC_INB_CTR]
 Window_CPDLC_Setting=3,0,500
 Window_CPDLC_Current=3,1545,0
-Window_NOTAM=0,0,510
 WXR_Latitude=28.5
 WXR_Longitude=-17.3
 WXR_Latitude_Max=30.5
@@ -656,7 +651,6 @@ STCA_Floor=3077
 [GCCA_AAC_APP]
 Window_CPDLC_Setting=3,0,500
 Window_CPDLC_Current=3,1545,0
-Window_NOTAM=0,0,510
 WXR_Latitude=28.6
 WXR_Longitude=-13.8
 WXR_Latitude_Max=29.7
@@ -677,7 +671,6 @@ CPDLC_Default=0
 [GCFV_TWR]
 Window_CPDLC_Setting=3,0,500
 Window_CPDLC_Current=3,1545,0
-Window_NOTAM=0,0,510
 WXR_Latitude=28.6
 WXR_Longitude=-13.7
 WXR_Latitude_Max=28.8
@@ -698,7 +691,6 @@ CPDLC_Default=0
 [GCFV_GND]
 Window_CPDLC_Setting=3,0,500
 Window_CPDLC_Current=3,1545,0
-Window_NOTAM=0,0,510
 WXR_Latitude=28.6
 WXR_Longitude=-13.7
 WXR_Latitude_Max=28.8
@@ -719,7 +711,6 @@ CPDLC_Default=0
 [GCGM_I_TWR]
 Window_CPDLC_Setting=0,0,500
 Window_CPDLC_Current=0,1545,0
-Window_NOTAM=0,0,510
 WXR_Latitude=28.6
 WXR_Longitude=-13.7
 WXR_Latitude_Max=28.8
@@ -740,7 +731,6 @@ CPDLC_Default=0
 [GCHI_TWR]
 Window_CPDLC_Setting=0,0,500
 Window_CPDLC_Current=0,1545,0
-Window_NOTAM=0,0,510
 WXR_Latitude=27.8
 WXR_Longitude=-17.9
 WXR_Latitude_Max=28.1
@@ -761,7 +751,6 @@ CPDLC_Default=0
 [GCLA_TWR]
 Window_CPDLC_Setting=3,0,500
 Window_CPDLC_Current=3,1545,0
-Window_NOTAM=0,0,510
 WXR_Latitude=28.6
 WXR_Longitude=-17.7
 WXR_Latitude_Max=28.9
@@ -782,7 +771,6 @@ CPDLC_Default=0
 [GCLA_GND]
 Window_CPDLC_Setting=3,0,500
 Window_CPDLC_Current=3,1545,0
-Window_NOTAM=0,0,510
 WXR_Latitude=28.6
 WXR_Longitude=-17.7
 WXR_Latitude_Max=28.9
@@ -803,7 +791,6 @@ CPDLC_Default=0
 [GCLP_TWR]
 Window_CPDLC_Setting=3,0,500
 Window_CPDLC_Current=3,1545,0
-Window_NOTAM=0,0,510
 WXR_Latitude=27.9
 WXR_Longitude=-15.4
 WXR_Latitude_Max=28.2
@@ -824,7 +811,6 @@ CPDLC_Default=0
 [GCLP_GND]
 Window_CPDLC_Setting=3,0,500
 Window_CPDLC_Current=3,1545,0
-Window_NOTAM=0,0,510
 WXR_Latitude=27.9
 WXR_Longitude=-15.4
 WXR_Latitude_Max=28.2
@@ -845,7 +831,6 @@ CPDLC_Default=0
 [GCLP_DEL]
 Window_CPDLC_Setting=3,0,500
 Window_CPDLC_Current=3,1545,0
-Window_NOTAM=0,0,510
 WXR_Latitude=27.9
 WXR_Longitude=-15.4
 WXR_Latitude_Max=28.2
@@ -866,7 +851,6 @@ CPDLC_Default=0
 [GCLP_F_APP]
 Window_CPDLC_Setting=0,0,500
 Window_CPDLC_Current=0,1545,0
-Window_NOTAM=0,0,510
 WXR_Latitude=27.9
 WXR_Longitude=-15.4
 WXR_Latitude_Max=28.2
@@ -883,15 +867,6 @@ Setup_ScreenLat=GCLP
 Setup_LoadView=GCA
 STCA_Floor=1077
 CPDLC_Default=0
-
-[TWR]
-Window_CPDLC_Setting=1,0,365
-
-[GND]
-Window_CPDLC_Setting=1,0,365
-
-[DEL]
-Window_CPDLC_Setting=1,0,365
 
 [GCLA]
 STCA_Floor=1108
