@@ -1045,16 +1045,23 @@ Airspace_AOR_Airports=LEBL
 Window_ASM=0,0,250
 
 [LEIB_DEL]
+Window_CPDLC_Current=3,1545,0
+Window_CPDLC_Setting=3,0,250
+Window_NOTAM=0,30,300
 Setup_ScreenLat=LEIB
 Window_ASM=0,0,250
 Setup_LoadView=IBG
 Airspace_AOR_Airports=LEIB
 
 [LEIB_GND]
+Window_CPDLC_Current=3,1545,0
+Window_CPDLC_Setting=3,0,250
+Window_NOTAM=0,30,300
 Setup_ScreenLat=LEIB
 Window_ASM=0,0,250
 Setup_LoadView=IBG
 Airspace_AOR_Airports=LEIB
+CPDLC_Default=0
 
 [LEIB_TWR]
 Setup_ScreenLat=LEIB
@@ -1067,10 +1074,14 @@ Airspace_AOR_Airports=LEIB
 CPDLC_Default=0
 
 [LEIB_APP]
+Window_CPDLC_Current=0,1545,0
+Window_CPDLC_Setting=0,0,250
+Window_NOTAM=0,30,300
 Setup_ScreenLat=LEIB
 Setup_LoadView=IBA
 Airspace_AOR_Airports=LEIB
 Window_ASM=0,0,250
+CPDLC_Default=0
 
 [LEIB_IXX_APP]
 Window_NOTAM=0,30,300
@@ -1080,6 +1091,7 @@ Setup_ScreenLat=LEIB
 Airspace_AOR_Airports=LEIB
 Setup_LoadView=IBA
 Window_ASM=0,0,250
+CPDLC_Default=0
 
 [LEIB_IXN_APP]
 Window_NOTAM=0,30,300
@@ -1089,6 +1101,7 @@ Setup_ScreenLat=LEIB
 Airspace_AOR_Airports=LEIB
 Setup_LoadView=IBA
 Window_ASM=0,0,250
+CPDLC_Default=0
 
 [LEPA_APP]
 WXR_Latitude=40
@@ -1109,6 +1122,7 @@ Window_CPDLC_Current=3,1545,0
 Setup_LoadView=PAA
 Airspace_AOR_Airports=LEPA
 Window_ASM=0,0,250
+CPDLC_Default=0
 
 [LEPA_E_APP]
 WXR_Latitude=39.9
@@ -1129,6 +1143,7 @@ Setup_ScreenLat=LEPA
 Setup_LoadView=PAA
 Airspace_AOR_Airports=LEPA
 Window_ASM=0,0,250
+CPDLC_Default=0
 
 [LEPA_F_APP]
 WXR_Latitude=39.5
@@ -1149,6 +1164,7 @@ Window_NOTAM=0,30,300
 Setup_LoadView=PAF
 Airspace_AOR_Airports=LEPA
 Window_ASM=0,0,250
+CPDLC_Default=0
 
 [LEPA_DEL]
 Setup_ScreenLat=LEPA
@@ -1197,6 +1213,7 @@ Setup_ScreenLat=LEDA
 Window_ASM=0,0,250
 Setup_LoadView=DAT
 Airspace_AOR_Airports=LEDA
+CPDLC_Default=0
 
 [LERS_TWR]
 Window_NOTAM=0,30,300
@@ -1206,6 +1223,7 @@ Setup_ScreenLat=LERS
 Window_ASM=0,0,250
 Setup_LoadView=RST
 Airspace_AOR_Airports=LERS
+CPDLC_Default=0
 
 [LERS_A_TWR]
 Window_NOTAM=0,30,300
@@ -1215,6 +1233,25 @@ Setup_ScreenLat=LERS
 Window_ASM=0,0,250
 Setup_LoadView=RST
 Airspace_AOR_Airports=LERS
+CPDLC_Default=0
+
+[LEVC_DEL]
+Setup_ScreenLat=LEVC
+Window_CPDLC_Current=3,1545,0
+Window_CPDLC_Setting=3,0,250
+Window_NOTAM=0,30,300
+Window_ASM=0,0,250
+Airspace_AOR_Airports=LEVC
+CPDLC_Default=0
+
+[LEVC_GND]
+Setup_ScreenLat=LEVC
+Window_CPDLC_Current=3,1545,0
+Window_CPDLC_Setting=3,0,250
+Window_NOTAM=0,30,300
+Window_ASM=0,0,250
+Airspace_AOR_Airports=LEVC
+CPDLC_Default=0
 
 [LEVC_TWR]
 Setup_ScreenLat=LEVC
@@ -1223,6 +1260,7 @@ Window_CPDLC_Setting=3,0,250
 Window_NOTAM=0,30,300
 Window_ASM=0,0,250
 Airspace_AOR_Airports=LEVC
+CPDLC_Default=0
 
 [LEAL]
 STCA_Floor=1192
