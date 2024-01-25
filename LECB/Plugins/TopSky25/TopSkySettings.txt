@@ -1241,6 +1241,7 @@ Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,250
 Window_NOTAM=0,30,300
 Window_ASM=0,0,250
+Setup_LoadView=VCG
 Airspace_AOR_Airports=LEVC
 CPDLC_Default=0
 
@@ -1250,6 +1251,7 @@ Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,250
 Window_NOTAM=0,30,300
 Window_ASM=0,0,250
+Setup_LoadView=VCG
 Airspace_AOR_Airports=LEVC
 CPDLC_Default=0
 
@@ -1259,6 +1261,7 @@ Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,250
 Window_NOTAM=0,30,300
 Window_ASM=0,0,250
+Setup_LoadView=VCT
 Airspace_AOR_Airports=LEVC
 CPDLC_Default=0
 
