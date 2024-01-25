@@ -536,6 +536,7 @@ Shortcut_TSA=0x00
 
 RDF_Mode=-1
 
+Window_NOTAM=0,30,300
 Window_ASM=1,0,250,550,200
 Window_RawVideoControl=0,550
 
@@ -573,9 +574,9 @@ WXR_Longitude_Min=-14.1
 WXR_Zoom=4
 Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,500
-Window_NOTAM=0,30,300
 Setup_ScreenLat=LEMD
 Setup_LoadView=ALL
+Window_ASM=0,0,250
 
 [LECM_CTR]
 STCA_Floor=3800
@@ -592,9 +593,9 @@ HTTP_GRIB_Longitude_Max=1
 HTTP_GRIB_Longitude_Min=-15
 Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,500
-Window_NOTAM=0,30,300
 Setup_ScreenLat=LEMD
 Setup_LoadView=CM
+Window_ASM=0,0,250
 
 [LECM_R1_CTR]
 STCA_Floor=2600
@@ -611,9 +612,9 @@ HTTP_GRIB_Longitude_Max=0
 HTTP_GRIB_Longitude_Min=-15
 Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,500
-Window_NOTAM=0,30,300
 Setup_ScreenLat=LEMD
 Setup_LoadView=R1
+Window_ASM=0,0,250
 
 [LECM_SAI_CTR]
 STCA_Floor=2300
@@ -630,9 +631,9 @@ HTTP_GRIB_Longitude_Max=-3
 HTTP_GRIB_Longitude_Min=-14
 Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,500
-Window_NOTAM=0,30,300
 Setup_ScreenLat=LEMD
 Setup_LoadView=SAI
+Window_ASM=0,0,250
 
 [LECM_BDP_CTR]
 HTTP_GRIB_Latitude_Max=47
@@ -641,9 +642,9 @@ HTTP_GRIB_Longitude_Max=1
 HTTP_GRIB_Longitude_Min=-15
 Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,500
-Window_NOTAM=0,30,300
 Setup_ScreenLat=LEMD
 Setup_LoadView=BDP
+Window_ASM=0,0,250
 
 [LECM_R2_CTR]
 STCA_Floor=3000
@@ -653,9 +654,9 @@ HTTP_GRIB_Longitude_Max=1
 HTTP_GRIB_Longitude_Min=-15
 Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,500
-Window_NOTAM=0,30,300
 Setup_ScreenLat=LEMD
 Setup_LoadView=R2
+Window_ASM=0,0,250
 
 [LECM_ZMI_CTR]
 STCA_Floor=3800
@@ -672,9 +673,9 @@ HTTP_GRIB_Longitude_Max=-3
 HTTP_GRIB_Longitude_Min=-8
 Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,500
-Window_NOTAM=0,30,300
 Setup_ScreenLat=LEMD
 Setup_LoadView=ZMI
+Window_ASM=0,0,250
 
 [LECM_TLI_CTR]
 STCA_Floor=3000
@@ -684,9 +685,9 @@ HTTP_GRIB_Longitude_Max=1
 HTTP_GRIB_Longitude_Min=-15
 Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,500
-Window_NOTAM=0,30,300
 Setup_ScreenLat=LEMD
 Setup_LoadView=TLI
+Window_ASM=0,0,250
 
 [LECM_CZI_CTR]
 STCA_Floor=1900
@@ -696,29 +697,29 @@ HTTP_GRIB_Longitude_Max=1
 HTTP_GRIB_Longitude_Min=-15
 Window_CPDLC_Current=3,1545,0
 Window_CPDLC_Setting=3,0,500
-Window_NOTAM=0,30,300
 Setup_ScreenLat=LEMD
 Setup_LoadView=CZI
+Window_ASM=0,0,250
 
 [_APP]
 Window_CPDLC_Current=1,1545,0
-Window_CPDLC_Setting=1,1,500
-Window_NOTAM=0,30,300
+Window_CPDLC_Setting=1,0,500
+Window_ASM=0,0,250
 
 [F_APP]
 Window_CPDLC_Current=0,1545,0
-Window_CPDLC_Setting=0,1,500
-Window_NOTAM=0,30,300
+Window_CPDLC_Setting=0,0,500
+Window_ASM=0,0,250
 
 [_TWR]
-Window_CPDLC_Current=0,1545,0
-Window_CPDLC_Setting=1,1,500
-Window_NOTAM=0,30,300
+Window_CPDLC_Current=3,1545,0
+Window_CPDLC_Setting=3,0,500
+Window_ASM=0,0,250
 
 [_DEL]
-Window_CPDLC_Current=1,1545,0
-Window_CPDLC_Setting=1,1,500
-Window_NOTAM=0,30,300
+Window_CPDLC_Current=3,1545,0
+Window_CPDLC_Setting=3,0,500
+Window_ASM=0,0,250
 
 [LEMD]
 STCA_Floor=3000
