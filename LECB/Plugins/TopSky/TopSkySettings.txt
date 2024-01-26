@@ -276,8 +276,6 @@ Label_DAPs_Prefix=$
 Label_COP_MaxChars=3
 Menu_DAPs=1
 
-
-
 System_GS_DeleteMinMax=1
 System_LocalCSfirst=1
 System_RepHdg_Correction=0

@@ -33,7 +33,7 @@
         {
           "id": "5fd2f45a-8164-41a6-b791-52c57751e487",
           "name": "WEST",
-          "airportConditions": "DEPARTURE RWY 28. ARRIVAL RWY 28. EXPECT VOR Z APPROACH RWY 28.",
+          "airportConditions": "DEPARTURE RWY 28. ARRIVAL RWY 28. EXPECT RNP Z APPROACH RWY 28.",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -1062,7 +1062,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 128750000,
+      "frequency": 128755000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "AU Female"
@@ -1393,7 +1393,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 119800000,
+      "frequency": 119805000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "UK Male"
@@ -1725,7 +1725,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 129150000,
+      "frequency": 129155000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "AU Female"
@@ -3053,7 +3053,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 121075000,
+      "frequency": 121080000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "AU Female"

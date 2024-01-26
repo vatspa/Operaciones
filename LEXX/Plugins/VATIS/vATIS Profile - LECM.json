@@ -665,7 +665,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 120625000,
+      "frequency": 120630000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "AU Female"
@@ -1634,7 +1634,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 125650000,
+      "frequency": 125655000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "AU Female"
@@ -3280,7 +3280,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 127525000,
+      "frequency": 127530000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "AU Female"
@@ -3942,7 +3942,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 118175000,
+      "frequency": 118180000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "AU Female"

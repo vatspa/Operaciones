@@ -1,4 +1,0 @@
-[_CTR]
-Window_CPDLC_Current=3,1400,0
-Window_CPDLC_Setting=3,0,250
-Window_NOTAM=0,30,300
