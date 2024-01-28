@@ -53,8 +53,7 @@ Plugins	Plugin10	\LEXX\Plugins\MAESTRO\MAESTRO.dll
 Plugins	Plugin10Display0	Standard ES radar screen
 Plugins	Plugin11	\LEXX\Plugins\DiscordEuroscope\DiscordEuroscope.dll
 Plugins	Plugin11Display0	Standard ES radar screen
-RecentFiles	Recent1	
-ASRFastKeys	1	
+RecentFiles	Recent1	\LECM\ASR\LECM.asr
 Sounds	Sound0	\LEXX\Sounds\handoff_request.wav
 Sounds	Sound1	\LEXX\Sounds\handoff_accept.wav
 Sounds	Sound2	\LEXX\Sounds\conflict_alert.wav
@@ -74,46 +73,4 @@ Sounds	Sound15	\LEXX\Sounds\new_atis.wav
 Sounds	Sound16	\LEXX\Sounds\handoff_refused.wav
 Sounds	Sound17	\LEXX\Sounds\pointout.wav
 Sounds	Sound18	\LEXX\Sounds\startup.wav
-LastSession	server	
-Settings	sector	
-LastSession	realname	
-LastSession	certificate	
-LastSession	password	
 LastSession	server	AUTOMATIC
-TeamSpeakVccs	Ts3NickName	
-LastSession	atis_freq4	
-LastSession	connecttype	
-LastSession	callsign	
-LastSession	facility	
-LastSession	rating	
-LastSession	tovatsim	
-LastSession	range	
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
-LastSession	scenario	
-RecentFiles	Recent2	
-RecentFiles	Recent3	
-RecentFiles	Recent4	
-RecentFiles	Recent5	
-RecentFiles	Recent6	
-Settings	AselKey	
-Settings	FreqKey	
-ASRFastKeys	2	
-ASRFastKeys	3	
-ASRFastKeys	4	
-TeamSpeakVccs	Ts3G2APtt	
-TeamSpeakVccs	Ts3G2GPtt	
-TeamSpeakVccs	PlaybackMode	
-TeamSpeakVccs	PlaybackDevice	
-TeamSpeakVccs	CaptureMode	
-TeamSpeakVccs	CaptureDevice	
-TeamSpeakVccs	Ts3DialogLeft	0
-TeamSpeakVccs	Ts3DialogTop	0
-TeamSpeakVccs	Ts3DialogRight	750
-TeamSpeakVccs	Ts3DialogBottom	600
-RecentFiles	Recent7	
-TeamSpeakVccs	TsVccsMiniControlX	1310
-TeamSpeakVccs	TsVccsMiniControlY	24
-LastSession	atis2	
-LastSession	atis3	
-LastSession	atis4	
