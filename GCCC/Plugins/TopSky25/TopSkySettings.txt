@@ -524,7 +524,7 @@ FlightLeg_Label_Time=1
 FlightLeg_Label_Point=1
 FlightLeg_Label_DIST=1
 FlightLeg_Label_RFL=1
-FlightLeg_Label_SCFL=0
+FlightLeg_Label_SCFL=1
 FlightLeg_LineWidth=0
 FlightLeg_Potential_Predicted=1
 FlightLeg_Potential_Risk=1
@@ -540,19 +540,27 @@ Shortcut_TSA=0x00
 
 RDF_Mode=-1
 
-Window_ASM=1,0,365
+Window_ASM=1,0,250,550,200
 Window_RawVideoControl=0,550
 Window_NOTAM=0
 
 //Maps Shortcuts
 Shortcut_Map_Target=1,GCCC\TAXILINES
 Shortcut_Map_Target=2,GCCC\STANDLINES
-Shortcut_Map_Target=3,GCCC\ATCSMAC
-Shortcut_Map_Target=4,GCCC\FAUNA
+Shortcut_Map_Target=3,GCCC\HOLDS
+Shortcut_Map_Target=0,GCCC\ATCSMAC
+Shortcut_Map_Target=9,GCCC\FAUNA
 
 //Weather Radar Settings
+WXR_Latitude=26
+WXR_Longitude=-16
+WXR_Latitude_Max=35
+WXR_Latitude_Min=17
+WXR_Longitude_Max=-8.6
+WXR_Longitude_Min=-25
 WXR_Brightness=20
 WXR_Gain=100
+WXR_Zoom=4
 WXR_ImageSize=512
 
 [TWR]
