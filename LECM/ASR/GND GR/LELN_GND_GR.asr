@@ -3,23 +3,9 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Free Text:LELN STANDS\1:freetext
-Free Text:LELN STANDS\17:freetext
-Free Text:LELN STANDS\2:freetext
-Free Text:LELN STANDS\3:freetext
-Free Text:LELN STANDS\4:freetext
-Free Text:LELN STANDS\5:freetext
-Free Text:LELN STANDS\6:freetext
-Free Text:LELN STANDS\7:freetext
-Free Text:LELN STANDS\8:freetext
-Free Text:LELN TAXIWAYS\A:freetext
-Free Text:LELN TAXIWAYS\B:freetext
-Free Text:LELN TAXIWAYS\C:freetext
 Geo:LELN Groundlayout GND:
-Geo:LELN Groundlayout STANDS:
-Geo:LELN Groundlayout TAXILINES:
 SHOWC:1
-SHOWSB:1
+SHOWSB:0
 BELOW:0
 ABOVE:0
 LEADER:5
@@ -27,12 +13,12 @@ SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:0
 SIMULATION_MODE:1
-DISABLEPANNING:0
-DISABLEZOOMING:0
-DisplayRotation:0.00000
-TAGFAMILY:SACTA - GND-3
-WINDOWAREA:42.575564:-5.690288:42.608311:-5.609705
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:43.60000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:42.584256:-5.674600:42.601770:-5.633342
 PLUGIN:Ground Radar plugin:AirportElevation:3006
 PLUGIN:Ground Radar plugin:AirportRadius:1.2
 PLUGIN:Ground Radar plugin:GroundMode:LELN
-PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:NoDraw:1+
