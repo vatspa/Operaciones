@@ -338,7 +338,7 @@
         "low": "A",
         "high": "Z"
       },
-      "frequency": 119050000,
+      "frequency": 119055000,
       "atisVoice": {
         "useTextToSpeech": true,
         "voice": "AU Female"
