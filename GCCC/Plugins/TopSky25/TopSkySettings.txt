@@ -563,46 +563,29 @@ WXR_Gain=100
 WXR_Zoom=4
 WXR_ImageSize=512
 
-[TWR]
-Window_CPDLC_Setting=3,0,365
-
-[GND]
-Window_CPDLC_Setting=3,0,365
-
-[DEL]
-Window_CPDLC_Setting=3,0,365
-
 [GCLA]
 STCA_Floor=1108
-Setup_LoadView=LAT
 
 [GCHI]
 STCA_Floor=1106
-Setup_LoadView=HIT
 
 [GCGM]
 STCA_Floor=1716
-Setup_LoadView=GMI
 
 [GCTS]
 STCA_Floor=1209
-Setup_LoadView=TST
 
 [GCXO]
 STCA_Floor=3077
-Setup_LoadView=XOT
 
 [GCLP]
 STCA_Floor=1077
-Setup_LoadView=LPT
 
 [GCFV]
 STCA_Floor=1083
-Setup_LoadView=FVT
 
 [GCRR]
 STCA_Floor=1047
-Setup_LoadView=RRT
 
 [GCCO_CTR]
 WXR_Latitude=23.4
