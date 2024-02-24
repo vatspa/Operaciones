@@ -303,10 +303,6 @@ PROFILE:LEMG_E_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LEMG]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEMG_W_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEMG]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:GECE_H_TWR:50:4
 ATIS2:$radioname
 ATIS3:vats.im/lexx
