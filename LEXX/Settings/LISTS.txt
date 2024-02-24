@@ -1,6 +1,6 @@
 SIL
 m_Visible:1
-m_X:1601
+m_X:1639
 m_Y:360
 m_LineNumber:10
 m_Resizable:1
@@ -29,7 +29,7 @@ m_Column:SI:5:1:64:20:0:0::::1:0.0
 END
 SEL
 m_Visible:1
-m_X:1315
+m_X:1387
 m_Y:45
 m_LineNumber:0
 m_Resizable:1
