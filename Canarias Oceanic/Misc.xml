@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Misc>
-  <RVSMBand Lower="29000" Upper="41000" />
-  <Transition Altitude="6000" />
-  <RVSMStatus FAAEquipment="L, W, Z" ICAOEquipment="W" />
-</Misc>
