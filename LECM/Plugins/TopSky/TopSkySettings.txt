@@ -287,7 +287,7 @@ MTCD_DeAcknowledge=1
 
 System_TrueColorMode=1
 System_UseReportedGS=1
-System_ASP_IasMach=27500
+System_ASP_IasMach=24500
 System_MetarSourceVATSIM=1
 System_TaxiTime=10
 System_FPASD=1
@@ -512,7 +512,7 @@ SAP_Buffer_Vert_U=1700
 Equip_RVSM=W
 
 FlightLeg_AssumeTime=5
-FlightLeg_AutoShow=0
+FlightLeg_AutoShow=1
 FlightLeg_Font=EuroScope
 FlightLeg_FontSize=11
 FlightLeg_FontStyle=0,0,0,0
