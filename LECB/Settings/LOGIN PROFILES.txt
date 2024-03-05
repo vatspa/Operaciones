@@ -139,10 +139,6 @@ PROFILE:LEGE_GND:20:3
 ATIS2:$radioname
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEGE_TWR:50:4
-ATIS2:$radioname
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEGE_A_TWR:50:4
 ATIS2:$radioname
 ATIS3:vats.im/lexx
@@ -195,10 +191,6 @@ PROFILE:LEMH_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LEMH]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEMH_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEMH]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEMH_A_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LEMH]
 ATIS3:vats.im/lexx
@@ -245,10 +237,6 @@ ATIS3:Covering Final sector - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LERI_TWR:50:4
 ATIS2:$radioname 
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LERS_TWR:50:4
-ATIS2:$radioname
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LERS_A_TWR:50:4
