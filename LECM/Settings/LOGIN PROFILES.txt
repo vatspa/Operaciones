@@ -147,10 +147,6 @@ PROFILE:LEMD_DW_DEP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEMD]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEGR_TWR:20:3
-ATIS2:$radioname - PDC/DCL Datalink [LEGR]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEMG_DEL:20:2
 ATIS2:$radioname - PDC/DCL Datalink [LEMG]
 ATIS3:vats.im/lexx
@@ -395,7 +391,7 @@ PROFILE:LETO_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LETO]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEVD_TWR:50:4
+PROFILE:LEVD_A_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LEVD]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
