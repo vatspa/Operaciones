@@ -147,10 +147,6 @@ PROFILE:LEMD_DW_DEP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEMD]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEGR_TWR:20:3
-ATIS2:$radioname - PDC/DCL Datalink [LEGR]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEMG_DEL:20:2
 ATIS2:$radioname - PDC/DCL Datalink [LEMG]
 ATIS3:vats.im/lexx
@@ -163,8 +159,24 @@ PROFILE:LEMG_E_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LEMG]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEMG_W_GND:20:3
+PROFILE:LEMG_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LEMG]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEMG_E_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LEMG]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEMG_APP:150:5
+ATIS2:$radioname - PDC/DCL Datalink [LEMG]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEMG_W_APP:150:5
+ATIS2:$radioname 
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEMG_F_APP:150:5
+ATIS2:$radioname 
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEAG_H_TWR:50:4
@@ -203,7 +215,19 @@ PROFILE:GEML_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [GEML]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:GEML_A_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [GEML]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEAB_GND:20:3
+ATIS2:$radioname - PDC/DCL Datalink [LEAB]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEAB_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LEAB]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEAB_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEAB]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
@@ -211,7 +235,15 @@ PROFILE:LEAM_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LEAM]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEAM_A_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LEAM]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEAS_GND:20:3
+ATIS2:$radioname - PDC/DCL Datalink [LEAS]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEAS_A_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LEAS]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
@@ -219,7 +251,23 @@ PROFILE:LEBB_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LEBB]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEBB_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LEBB]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEBB_APP:150:5
+ATIS2:$radioname - PDC/DCL Datalink [LEBB]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEBZ_GND:20:3
+ATIS2:$radioname - PDC/DCL Datalink [LEBZ]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEBZ_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LEBZ]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEBZ_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEBZ]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
@@ -227,7 +275,15 @@ PROFILE:LECO_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LECO]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LECO_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LECO]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECU_GND:20:3
+ATIS2:$radioname
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LECU_TWR:50:4
 ATIS2:$radioname
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
@@ -235,7 +291,15 @@ PROFILE:LEGA_GND:20:3
 ATIS2:$radioname
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEGA_TWR:50:4
+ATIS2:$radioname
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEGT_GND:20:3
+ATIS2:$radioname - PDC/DCL Datalink [LEGT]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEGT_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LEGT]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
@@ -243,7 +307,15 @@ PROFILE:LEJR_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LEJR]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEJR_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LEJR]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEPP_GND:20:3
+ATIS2:$radioname - PDC/DCL Datalink [LEPP]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEPP_A_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LEPP]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
@@ -251,7 +323,15 @@ PROFILE:LERJ_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LERJ]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LERJ_A_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LERJ]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LERT_GND:20:3
+ATIS2:$radioname
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LERT_TWR:50:4
 ATIS2:$radioname
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
@@ -259,7 +339,19 @@ PROFILE:LESA_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LESA]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LESA_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LESA]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LESA_APP:150:5
+ATIS2:$radioname - PDC/DCL Datalink [LESA]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LESO_GND:20:3
+ATIS2:$radioname - PDC/DCL Datalink [LESO]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LESO_A_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LESO]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
@@ -267,7 +359,19 @@ PROFILE:LEST_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LEST]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEST_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LEST]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LETO_GND:20:3
+ATIS2:$radioname - PDC/DCL Datalink [LETO]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LETO_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LETO]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LETO_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LETO]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
@@ -275,7 +379,15 @@ PROFILE:LEVT_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LEVT]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEVT_A_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LEVT]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEVX_GND:20:3
+ATIS2:$radioname - PDC/DCL Datalink [LEVX]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEVX_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LEVX]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
@@ -283,7 +395,23 @@ PROFILE:LEXJ_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LEXJ]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEXJ_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LEXJ]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEXJ_A_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LEXJ]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEZG_GND:20:3
+ATIS2:$radioname - PDC/DCL Datalink [LEZG]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEZG_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LEZG]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEZG_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEZG]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
@@ -291,64 +419,24 @@ PROFILE:LEZL_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LEZL]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEGR_TWR:50:4
+PROFILE:LEZL_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LEZL]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEZL_APT_APP:150:5
+ATIS2:$radioname - PDC/DCL Datalink [LEZL]
+ATIS3:vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEGR_GND:20:3
 ATIS2:$radioname - PDC/DCL Datalink [LEGR]
 ATIS3:vats.im/lexx - Procedural Tower GND/FL95
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEMG_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEMG]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEMG_E_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEMG]
-ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:GECE_H_TWR:50:4
 ATIS2:$radioname
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:GEML_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [GEML]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEAB_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEAB]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEAM_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEAM]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEAS_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEAS]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEBB_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEBB]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEBZ_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEBZ]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LECO_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LECO]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LECU_TWR:50:4
-ATIS2:$radioname
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEGA_TWR:50:4
-ATIS2:$radioname
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEGT_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEGT]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEJR_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEJR]
+PROFILE:LEGR_A_TWR:50:4
+ATIS2:$radioname - PDC/DCL Datalink [LEGR]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LELN_TWR:50:4
@@ -359,112 +447,20 @@ PROFILE:LEMO_TWR:50:4
 ATIS2:$radioname
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEPP_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEPP]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LERJ_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LERJ]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LERT_TWR:50:4
-ATIS2:$radioname
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LESA_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LESA]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LESO_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LESO]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEST_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEST]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LETL_TWR:50:4
 ATIS2:$radioname
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LETO_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LETO]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEVD_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LEVD]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEVT_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEVT]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEVX_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEVX]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEXJ_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEXJ]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEZG_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEZG]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEZL_TWR:50:4
-ATIS2:$radioname - PDC/DCL Datalink [LEZL]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEAB_APP:150:5
-ATIS2:$radioname - PDC/DCL Datalink [LEAB]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEBB_APP:150:5
-ATIS2:$radioname - PDC/DCL Datalink [LEBB]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEMG_APP:150:5
-ATIS2:$radioname - PDC/DCL Datalink [LEMG]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEMG_W_APP:150:5
-ATIS2:$radioname 
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEMG_F_APP:150:5
-ATIS2:$radioname 
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEBZ_APP:150:5
-ATIS2:$radioname - PDC/DCL Datalink [LEBZ]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LELN_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LELN]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LESA_APP:150:5
-ATIS2:$radioname - PDC/DCL Datalink [LESA]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECG_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LECG]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LETO_APP:150:5
-ATIS2:$radioname - PDC/DCL Datalink [LETO]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEXJ_APP:150:5
-ATIS2:$radioname - PDC/DCL Datalink [LEXJ]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEZG_APP:150:5
-ATIS2:$radioname - PDC/DCL Datalink [LEZG]
-ATIS3:vats.im/lexx
-ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEZL_APT_APP:150:5
-ATIS2:$radioname - PDC/DCL Datalink [LEZL]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 END
