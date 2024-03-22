@@ -11,6 +11,7 @@
 	<DefaultTaxiTime minutes="15" />
 	<RefreshTime seconds="20" />
 	<Debug mode="false" />
+	<vdgsFileType type="3"/>
 	<FlowRestrictions url="https://ecfmp.vatsim.net/api/v1/plugin" />
 	<ftpHost host="ftp.vatsimspain.es" />
 	<ftpUser user="aman_vatspa" />
