@@ -98,7 +98,7 @@ Color_WM_Bg=100,100,105
 Color_WM_Border=88,95,99
 Color_WM_Fg=180,184,181
 Color_WM_Frame=88,95,99
-Window_COTS_Pos=0,643
+Window_COTS_Pos=0,773
 Window_MAESTRO_Pos=0,300
 Window_MAESTRO_Size=525,630
 
