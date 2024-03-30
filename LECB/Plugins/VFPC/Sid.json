@@ -1580,7 +1580,7 @@
                "direction": "EVEN",
                "min_fl": 115,
                "max_fl": 195,
-               "destinations": ["LEGE"],
+               "destinations": ["LEGE","LEDA"],
                "airways": ["ARBEK N863"]
             },
             {
@@ -1810,6 +1810,24 @@
          ],
          "NATPI": [
             {
+               "direction": "EVEN",
+               "min_fl": 115,
+               "max_fl": 325,
+               "destinations": ["LSER","LSEZ","LSGB","LSGC","LSGE","LSGK","LSGN","LSGR","LSGS","LSGT","LSGY","LSEA","LSEC","LSEG","LSMP","LSTB","LSTO","LSTR","LSTS","LSTZ","LSGG","LSGL","LSGP","LFLI","LFHN"]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 115,
+               "max_fl": 345,
+               "destinations": ["LIME","LIMP","LIPE","LIPX","LIQS","LIRQ","LSZA","LSZL","LSZS","LFSB","LFST","LSZ","LSM","EDDS","EDNY","LF","EB","EDFH","EDDR","EDLN","EDRT","EDRZ","EHBK","ELLX","ETAD","ETAR","ETSB","LFJL"]
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 115,
+               "max_fl": 365,
+               "destinations": ["EDDF","EDDG","EDDL","EDFM","EDLP","EDLV","EDLW","EHAL","EHAM","EHBD","EHDL","EHDR","EHEH","EHGG","EHGR","EHHO","EHHV","EHKD","EHLE","EHLW","EHMZ","EHOW","EHRD","EHSE","EHST","EHTE","EHTW","EHTX","EHVK","EHWO"]
+            },
+            {
                "direction": "ODD",
                "min_fl": 195,
                "max_fl": 660
@@ -1827,11 +1845,11 @@
                "direction": "ODD",
                "min_fl": 145,
                "max_fl": 335,
-               "destinations": ["LEBB","LEBG","LEPP","LERJ","LESO","LEVT","LEXJ","LECO","LEST","LEVX","LEAS","LEVD","LELN","LPPR"],
+               "destinations": ["LECO","LEST","LEVX","LEAS","LEVD","LELN","LPPR"],
                "airways": ["POSSY M601"]
             },
             {
-               "direction": "EVEN",
+               "direction": "ODD",
                "min_fl": 145,
                "max_fl": 660,
                "airways": ["POSSY M601"]
@@ -1841,22 +1859,6 @@
                "min_fl": 105,
                "max_fl": 145,
                "airways": ["POSSY P152"]
-            }
-         ],
-         "RUBOT": [
-            {
-               "direction": "ANY",
-               "min_fl": 60,
-               "max_fl": 195,
-               "destinations": ["LEBL"]
-            }
-         ],
-		  	"RULOS": [
-            {
-               "direction": "ANY",
-               "min_fl": 60,
-               "max_fl": 195,
-               "destinations": ["LEBL"]
             }
          ],
          "VIBOK": [
