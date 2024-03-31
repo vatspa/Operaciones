@@ -558,6 +558,8 @@ WXR_Brightness=20
 WXR_Gain=100
 WXR_ImageSize=512
 WXR_Zoom=5
+WXR_DisplayType=0
+
 HTTP_GRIB_Latitude_Max=47
 HTTP_GRIB_Latitude_Min=34
 HTTP_GRIB_Longitude_Max=1
