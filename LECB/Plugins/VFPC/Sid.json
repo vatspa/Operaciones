@@ -489,17 +489,38 @@
       "sids": {
 		 	"MATEX": [
             {
-               "direction": "EVEN"
+             "direction": "EVEN"
+            "min_fl": 95,
+			   "max_fl": 305,
+			   "airways": ["MATEX N608"]
+            },
+            {
+             "direction": "EVEN"
+            "min_fl": 95,
+			   "max_fl": 660,
+			   "airways": ["MATEX M182"]
+            },
+            {
+             "direction": "EVEN"
+            "min_fl": 145,
+			   "max_fl": 660,
+			   "airways": ["MATEX Z475"]
             }
          ],
 		 	"NAVAR": [
             {
                "direction": "EVEN"
+            "min_fl": 95,
+			   "max_fl": 660,
+			   "airways": ["NAVAR T412"]
             }
          ],
 		  	"TATOS": [
             {
-               "direction": "ANY"
+               "direction": "ODD"
+               "min_fl": 145,
+			   "max_fl": 660,
+			   "airways": ["TATOS N860"]
             }
          ]
       }
@@ -510,37 +531,31 @@
 		 	"ALOSU": [
          {
             "direction": "ODD",
-			   "min_fl": 145,
+			   "min_fl": 105,
 			   "max_fl": 295,
 			   "destinations": ["LEBB","LEBG","LEPP","LERJ","LESO","LEVT","LEXJ","LECU","LEGT","LEMD","LETO","LEVS"],
-			   "airways": ["ALOSU UM601"]
-            },
-			{
-            "direction": "ODD",
-			   "min_fl": 145,
-			   "max_fl": 335,
-			   "destinations": ["LEAS","LEVD","LELN","LPPR","LECO","LEST","LEVX"],
-			   "airways": ["ALOSU UM601"]
-            },
-			{
-            "direction": "ODD",
-			   "min_fl": 145,
-			   "max_fl": 660,
-			   "airways": ["ALOSU UM601"]
+			   "airways": ["ALOSU M601"]
             },
 			{
             "direction": "ODD",
 			   "min_fl": 105,
-			   "max_fl": 145,
-			   "airways": ["ALOSU G23"]
+			   "max_fl": 335,
+			   "destinations": ["LEAS","LEVD","LELN","LPPR","LECO","LEST","LEVX"],
+			   "airways": ["ALOSU M601"]
+            },
+			{
+            "direction": "ODD",
+			   "min_fl": 105,
+			   "max_fl": 660,
+			   "airways": ["ALOSU M601"]
             }
          ],
 		 	"BARBO": [
             {
             "direction": "EVEN",
 			   "min_fl": 135,
-			   "max_fl": 660,
-			   "airways": ["BARBO UN608"]
+			   "max_fl": 305,
+			   "airways": ["BARBO N608"]
 			   }
 			],
 		  	"OSVAK": [
