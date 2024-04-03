@@ -33,7 +33,7 @@ ATIS3:My active sector vats.im/lexx (BCN TMA up to FL195)
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECB_RE_CTR:400:6
 ATIS2:$radioname - CPDLC [CBRE]
-ATIS3:My active sector vats.im/lexx (Not covering BCN TMA)
+ATIS3:My active sector (Not covering BCN TMA)
 ATIS4:charts aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LECB_PPI_CTR:400:6
 ATIS2:$radioname - CPDLC [CPPI]
@@ -235,13 +235,17 @@ PROFILE:LEPA_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEPA]
 ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
-PROFILE:LEPA_E_APP:150:5
+PROFILE:LEPA_L2_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEPA]
 ATIS3:Covering East sector - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEPA_F_APP:150:5
 ATIS2:$radioname
 ATIS3:Covering Final sector - vats.im/lexx
+ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
+PROFILE:LEPA_DEP:150:5
+ATIS2:$radioname - PDC/DCL Datalink [LEPA]
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LERI_TWR:50:4
 ATIS2:$radioname 
