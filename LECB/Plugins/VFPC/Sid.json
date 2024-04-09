@@ -910,13 +910,6 @@
             {
             "direction": "EVEN",
 			   "min_fl": 95,
-			   "max_fl": 145,
-			   "airways": ["LUNIK A25"],
-			   "destinations": ["LEBL","LELL"]
-			},
-         {
-            "direction": "EVEN",
-			   "min_fl": 145,
 			   "max_fl": 195,
 			   "airways": ["LUNIK Q255"],
 			   "destinations": ["LEBL","LELL"]
@@ -925,51 +918,39 @@
 		  	"SARGO": [
             {
             "direction": "EVEN",
-			   "min_fl": 145,
-			   "max_fl": 245,
-			   "destinations": ["LEGE"],
-            "airways": ["SARGO UL16"]
-            },
-            {
-            "direction": "EVEN",
-			   "min_fl": 145,
+			   "min_fl": 95,
 			   "max_fl": 345,
 			   "destinations": ["LFBD","LIMA","LIMB","LIMC","LIMF","LIMG","LIMJ","LIML","LIMN","LIMS","LIMW","LIMZ","LSZA","LSZL","LSZS","LFBA","LFBP","LFBT","LFCN","LFDH","LFBF","LFBO","LFBR","LFCI","LFCK","LFCL","LFCQ","LFCX","LFDB","LFDG","LFDJ","LFIR","LFIT","LFMG","LFMK","LFMW","LIRP","LFSB","LFST","LSZ","LSM","EDDS","EDNY"],
-            "airways": ["SARGO UL16"]
-            },
-            {
-            "direction": "EVEN",
-			   "min_fl": 145,
-			   "max_fl": 660,
-			   "airways": ["SARGO UL16"]
+            "airways": ["SARGO L16"]
             },
             {
             "direction": "EVEN",
 			   "min_fl": 95,
-			   "max_fl": 145,
-			   "airways": ["SARGO A67"]
+			   "max_fl": 660,
+			   "airways": ["SARGO L16"]
             }
          ],
 		  	"MEROS": [
            {
             "direction": "EVEN",
-			   "min_fl": 145,
+			   "min_fl": 95,
 			   "max_fl": 345,
 			   "destinations": ["LFBD","LIMA","LIMB","LIMC","LIMF","LIMG","LIMJ","LIML","LIMN","LIMS","LIMW","LIMZ","LSZA","LSZL","LSZS","LFBA","LFBP","LFBT","LFCN","LFDH","LFBF","LFBO","LFBR","LFCI","LFCK","LFCL","LFCQ","LFCX","LFDB","LFDG","LFDJ","LFIR","LFIT","LFMG","LFMK","LFMW","LIRP","LFSB","LFST","LSZ","LSM","EDDS","EDNY"],
-            "airways": ["MEROS UN853"]
+            "airways": ["MEROS N853"]
             },
-           {
-            "direction": "EVEN",
-			   "min_fl": 145,
-			   "max_fl": 660,
-			   "airways": ["MEROS UN853"]
-			},
 			{
             "direction": "EVEN",
 			   "min_fl": 95,
-			   "max_fl": 145,
-			   "airways": ["MEROS B16"]
-            }
+			   "max_fl": 245,
+			   "destinations": ["LEGE","LEAP","EG","EI"],
+			   "airways": ["MEROS Z82"]
+            },
+            {
+            "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 660,
+			   "airways": ["MEROS N853"]
+			},
          ],
 		  	"ISTER": [
             {
@@ -984,21 +965,15 @@
             "direction": "EVEN",
 			   "min_fl": 195,
 			   "max_fl": 500,
-			   "airways": ["MORSS UM603"]
-            },
-			{
-            "direction": "EVEN",
-			   "min_fl": 115,
-			   "max_fl": 195,
 			   "airways": ["MORSS M603"]
-            }
+            },
          ],
 		 	"MAMEB": [
             {
                "direction": "ODD",
             "min_fl": 50,
 			   "max_fl": 135,
-			   "destinations": ["LEPA"]
+			   "destinations": ["LEPA","LESB","LESJ"]
             }
          ],
 		 	"NEVIC": [
@@ -1012,116 +987,86 @@
 		 	"MJV": [
             {
 			   "direction": "EVEN",
-			   "min_fl": 145,
+			   "min_fl": 95,
 			   "max_fl": 245,
-			   "airways": ["MJV UN861"],
+			   "airways": ["MJV N861"],
 			   "destinations":["LEDA","LEZG"]
 			},
             {
 			   "direction": "EVEN",
-			   "min_fl": 145,
+			   "min_fl": 95,
 			   "max_fl": 345,
-			   "airways": ["MJV UN861"],
+			   "airways": ["MJV N861"],
 			   "destinations":["LFBD","LIMA","LIMB","LIMC","LIMF","LIMG","LIMJ","LIML","LIMN","LIMS","LIMW","LIMZ","LSZA","LSZL","LSZS","LFBA","LFBP","LFBT","LFCN","LFDH","LFBF","LFBO","LFBR","LFCI","LFCK","LFCL","LFCQ","LFCX","LFDB","LFDG","LFDJ","LFIR","LFIT","LFMG","LFMK","LFMW","LIRP","LFSB","LFST","LSZ","LSM","EDDS","EDNY"]
 			},
 			{
             "direction": "ODD",
 			   "min_fl": 145,
 			   "max_fl": 660,
-			   "airways": ["MJV UN861 SADAF"]
+			   "airways": ["MJV N861 SADAF"]
          },
          {
             "direction": "EVEN",
 			   "min_fl": 145,
 			   "max_fl": 660,
-			   "airways": ["MJV UN861"]
+			   "airways": ["MJV N861"]
          },
          {
-            "direction": "ODD",
-			   "min_fl": 145,
-			   "max_fl": 660,
-			   "airways": ["MJV UN859"]
-         },
-			{
-            "direction": "EVEN",
-			   "min_fl": 145,
-			   "max_fl": 660,
-			   "airways": ["MJV UN863"]
-         },
-         {
-            "direction": "ODD",
-			   "min_fl": 145,
-			   "max_fl": 660,
-			   "airways": ["MJV UL129"]
-         },
-			{
-            "direction": "EVEN",
-			   "min_fl": 95,
-			   "max_fl": 145,
-			   "airways": ["MJV A29"]
-            },
-            {
             "direction": "ODD",
 			   "min_fl": 95,
-			   "max_fl": 145,
-			   "airways": ["MJV A6"]
-            }
+			   "max_fl": 660,
+			   "airways": ["MJV N859"]
+         },
+         {
+            "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 660,
+			   "airways": ["MJV L129"]
+         }
          ],
 		 	"EDULI": [
 			{
 			   "direction": "ODD",
 			   "min_fl": 245,
 			   "max_fl": 660,
-			   "airways": ["EDULI UM603"]
+			   "airways": ["EDULI M603"]
             }
          ],
 		 	"EPAMA": [
             {
 			   "direction": "ODD",
-			   "min_fl": 145,
+			   "min_fl": 95,
 			   "max_fl": 245,
-			   "airways": ["EPAMA UN733"],
+			   "airways": ["EPAMA N733"],
 			   "destinations": ["LEVC"]
             },
 			{
 			   "direction": "ODD",
-			   "min_fl": 145,
+			   "min_fl": 95,
 			   "max_fl": 315,
-			   "airways": ["EPAMA UN733"],
+			   "airways": ["EPAMA N733"],
 			   "destinations": ["LECU","LEGT","LEMD","LETO","LEVS"]
             },
 			{
 			   "direction": "ODD",
-			   "min_fl": 145,
-			   "max_fl": 660,
-			   "airways": ["EPAMA UN733"]
-            },
-			{
-            "direction": "ODD",
 			   "min_fl": 95,
-			   "max_fl": 145,
-			   "airways": ["EPAMA A33"]
+			   "max_fl": 660,
+			   "airways": ["EPAMA N733"]
             }
          ],
 		 	"BAVER": [
             {
 			   "direction": "ODD",
-			   "min_fl": 145,
+			   "min_fl": 95,
 			   "max_fl": 245,
-			   "airways": ["BAVER UM603"],
+			   "airways": ["BAVER M603"],
 			   "destinations": ["LEAL","LELC","LEMI"]
             },
 			{
 			   "direction": "ODD",
-			   "min_fl": 145,
-			   "max_fl": 660,
-			   "airways": ["BAVER UM603"]
-            },
-			{
-            "direction": "ODD",
 			   "min_fl": 95,
-			   "max_fl": 145,
-			   "airways": ["BAVER R59"]
+			   "max_fl": 660,
+			   "airways": ["BAVER M603"]
             }
          ]
       }
