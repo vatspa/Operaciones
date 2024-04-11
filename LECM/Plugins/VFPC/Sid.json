@@ -1336,7 +1336,7 @@
                "direction": "EVEN",
                "min_fl": 195,
                "max_fl": 660,
-               "airways": ["ARBEK N726"]
+               "airways": ["ARBEK N725"]
             }
          ],
          "BCN": [
@@ -1598,26 +1598,21 @@
             },
 			{
             "direction": "ODD",
-			   "min_fl": 105,
-			   "max_fl": 145,
-			   "airways": ["ALT B46"]
+			   "min_fl": 95,
+			   "max_fl": 660,
+			   "airways": ["ALT N851"]
             },
-			{
-            "direction": "ODD",
-			   "min_fl": 145,
-			   "airways": ["ALT UN851","ALT UL150"]
+         {
+            "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 660,
+			   "airways": ["ALT L150"]
             },
 			{
             "direction": "EVEN",
 			   "min_fl": 95,
-			   "max_fl": 145,
-			   "airways": ["ALT B112"]
-            },
-			{
-            "direction": "EVEN",
-			   "min_fl": 145,
 			   "max_fl": 285,
-			   "airways": ["ALT UL112"]
+			   "airways": ["ALT L112"]
             },
 			{
             "direction": "ODD",
