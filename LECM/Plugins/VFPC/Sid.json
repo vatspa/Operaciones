@@ -1666,16 +1666,11 @@
             }
          ],
          "NARGO": [
-            {
+         	{
             "direction": "ODD",
 			   "min_fl": 95,
-			   "max_fl": 145,
-			   "airways": ["NARGO G850"]
-            },
-			{
-            "direction": "ODD",
-			   "min_fl": 145,
-			   "airways": ["NARGO UN860"]
+			   "max_fl": 660,
+			   "airways": ["NARGO N860"]
             }
          ],
          "ODSEN": [
@@ -1684,12 +1679,13 @@
 			   "min_fl": 95,
 			   "max_fl": 165,
 			   "destinations": ["LEIB"],
-			   "airways": ["ODSEN UZ224"]
+			   "airways": ["ODSEN Z224"]
             },
 			{
             "direction": "EVEN",
 			   "min_fl": 95,
-			   "airways": ["ODSEN UZ224"]
+			   "max_fl": 660,
+			   "airways": ["ODSEN Z224"]
             }
          ],
          "ORVUS": [
@@ -1698,12 +1694,13 @@
 			   "min_fl": 95,
 			   "max_fl": 245,
 			   "destinations": ["LEPA","LEMH"],
-			   "airways": ["ORVUS UM871"]	
+			   "airways": ["ORVUS M871"]	
             },
 			{
             "direction": "EVEN",
 			   "min_fl": 95,
-			   "airways": ["ORVUS UM871"]	
+			   "max_fl": 660,
+			   "airways": ["ORVUS M871"]	
             }
          ],
 		 	"SOPET": [
@@ -1711,62 +1708,62 @@
             "direction": "EVEN",
 			   "min_fl": 95,
 			   "max_fl": 285,
-			   "airways": ["SOPET UN608"],
+			   "airways": ["SOPET N608"],
 			   "destinations": ["LEBL","LEDA","LERS","LEGE","LELL"]
+            },
+         {
+            "direction": "EVEN",
+			   "min_fl": 95,
+			   "max_fl": 345,
+			   "destinations": ["LEBB","LEBG","LEPP","LERJ","LESO","LEVT","LEXJ"],
+			   "airways": ["SOPET N608"]
             },
 			{
             "direction": "EVEN",
 			   "min_fl": 145,
 			   "max_fl": 285,
-			   "airways": ["SOPET UM445","SOPET UM985"],
+			   "airways": ["SOPET M445","SOPET M985"],
 			   "destinations": ["LEBL","LEDA","LERS","LEGE","LELL"]
             },
 			{
             "direction": "EVEN",
-			   "min_fl": 145,
+			   "min_fl": 95,
 			   "max_fl": 305,
-			   "airways": ["SOPET UM985"],
+			   "airways": ["SOPET M985"],
 			   "destinations": ["LFMP"]
             },
 			{
             "direction": "EVEN",
-			   "min_fl": 145,
+			   "min_fl": 95,
 			   "max_fl": 365,
-			   "airways": ["SOPET UM985"],
+			   "airways": ["SOPET M985"],
 			   "destinations": ["LS","LFSB","EDNY"]
             },
 			{
             "direction": "EVEN",
 			   "min_fl": 95,
 			   "max_fl": 660,
-			   "airways": ["SOPET UN608"]
+			   "airways": ["SOPET N608"]
             },
 			{
             "direction": "EVEN",
 			   "min_fl": 145,
 			   "max_fl": 660,
-			   "airways": ["SOPET UM445","UM985"]
+			   "airways": ["SOPET M445"]
             },
 			{
             "direction": "EVEN",
 			   "min_fl": 95,
-			   "max_fl": 145,
-			   "airways": ["SOPET B28"]
-            },
-			{
-            "direction": "EVEN",
-			   "min_fl": 95,
-			   "max_fl": 345,
-			   "destinations": ["LEBB","LEBG","LEPP","LERJ","LESO","LEVT","LEXJ"],
-			   "airways": ["SOPET UN608"]
+			   "max_fl": 660,
+			   "airways": ["SOPET M985"]
             }
          ],
 		 	"TATOS": [
             {
             "direction": "EVEN",
-			   "min_fl": 100,
-			   "max_fl": 145,
-			   "airways": ["TATOS A34"]
+			   "min_fl": 145,
+			   "max_fl": 660,
+			   "airways": ["TATOS N860"]
 			}
          ]
 		 }
