@@ -1616,73 +1616,53 @@
             },
 			{
             "direction": "ODD",
-			   "min_fl": 75,
-			   "max_fl": 145,
-			   "airways": ["ALT A31","ALT A34"]
-            },
-			{
-            "direction": "ODD",
 			   "min_fl": 95,
-			   "max_fl": 145,
-			   "airways": ["ALT W810"]
+			   "max_fl": 285,
+			   "airways": ["ALT Y810"]
             }
          ],
 		 	"ASTRO": [
             {
             "direction": "EVEN",
 			   "min_fl": 145,
-			   "airways": ["ASTRO UL150"]
+			   "max_fl": 660,
+			   "airways": ["ASTRO L150"]
             },
 			{
             "direction": "ODD",
 			   "min_fl": 145,
-			   "airways": ["ASTRO UM985"]
-            },
-			{
-            "direction": "ODD",
-			   "min_fl": 95,
-			   "max_fl": 145,
-			   "airways": ["ASTRO B28"]
+			   "max_fl": 660,
+			   "airways": ["ASTRO M985"]
             }
          ],
 		 	"CENTA": [
+			{
+            "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 305,
+			   "destinations": ["LECU","LEGT","LEMD","LETO","LEVS"],
+			   "airways": ["CENTA N733"]
+            },
+			{
+            "direction": "ODD",
+			   "min_fl": 95,
+			   "max_fl": 345,
+			   "destinations": ["LEBB","LEBG","LEPP","LERJ","LESO","LEVT","LEXJ"],
+			   "airways": ["CENTA N733"]
+            },
             {
             "direction": "ODD",
 			   "min_fl": 95,
-			   "max_fl": 145,
-			   "airways": ["CENTA A33"]
-            },
-			{
-            "direction": "ODD",
-			   "min_fl": 145,
-			   "max_fl": 305,
-			   "destinations": ["LECU","LEGT","LEMD","LETO","LEVS"],
-			   "airways": ["CENTA UN733"]
-            },
-			{
-            "direction": "ODD",
-			   "min_fl": 145,
-			   "max_fl": 345,
-			   "destinations": ["LEBB","LEBG","LEPP","LERJ","LESO","LEVT","LEXJ"],
-			   "airways": ["CENTA UN733"]
-            },
-			{
-            "direction": "ODD",
-			   "min_fl": 145,
-			   "airways": ["CENTA UN733"]
+			   "max_fl": 660,
+			   "airways": ["CENTA N733"]
             }
          ],
 		 	"MANDY": [
-            {
-            "direction": "ODD",
-			   "min_fl": 95,
-			   "max_fl": 145,
-			   "airways": ["MANDY R29"]
-            },
 			{
             "direction": "ODD",
-			   "min_fl": 145,
-			   "airways": ["MANDY UM176"]
+			   "min_fl": 95,
+			   "max_fl": 660,
+			   "airways": ["MANDY M176"]
             }
          ],
          "NARGO": [
