@@ -1,30 +1,35 @@
-# Control de AIRAC
+# Sectores de Operaciones - VATSIM Spain
+<img src="https://i.ibb.co/2Z7JJtK/White-Logo-ea89161722790689b4bf-1.png" width="400">
+<br>
+<br>
+¡Bienvenido al repositorio de GitHub del departamento de Operaciones de VATSIM Spain! <br> Aquí se encuentra todo el trabajo detrás de esos sectores que usamos a diario en Euroscope.
+ 
+<h3 align="center" href='https://vatsimspain.es'><a>¡Visítanos!</a></h3>
+ 
+## Requerimientos
+ 
+    1. Instalar Github Desktop: https://desktop.github.com/
+    2. Instalar Sublime Text: https://www.sublimetext.com/
+    3. Clonar Repositorio en github desktop.
+    4. Mover el fichero "pre-commit.file" a ".git/hooks/"
+    5. Seleccionar la rama correcta, en caso contrario no nos dejará subir los cambios.
+    6. Click Derecho en el Repositorio Operaciones y "Open in Sublime Text".
+ 
+## Autores
+ 
+- Roger Puig - [@rpuig2001](https://www.github.com/rpuig2001)
+- Alejandro Gallegos - [@ImAlex28](https://www.github.com/ImAlex28)
+- Álvaro Ruiz - [@ACCSP51](https://github.com/ACCSP51)
+- Toni Monner - [@ACCSP5](https://github.com/ACCSP5)
+ 
+## Releases
+ 
+ <img src="https://i.ibb.co/sRKgQ8n/image.webp" width="400">
 
-## Trabajar con el proyecto
-1. Instalar Github Desktop: https://desktop.github.com/
-2. instalar Sublime Text: https://www.sublimetext.com/
-3. Clonar Repositorio en github desktop.
-4. Mover el fichero ``pre-commit.file`` a ``.git/hooks/``
-5. Seleccionar la rama correcta. En caso contrario no nos dejará subir los cambios.
-6. Click Derecho en el Repositorio Operaciones y "Open in Sublime Text".
+<br>
+ <a href='https://files.aero-nav.com/LEXX'>¡Descarga nuestros sectores desde GNG!</a>
 
-</br>
+## Licencia
+ 
+[CC BY-NC-ND 4.0 DEED - Attribution-NonCommercial-NoDerivs 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-
-## Forma de trabajo.
-
-
-![image](https://user-images.githubusercontent.com/68125167/218854356-ced7c7b8-ade7-4cb0-8f2b-6780e749ed0c.png)
-
-
-### 1. Semana post-AIRAC-release.
-- Coger requisitos del AIRAC siguiente + 1 (Si el siguiente es 2302, trabajar en el 2303).
-- Crear Milestone por cada FIR y AIRAC (ej. 2303-LECB).
-- Crear Issue por cada cambio a hacer (Especificar Milestone y Labels).
-
-### 2. Una vez obtenidos requisitos.
-- Trabajar sobre la rama por cada airac (ej. 2302) y nunca sobre **ESTABLE**.
-- Hacer "Push" vinculando **siempre** una issue con # y el id de la issue -> #32.
-
-### 3. Dia previo salida AIRAC
-- Pull Request rama proximo airac a **ESTABLE**.
