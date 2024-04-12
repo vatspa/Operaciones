@@ -19,7 +19,7 @@
  
 - Roger Puig - [@rpuig2001](https://www.github.com/rpuig2001)
 - Alejandro Gallegos - [@ImAlex28](https://www.github.com/ImAlex28)
-- Álvaro Ruiz - [@ACCSP51](https://github.com/ACCSP51)
+- Álvaro Ruiz - [@ACCSP2](https://github.com/ACCSP2)
 - Toni Monner - [@ACCSP5](https://github.com/ACCSP5)
  
 ## Releases
