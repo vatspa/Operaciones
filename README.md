@@ -24,7 +24,7 @@
  
 ## Releases
  
- <img src="https://i.ibb.co/sRKgQ8n/image.webp" width="400">
+ <img src="https://i.ibb.co/307Td1v/image.png" width="400">
 
 <br>
  <a href='https://files.aero-nav.com/LEXX'>¡Descarga nuestros sectores desde GNG!</a>
