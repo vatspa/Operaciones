@@ -5,16 +5,7 @@
 ¡Bienvenido al repositorio de GitHub del departamento de Operaciones de VATSIM Spain! <br> Aquí se encuentra todo el trabajo detrás de esos sectores que usamos a diario en Euroscope.
  
 <h3 align="center" href='https://vatsimspain.es'><a>¡Visítanos!</a></h3>
- 
-## Requerimientos
- 
-    1. Instalar Github Desktop: https://desktop.github.com/
-    2. Instalar Sublime Text: https://www.sublimetext.com/
-    3. Clonar Repositorio en github desktop.
-    4. Mover el fichero "pre-commit.file" a ".git/hooks/"
-    5. Seleccionar la rama correcta, en caso contrario no nos dejará subir los cambios.
-    6. Click Derecho en el Repositorio Operaciones y "Open in Sublime Text".
- 
+
 ## Autores
  
 - Roger Puig - [@rpuig2001](https://www.github.com/rpuig2001)
