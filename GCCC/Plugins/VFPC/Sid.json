@@ -173,7 +173,7 @@
                "min_fl": 245,
                "max_fl": 999,
                "airways": ["BIMBO DCT"]
-            },
+            }
          ],
          "GDV": [
             {
