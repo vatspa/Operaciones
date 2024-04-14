@@ -4,7 +4,7 @@
 <br>
 ¡Bienvenido al repositorio de GitHub del departamento de Operaciones de VATSIM Spain! <br> Aquí se encuentra todo el trabajo detrás de esos sectores que usamos a diario en Euroscope.
  
-<h3 align="center" href='https://vatsimspain.es'><a>¡Visítanos!</a></h3>
+<h3 align="center"><a href='https://vatsimspain.es'>¡Visítanos!</a></h3>
 
 ## Autores
  
@@ -13,12 +13,12 @@
 - Álvaro Ruiz - [@ACCSP2](https://github.com/ACCSP2)
 - Toni Monner - [@ACCSP5](https://github.com/ACCSP5)
  
-## Releases
- 
+## Releases & Changelog
+
  <img src="https://i.ibb.co/307Td1v/image.png" width="400">
 
-<br>
- <a href='https://files.aero-nav.com/LEXX'>¡Descarga nuestros sectores desde GNG!</a>
+ - <a href='https://files.aero-nav.com/LEXX'>Descarga nuestros sectores desde GNG</a>
+ - <a href='https://docs.google.com/document/d/1t8Abxx8R0fpKQpqDan2SphetiTARFBUec7WPdNM3w7o/edit?usp=sharing'>Accede al changelog</a>
 
 ## Licencia
  
