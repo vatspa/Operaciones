@@ -950,7 +950,7 @@
 			   "min_fl": 95,
 			   "max_fl": 660,
 			   "airways": ["MEROS N853"]
-			},
+			}
          ],
 		  	"ISTER": [
             {
@@ -966,7 +966,7 @@
 			   "min_fl": 195,
 			   "max_fl": 500,
 			   "airways": ["MORSS M603"]
-            },
+            }
          ],
 		 	"MAMEB": [
             {
@@ -990,7 +990,7 @@
 			   "min_fl": 95,
 			   "max_fl": 245,
 			   "airways": ["MJV N861"],
-			   "destinations":["LEDA","LEZG"]
+			   "destinations": ["LEDA","LEZG"]
 			},
             {
 			   "direction": "EVEN",
