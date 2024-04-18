@@ -147,10 +147,15 @@ CCAMS:ACList/Mode S EHS/m_LineNumber:1
 CCAMS:ACList/Mode S EHS/m_Resizable:1
 CCAMS:ACList/Mode S EHS/m_OrderingColumn:1
 SACTA Plugin:SACTAClockVisibility:1
-SACTA Plugin:SACTAClockPositionX:101
+SACTA Plugin:SACTAClockPositionX:99
 SACTA Plugin:SACTAClockPositionY:708
 SACTA Plugin:SACTAVSPVVisibility:0
-SACTA Plugin:SACTAVSPVPositionX:1863
-SACTA Plugin:SACTAVSPVPositionY:659
-SACTA Plugin:SACTAVIGVisibility:0
+SACTA Plugin:SACTAVSPVPositionX:1866
+SACTA Plugin:SACTAVSPVPositionY:644
+SACTA Plugin:SACTAVIGVisibility:1
+SACTA Plugin:SACTAVIGPositionX:1604
+SACTA Plugin:SACTAVIGPositionY:946
+SACTA Plugin:SACTAVGPVVisibility:0
+SACTA Plugin:SACTAVGPVPositionX:1870
+SACTA Plugin:SACTAVGPVPositionY:997
 END

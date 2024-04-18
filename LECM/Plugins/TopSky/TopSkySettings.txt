@@ -544,6 +544,7 @@ Window_RawVideoControl=0,550
 Shortcut_Map_Target=0,LECM\VFR SECTORS
 Shortcut_Map_Target=1,LECM\TAXILINES
 Shortcut_Map_Target=2,LECM\STANDLINES
+Shortcut_Map_Target=3,LECM\HOLDS
 Shortcut_Map_Target=8,LECM\LOW AIRWAY
 Shortcut_Map_Target=9,LECM\HIGH AIRWAY
 
@@ -558,6 +559,8 @@ WXR_Brightness=20
 WXR_Gain=100
 WXR_ImageSize=512
 WXR_Zoom=5
+WXR_DisplayType=0
+
 HTTP_GRIB_Latitude_Max=47
 HTTP_GRIB_Latitude_Min=34
 HTTP_GRIB_Longitude_Max=1
