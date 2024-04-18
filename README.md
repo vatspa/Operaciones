@@ -19,8 +19,3 @@
 
  - <a href='https://files.aero-nav.com/LEXX'>Descarga nuestros sectores desde GNG</a>
  - <a href='https://docs.google.com/document/d/1t8Abxx8R0fpKQpqDan2SphetiTARFBUec7WPdNM3w7o/edit?usp=sharing'>Accede al changelog</a>
-
-## Licencia
- 
-[CC BY-NC-ND 4.0 DEED - Attribution-NonCommercial-NoDerivs 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
