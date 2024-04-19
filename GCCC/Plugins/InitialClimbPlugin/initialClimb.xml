@@ -411,6 +411,9 @@
 			<sid name="BIMBO">
 				<alt>240</alt>
 			</sid>
+			<sid name="COSSE">
+				<alt>070</alt>
+			</sid>
 			<sid name="DESUM">
 				<alt>240</alt>
 			</sid>
@@ -429,8 +432,20 @@
 			<sid name="KORAL">
 				<alt>240</alt>
 			</sid>
+			<sid name="MOROD">
+				<alt>070</alt>
+			</sid>
+			<sid name="ODEGI">
+				<alt>070</alt>
+			</sid>
+			<sid name="PELIN">
+				<alt>090</alt>
+			</sid>
 			<sid name="RASEP">
 				<alt>240</alt>
+			</sid>
+			<sid name="REMGI">
+				<alt>070</alt>
 			</sid>
 			<sid name="VASTO">
 				<alt>240</alt>
@@ -440,11 +455,17 @@
 			<sid name="BIMBO">
 				<alt>240</alt>
 			</sid>
+			<sid name="COSSE">
+				<alt>080</alt>
+			</sid>
 			<sid name="DESUM">
 				<alt>240</alt>
 			</sid>
 			<sid name="GDV">
 				<alt>240</alt>
+			</sid>
+			<sid name="HIE">
+				<alt>070</alt>
 			</sid>
 			<sid name="KASAS">
 				<alt>240</alt>
@@ -455,11 +476,20 @@
 			<sid name="KORAL">
 				<alt>240</alt>
 			</sid>
+			<sid name="MOROD">
+				<alt>070</alt>
+			</sid>
 			<sid name="ODEGI">
-				<alt>200</alt>
+				<alt>070</alt>
+			</sid>
+			<sid name="PELIN">
+				<alt>090</alt>
 			</sid>
 			<sid name="RASEP">
 				<alt>240</alt>
+			</sid>
+			<sid name="REMGI">
+				<alt>070</alt>
 			</sid>
 			<sid name="VASTO">
 				<alt>240</alt>
