@@ -74,7 +74,7 @@ m_Column:ACC:3:0:24:107:13:1:SACTA Plugin:SACTA Plugin:Ground Radar plugin:0:0.0
 m_Column:REQ:3:1:540:548:0:0:VCH:VCH::0:0.0
 m_Column:TIME:4:1:544:0:0:0:VCH:::0:0.0
 m_Column:INDICATIV:10:1:10021:6:8:1:TopSky plugin:TopSky plugin::0:0.0
-m_Column:A:1:1:10046:27:78:1:TopSky plugin::TopSky plugin:0:0.0
+m_Column:A:1:1:10130:27:155:1:TopSky plugin::TopSky plugin:0:0.0
 m_Column:N/TIPO:6:1:10022:0:0:1:TopSky plugin:::0:0.0
 m_Column:STND:5:1:1:13:1:1:Ground Radar plugin:Ground Radar plugin:Ground Radar plugin:0:0.0
 m_Column:EOBT:5:1:1:100:114:1:CDM Plugin:CDM Plugin:CDM Plugin:0:0.0
