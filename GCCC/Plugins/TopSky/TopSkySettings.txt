@@ -663,7 +663,7 @@ Window_ASM=0
 STCA_Floor=3077
 Setup_LoadView=RW3
 
-[GCCC_INB_CTR]
+[GCCA_INB_APP]
 WXR_Latitude=28.5
 WXR_Longitude=-17.3
 WXR_Latitude_Max=30.5

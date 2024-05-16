@@ -3076,6 +3076,7 @@
           "id": "461d1e70-afd3-4088-9e6d-c3861d7fc6c8",
           "name": "WEST",
           "airportConditions": "DEPARTURE RWY 30. ARRIVAL RWY 30. EXPECT ILS APPROACH RWY 30.",
+          "notams": "CAUTION, PARALLEL HOLDING POINT AT TIRIO",
           "template": "THIS IS [FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. [ARPT_COND]. [NOTAMS]. [FULL_WX_STRING]. [TL]. THIS WAS [FACILITY] ATIS INFORMATION [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false

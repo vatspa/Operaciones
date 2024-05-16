@@ -161,11 +161,11 @@ ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEIB_IXX_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEIB]
-ATIS3:SFC/FL245 - vats.im/lexx
+ATIS3:FL85/FL245 Arrivals Contact Me - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEIB_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEIB]
-ATIS3:SFC/FL85 - vats.im/lexx
+ATIS3:SFC/FL245 - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEIB_IXN_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEIB]
@@ -181,7 +181,7 @@ ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LELC_APP:150:5
 ATIS2:$radioname
-ATIS3:SFC/FL125 - vats.im/lexx
+ATIS3:SFC/FL115 - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LELL_GND:20:3
 ATIS2:$radioname
@@ -273,6 +273,6 @@ ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEVC_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEVC]
-ATIS3:SFC/FL125 - vats.im/lexx
+ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 END
