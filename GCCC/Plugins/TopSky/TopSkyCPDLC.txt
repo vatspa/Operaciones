@@ -1,5 +1,5 @@
 [DCL]
-DCL:*:SID:CLRD TO <ades> OFF <drwy> VIA <sid> ALT <cfl> SQUAWK <assr>. <startup_own>.
+DCL:*:SID:CLRD TO <ades> OFF <drwy> VIA <sid> ALT <cfl> SQUAWK <assr>.
 
 [FREETEXT]
 FREETEXT:UNICOM:MONITOR UNICOM 122.800
