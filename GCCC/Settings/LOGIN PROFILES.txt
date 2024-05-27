@@ -16,7 +16,7 @@ ATIS2:$radioname - CPDLC [CRW3]
 ATIS3:Covering Top Down GCTS/XO/GM/LA/HI - vats.im/gccc
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:GCCA_INB_APP:150:5
-ATIS2:$radionamee - PDC/DCL Datalink [CINB]
+ATIS2:$radioname - PDC/DCL Datalink [CINB]
 ATIS3:Covering GCTS/XO/GM/LA/HI below FL245 - vats.im/gccc
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:GCCA_AAC_APP:150:5
