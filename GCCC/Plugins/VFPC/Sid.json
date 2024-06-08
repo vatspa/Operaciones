@@ -639,6 +639,12 @@
                "direction": "EVEN",
                "min_fl": 195,
                "airways": ["BIMBO Q206","BIMBO UQ142"]
+            },
+            {
+            "direction": "EVEN",
+            "min_fl": 245,
+            "max_fl": 660,
+            "airways": ["BIMBO DCT"]
             }
          ],
          "HIE": [
