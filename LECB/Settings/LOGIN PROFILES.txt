@@ -145,7 +145,7 @@ ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEGE_A_TWR:50:4
 ATIS2:$radioname
-ATIS3:vats.im/lexx
+ATIS3:Procedural APP Service SFC/6500ft - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEIB_DEL:20:2
 ATIS2:$radioname - PDC/DCL Datalink [LEIB]
@@ -197,7 +197,7 @@ ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEMH_A_TWR:50:4
 ATIS2:$radioname - PDC/DCL Datalink [LEMH]
-ATIS3:vats.im/lexx
+ATIS3:Procedural APP Service SFC/6000ft - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LEMH_MXX_APP:150:5
 ATIS2:$radioname - PDC/DCL Datalink [LEMH]
@@ -253,7 +253,7 @@ ATIS3:vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LERS_A_TWR:50:4
 ATIS2:$radioname
-ATIS3:vats.im/lexx
+ATIS3:Procedural APP Service SFC/5500ft - vats.im/lexx
 ATIS4:Charts on aip.enaire.es/AIP/ - Want to provide feedback? feedback@vatsimspain.es
 PROFILE:LESU_I_TWR:50:4
 ATIS2:$radioname 
