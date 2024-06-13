@@ -228,25 +228,25 @@
     </apt>
 	<apt icao="LEIB">
 		<runway name="06">
-			<sid name="BAVER3R">
+			<sid name="BAVER">
 				<alt>040</alt>
 			</sid>
-			<sid name="EPAMA2F">
+			<sid name="EPAMA">
 				<alt>060</alt>
 			</sid>
-			<sid name="INSUB2F">
+			<sid name="INSUB">
 				<alt>040</alt>
 			</sid>
-			<sid name="KABRE2R">
+			<sid name="KABRE">
 				<alt>060</alt>
 			</sid>
-			<sid name="LAMPA2F">
+			<sid name="LAMPA">
 				<alt>060</alt>
 			</sid>
-			<sid name="MHN5F">
+			<sid name="MHN">
 				<alt>060</alt>
 			</sid>
-			<sid name="XOSTA3F">
+			<sid name="XOSTA">
 				<alt>060</alt>
 			</sid>
 		</runway>
