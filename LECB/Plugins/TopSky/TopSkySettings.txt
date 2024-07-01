@@ -1328,6 +1328,15 @@ Setup_LoadView=RST
 Airspace_AOR_Airports=LERS
 CPDLC_Default=0
 
+[LEVC_APP]
+Setup_ScreenLat=LEVC
+Window_CPDLC_Current=3,1545,0
+Window_CPDLC_Setting=3,0,380
+Window_ASM=0,0,250
+Setup_LoadView=VCA
+Airspace_AOR_Airports=LEVC,LECH
+CPDLC_Default=0
+
 [LEVC_DEL]
 Setup_ScreenLat=LEVC
 Window_CPDLC_Current=3,1545,0
