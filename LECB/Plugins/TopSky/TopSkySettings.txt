@@ -730,7 +730,7 @@ HTTP_GRIB_Longitude_Max=1
 HTTP_GRIB_Longitude_Min=-2
 WXR_Zoom=7
 Window_CPDLC_Current=3,1545,0
-Window_CPDLC_Setting=3,0,250
+Window_CPDLC_Setting=3,0,380
 Setup_ScreenLat=LEAL
 Setup_LoadView=ALA
 Airspace_AOR_Airports=LEAL,LELC,LEMI,LERI
@@ -749,10 +749,10 @@ HTTP_GRIB_Longitude_Max=1
 HTTP_GRIB_Longitude_Min=-2
 WXR_Zoom=7
 Window_CPDLC_Current=0,1545,0
-Window_CPDLC_Setting=0,0,250
+Window_CPDLC_Setting=0,0,380
 Setup_ScreenLat=LEAL
-Setup_LoadView=ALA
-Airspace_AOR_Airports=LEAL,LELC,LEMI,LERI
+Setup_LoadView=ALAD
+Airspace_AOR_Airports=LEAL
 Window_ASM=0,0,250
 
 [LEAL_TWR]
