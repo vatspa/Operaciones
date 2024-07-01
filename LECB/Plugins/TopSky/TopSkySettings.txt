@@ -737,22 +737,22 @@ Airspace_AOR_Airports=LEAL,LELC,LEMI,LERI
 Window_ASM=0,0,250
 
 [LEAL_DEP]
-WXR_Latitude=37.9
+WXR_Latitude=38
 WXR_Longitude=-0.8
-WXR_Latitude_Max=39
+WXR_Latitude_Max=39.8
 WXR_Latitude_Min=36.8
 WXR_Longitude_Max=0.5
 WXR_Longitude_Min=-2.2
-HTTP_GRIB_Latitude_Max=39
-HTTP_GRIB_Latitude_Min=37
+HTTP_GRIB_Latitude_Max=40
+HTTP_GRIB_Latitude_Min=36
 HTTP_GRIB_Longitude_Max=1
-HTTP_GRIB_Longitude_Min=-2
-WXR_Zoom=7
+HTTP_GRIB_Longitude_Min=-3
+WXR_Zoom=6
 Window_CPDLC_Current=0,1545,0
 Window_CPDLC_Setting=0,0,380
 Setup_ScreenLat=LEAL
-Setup_LoadView=ALAD
-Airspace_AOR_Airports=LEAL
+Setup_LoadView=ALA
+Airspace_AOR_Airports=LEAL,LELC,LEMI,LERI
 Window_ASM=0,0,250
 
 [LEAL_TWR]
